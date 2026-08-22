@@ -1,0 +1,14 @@
+.git
+.venv
+venv
+**/__pycache__
+**/*.pyc
+node_modules
+frontend/dist
+frontend/node_modules
+uploads
+*.log
+.env
+person-swap.jpg
+person-1672x941.jpg
+person-2672x1504.jpg

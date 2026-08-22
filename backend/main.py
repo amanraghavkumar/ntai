@@ -17,7 +17,7 @@ from uuid import uuid4
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import StreamingResponse
+from fastapi.responses import FileResponse, StreamingResponse
 from pydantic import BaseModel
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -963,6 +963,34 @@ def seed_core_from_disk() -> None:
     if news_parent.inbox:
         news_parent.analyze()
         bus.emit("core_update", news_parent.analysis)
+
+
+DIST = ROOT / "frontend" / "dist"
+
+
+@app.get("/")
+def spa_index():
+    index = DIST / "index.html"
+    if index.exists():
+        return FileResponse(index)
+    return {"ok": True, "service": "agent-hud-api"}
+
+
+@app.get("/{full_path:path}")
+def spa_assets(full_path: str):
+    if full_path.startswith("api/") or full_path == "api":
+        raise HTTPException(404, "Not Found")
+    candidate = (DIST / full_path).resolve()
+    try:
+        candidate.relative_to(DIST.resolve())
+    except ValueError:
+        raise HTTPException(404, "Not Found")
+    if candidate.is_file():
+        return FileResponse(candidate)
+    index = DIST / "index.html"
+    if index.exists():
+        return FileResponse(index)
+    raise HTTPException(404, "Not Found")
 
 
 @app.on_event("startup")
