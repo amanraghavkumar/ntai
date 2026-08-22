@@ -1,0 +1,16 @@
+{
+  "name": "sector_news_agent",
+  "display_name": "Sector News Agent",
+  "parent": "news_agent",
+  "status": "idle",
+  "version": "2.0.0",
+  "sectors": ["sugar", "IT", "pharma", "banking", "auto"],
+  "sources": [
+    "google_news",
+    "economic_times",
+    "moneycontrol",
+    "nse_announcements"
+  ],
+  "mode": "live",
+  "description": "Live sector news from Google News, ET, Moneycontrol and NSE. No scripted headlines."
+}

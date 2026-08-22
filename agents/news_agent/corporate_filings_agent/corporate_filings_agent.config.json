@@ -1,0 +1,10 @@
+{
+  "name": "corporate_filings_agent",
+  "display_name": "Corporate Filings Agent",
+  "parent": "news_agent",
+  "status": "idle",
+  "version": "1.0.0",
+  "mode": "live",
+  "sources": ["nse_announcements", "google_news_results", "google_news_insider", "economic_times"],
+  "description": "Live NSE announcements, results, insider/SAST, board and dividend flow."
+}

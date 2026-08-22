@@ -1,0 +1,8 @@
+{
+  "name": "social_agent",
+  "display_name": "Social Agent",
+  "role": "parent",
+  "status": "online",
+  "version": "1.0.0",
+  "description": "Retail buzz hub. Live Reddit first. Twitter child is a stub until a public source works."
+}

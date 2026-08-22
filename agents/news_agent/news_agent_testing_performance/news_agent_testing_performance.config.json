@@ -1,0 +1,10 @@
+{
+  "name": "news_agent_testing_performance",
+  "display_name": "News Agent Testing Performance",
+  "parent": "news_agent",
+  "status": "idle",
+  "version": "1.0.0",
+  "mode": "walk_forward",
+  "role": "tester",
+  "description": "Day-wise walk-forward: analyse only that day's news, then score next-session price. No leakage."
+}

@@ -1,0 +1,10 @@
+{
+  "name": "after_hours_agent",
+  "display_name": "After-Hours / Weekend Agent",
+  "parent": "news_agent",
+  "status": "idle",
+  "version": "1.0.0",
+  "mode": "live",
+  "role": "satellite",
+  "description": "Keeps only headlines published after NSE close, on the weekend, or before Monday open. Regular-session tape is dropped on purpose."
+}

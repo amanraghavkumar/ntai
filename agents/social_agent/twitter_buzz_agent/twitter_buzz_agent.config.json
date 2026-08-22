@@ -1,0 +1,9 @@
+{
+  "name": "twitter_buzz_agent",
+  "display_name": "Twitter Buzz Agent",
+  "parent": "social_agent",
+  "status": "idle",
+  "version": "0.1.0",
+  "mode": "stub",
+  "description": "Folder ready. Official X/Twitter API is paid. Not wired with fake tweets."
+}

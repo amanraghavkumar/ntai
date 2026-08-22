@@ -1,0 +1,60 @@
+{"timestamp": "2026-08-22T17:35:26.885208+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "After-Hours Agent online. Session tape will be dropped."}
+{"timestamp": "2026-08-22T17:35:26.944295+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Moneycontrol Latest: 15 raw"}
+{"timestamp": "2026-08-22T17:35:26.972738+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Moneycontrol Business: 15 raw"}
+{"timestamp": "2026-08-22T17:35:27.047165+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "ET Stocks: 50 raw"}
+{"timestamp": "2026-08-22T17:35:27.063449+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "ET Markets: 50 raw"}
+{"timestamp": "2026-08-22T17:35:27.166104+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Google News · India stocks: 34 raw"}
+{"timestamp": "2026-08-22T17:35:27.411930+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Google News · after-hours India: 100 raw"}
+{"timestamp": "2026-08-22T17:35:27.607605+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Kept 7 unpriced. Dropped session=186 no-date=0 no-named-company=68."}
+{"timestamp": "2026-08-22T17:35:27.608038+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Forwarding 7 unpriced packets (after_close=2, weekend=5)."}
+{"timestamp": "2026-08-22T17:35:27.608343+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:12:53.152467+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "After-Hours Agent online. Session tape will be dropped."}
+{"timestamp": "2026-08-22T21:12:54.976408+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "ET Markets: 50 raw"}
+{"timestamp": "2026-08-22T21:12:54.977272+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "ET Stocks: 50 raw"}
+{"timestamp": "2026-08-22T21:12:56.081060+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Google News · after-hours India: 100 raw"}
+{"timestamp": "2026-08-22T21:12:56.240893+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Google News · India stocks: 34 raw"}
+{"timestamp": "2026-08-22T21:12:57.369279+00:00", "level": "warn", "agent_name": "after_hours_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:12:58.189071+00:00", "level": "warn", "agent_name": "after_hours_agent", "message": "Moneycontrol Business unavailable: https://www.moneycontrol.com/rss/business.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:12:59.060921+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Kept 7 unpriced. Dropped session=156 no-date=0 no-named-company=68."}
+{"timestamp": "2026-08-22T21:12:59.115757+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Forwarding 7 unpriced packets (after_close=2, weekend=5)."}
+{"timestamp": "2026-08-22T21:12:59.117601+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:17:25.283112+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "After-Hours Agent online. Session tape will be dropped."}
+{"timestamp": "2026-08-22T21:17:26.713620+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "ET Markets: 50 raw"}
+{"timestamp": "2026-08-22T21:17:26.714781+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "ET Stocks: 50 raw"}
+{"timestamp": "2026-08-22T21:17:27.649894+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Google News · India stocks: 34 raw"}
+{"timestamp": "2026-08-22T21:17:27.813912+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Google News · after-hours India: 100 raw"}
+{"timestamp": "2026-08-22T21:17:29.094364+00:00", "level": "warn", "agent_name": "after_hours_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:17:29.175348+00:00", "level": "warn", "agent_name": "after_hours_agent", "message": "Moneycontrol Business unavailable: https://www.moneycontrol.com/rss/business.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:17:29.708345+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Kept 7 unpriced. Dropped session=156 no-date=0 no-named-company=68."}
+{"timestamp": "2026-08-22T21:17:29.719706+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Forwarding 7 unpriced packets (after_close=2, weekend=5)."}
+{"timestamp": "2026-08-22T21:17:29.774432+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:30:10.543154+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "After-Hours Agent online. Session tape will be dropped."}
+{"timestamp": "2026-08-22T21:30:11.922944+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "ET Markets: 50 raw"}
+{"timestamp": "2026-08-22T21:30:11.962550+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "ET Stocks: 50 raw"}
+{"timestamp": "2026-08-22T21:30:12.216187+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Google News · after-hours India: 10 raw"}
+{"timestamp": "2026-08-22T21:30:12.690933+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Google News · India stocks: 34 raw"}
+{"timestamp": "2026-08-22T21:30:13.996231+00:00", "level": "warn", "agent_name": "after_hours_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:30:14.326866+00:00", "level": "warn", "agent_name": "after_hours_agent", "message": "Moneycontrol Business unavailable: https://www.moneycontrol.com/rss/business.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:30:14.941292+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Kept 7 unpriced. Dropped session=66 no-date=0 no-named-company=68."}
+{"timestamp": "2026-08-22T21:30:15.027863+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Forwarding 7 unpriced packets (after_close=2, weekend=5)."}
+{"timestamp": "2026-08-22T21:30:15.056812+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:44:34.636875+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "After-Hours Agent online. Session tape will be dropped."}
+{"timestamp": "2026-08-22T21:44:35.623044+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "ET Markets: 50 raw"}
+{"timestamp": "2026-08-22T21:44:35.647224+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "ET Stocks: 50 raw"}
+{"timestamp": "2026-08-22T21:44:36.328865+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Google News · India stocks: 34 raw"}
+{"timestamp": "2026-08-22T21:44:36.494045+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Google News · after-hours India: 100 raw"}
+{"timestamp": "2026-08-22T21:44:38.102904+00:00", "level": "warn", "agent_name": "after_hours_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:44:38.348523+00:00", "level": "warn", "agent_name": "after_hours_agent", "message": "Moneycontrol Business unavailable: https://www.moneycontrol.com/rss/business.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:44:39.674108+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Kept 7 unpriced. Dropped session=156 no-date=0 no-named-company=68."}
+{"timestamp": "2026-08-22T21:44:39.719946+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Forwarding 7 unpriced packets (after_close=2, weekend=5)."}
+{"timestamp": "2026-08-22T21:44:39.730188+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T22:08:32.157616+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "After-Hours Agent online. Session tape will be dropped."}
+{"timestamp": "2026-08-22T22:08:34.927140+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "ET Stocks: 50 raw"}
+{"timestamp": "2026-08-22T22:08:35.017226+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "ET Markets: 50 raw"}
+{"timestamp": "2026-08-22T22:08:35.550430+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Google News · India stocks: 34 raw"}
+{"timestamp": "2026-08-22T22:08:35.902708+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Google News · after-hours India: 100 raw"}
+{"timestamp": "2026-08-22T22:08:36.895286+00:00", "level": "warn", "agent_name": "after_hours_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T22:08:38.767709+00:00", "level": "warn", "agent_name": "after_hours_agent", "message": "Moneycontrol Business unavailable: https://www.moneycontrol.com/rss/business.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T22:08:41.300054+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Kept 7 unpriced. Dropped session=156 no-date=0 no-named-company=68."}
+{"timestamp": "2026-08-22T22:08:41.345213+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Forwarding 7 unpriced packets (after_close=2, weekend=5)."}
+{"timestamp": "2026-08-22T22:08:41.394126+00:00", "level": "info", "agent_name": "after_hours_agent", "message": "Cycle complete."}

@@ -1,0 +1,10 @@
+{
+  "name": "sentiment_agent",
+  "display_name": "Sentiment Agent",
+  "parent": "news_agent",
+  "status": "idle",
+  "version": "1.0.0",
+  "mode": "live",
+  "sources": ["google_news_markets", "google_news_rally_crash", "economic_times", "moneycontrol"],
+  "description": "Live headline sentiment: positive, negative or neutral."
+}

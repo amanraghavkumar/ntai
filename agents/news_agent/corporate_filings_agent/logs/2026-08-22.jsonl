@@ -1,0 +1,109 @@
+{"timestamp": "2026-08-22T15:38:51.013997+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T15:38:51.090709+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T15:38:51.284197+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 22 live items"}
+{"timestamp": "2026-08-22T15:38:51.294942+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 28 live items"}
+{"timestamp": "2026-08-22T15:38:51.320293+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 35 live items"}
+{"timestamp": "2026-08-22T15:38:51.329320+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 497 live items"}
+{"timestamp": "2026-08-22T15:38:51.343377+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 118 filings to news_agent (agm_egm=83, board_meeting=40, credit_rating=6, dividend=27, financial_results=26, insider_trade=13, merger_acquisition=13, order_win=2, other_disclosure=411, shareholding=4)."}
+{"timestamp": "2026-08-22T15:38:51.344578+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T15:41:18.437955+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T15:41:18.640376+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 22 live items"}
+{"timestamp": "2026-08-22T15:41:18.661533+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 35 live items"}
+{"timestamp": "2026-08-22T15:41:18.686231+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T15:41:18.737870+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 497 live items"}
+{"timestamp": "2026-08-22T15:41:18.755636+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 28 live items"}
+{"timestamp": "2026-08-22T15:41:18.769608+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 118 filings to news_agent (agm_egm=83, board_meeting=40, credit_rating=6, dividend=27, financial_results=26, insider_trade=13, merger_acquisition=13, order_win=2, other_disclosure=328, shareholding=4)."}
+{"timestamp": "2026-08-22T15:41:18.771282+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T15:42:09.060445+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T15:42:09.074229+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 22 live items"}
+{"timestamp": "2026-08-22T15:42:09.076481+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 28 live items"}
+{"timestamp": "2026-08-22T15:42:09.078724+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 35 live items"}
+{"timestamp": "2026-08-22T15:42:09.253159+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T15:42:09.297301+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 497 live items"}
+{"timestamp": "2026-08-22T15:42:09.312853+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 118 filings to news_agent (agm_egm=83, board_meeting=40, credit_rating=6, dividend=27, financial_results=26, insider_trade=13, merger_acquisition=13, order_win=2, other_disclosure=328, shareholding=4)."}
+{"timestamp": "2026-08-22T15:42:09.314299+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T16:28:30.530873+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T16:28:30.618696+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T16:28:30.753297+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 22 live items"}
+{"timestamp": "2026-08-22T16:28:30.792038+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 29 live items"}
+{"timestamp": "2026-08-22T16:28:30.805410+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 34 live items"}
+{"timestamp": "2026-08-22T16:28:30.875217+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 497 live items"}
+{"timestamp": "2026-08-22T16:28:30.891293+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 118 filings to news_agent (agm_egm=83, board_meeting=39, credit_rating=6, dividend=27, financial_results=26, insider_trade=13, merger_acquisition=13, order_win=2, other_disclosure=328, shareholding=4)."}
+{"timestamp": "2026-08-22T16:28:30.892992+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T16:38:11.852513+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T16:38:11.933716+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T16:38:12.081681+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 22 live items"}
+{"timestamp": "2026-08-22T16:38:12.091820+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 34 live items"}
+{"timestamp": "2026-08-22T16:38:12.121953+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 27 live items"}
+{"timestamp": "2026-08-22T16:38:48.753473+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T16:38:48.768080+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 22 live items"}
+{"timestamp": "2026-08-22T16:38:48.771160+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 34 live items"}
+{"timestamp": "2026-08-22T16:38:48.775844+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 27 live items"}
+{"timestamp": "2026-08-22T16:38:48.862250+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T16:38:48.984834+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 509 live items"}
+{"timestamp": "2026-08-22T16:38:49.010252+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 120 filings to news_agent (agm_egm=83, board_meeting=39, credit_rating=6, dividend=27, financial_results=19, insider_trade=13, merger_acquisition=14, order_win=3, other_disclosure=338, shareholding=4)."}
+{"timestamp": "2026-08-22T16:38:49.012262+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:12:52.566712+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:12:53.336221+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 2 live items"}
+{"timestamp": "2026-08-22T21:12:53.997912+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 21 live items"}
+{"timestamp": "2026-08-22T21:12:54.663135+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T21:12:55.032553+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 30 live items"}
+{"timestamp": "2026-08-22T21:12:55.440244+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 27 live items"}
+{"timestamp": "2026-08-22T21:12:55.912005+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 41 filings to news_agent (agm_egm=1, board_meeting=4, dividend=10, financial_results=11, insider_trade=5, merger_acquisition=3, order_win=2, other_disclosure=2, shareholding=3)."}
+{"timestamp": "2026-08-22T21:12:56.075735+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:13:13.045295+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:13:13.283499+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 2 live items"}
+{"timestamp": "2026-08-22T21:13:13.336633+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T21:13:13.491129+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 21 live items"}
+{"timestamp": "2026-08-22T21:13:13.782769+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 27 live items"}
+{"timestamp": "2026-08-22T21:13:13.794435+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 30 live items"}
+{"timestamp": "2026-08-22T21:13:14.132612+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 41 filings to news_agent (agm_egm=1, board_meeting=4, dividend=10, financial_results=11, insider_trade=5, merger_acquisition=3, order_win=2, other_disclosure=2, shareholding=3)."}
+{"timestamp": "2026-08-22T21:13:14.255997+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:13:17.579345+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:13:17.736122+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 2 live items"}
+{"timestamp": "2026-08-22T21:13:17.798745+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T21:13:18.550924+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 9 live items"}
+{"timestamp": "2026-08-22T21:13:18.590490+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 27 live items"}
+{"timestamp": "2026-08-22T21:13:18.621781+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 30 live items"}
+{"timestamp": "2026-08-22T21:13:18.633596+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 34 filings to news_agent (agm_egm=1, board_meeting=4, dividend=10, financial_results=10, insider_trade=2, merger_acquisition=2, order_win=2, other_disclosure=2, shareholding=1)."}
+{"timestamp": "2026-08-22T21:13:18.635654+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:13:21.999086+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:13:22.186578+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 2 live items"}
+{"timestamp": "2026-08-22T21:13:22.246477+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 9 live items"}
+{"timestamp": "2026-08-22T21:13:22.264455+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T21:13:22.309563+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 27 live items"}
+{"timestamp": "2026-08-22T21:13:22.326761+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 30 live items"}
+{"timestamp": "2026-08-22T21:13:22.334854+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 34 filings to news_agent (agm_egm=1, board_meeting=4, dividend=10, financial_results=10, insider_trade=2, merger_acquisition=2, order_win=2, other_disclosure=2, shareholding=1)."}
+{"timestamp": "2026-08-22T21:13:22.336739+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:17:23.903215+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:17:25.207288+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 2 live items"}
+{"timestamp": "2026-08-22T21:17:25.276285+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 21 live items"}
+{"timestamp": "2026-08-22T21:17:25.283794+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 27 live items"}
+{"timestamp": "2026-08-22T21:17:25.566593+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T21:17:25.582955+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 30 live items"}
+{"timestamp": "2026-08-22T21:17:25.637793+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 41 filings to news_agent (agm_egm=1, board_meeting=4, dividend=10, financial_results=11, insider_trade=5, merger_acquisition=3, order_win=2, other_disclosure=2, shareholding=3)."}
+{"timestamp": "2026-08-22T21:17:25.655447+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:30:09.510180+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:30:10.545592+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 21 live items"}
+{"timestamp": "2026-08-22T21:30:10.546234+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 28 live items"}
+{"timestamp": "2026-08-22T21:30:10.546928+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 2 live items"}
+{"timestamp": "2026-08-22T21:30:10.611623+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 30 live items"}
+{"timestamp": "2026-08-22T21:30:10.901332+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T21:30:11.003130+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 42 filings to news_agent (agm_egm=1, board_meeting=4, dividend=10, financial_results=12, insider_trade=4, merger_acquisition=3, order_win=2, other_disclosure=2, shareholding=4)."}
+{"timestamp": "2026-08-22T21:30:11.009216+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:44:33.624215+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:44:34.814839+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 2 live items"}
+{"timestamp": "2026-08-22T21:44:34.958088+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 28 live items"}
+{"timestamp": "2026-08-22T21:44:35.126020+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T21:44:35.336930+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 21 live items"}
+{"timestamp": "2026-08-22T21:44:35.439415+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 30 live items"}
+{"timestamp": "2026-08-22T21:44:35.496646+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 42 filings to news_agent (agm_egm=1, board_meeting=4, dividend=10, financial_results=12, insider_trade=5, merger_acquisition=3, order_win=2, other_disclosure=2, shareholding=3)."}
+{"timestamp": "2026-08-22T21:44:35.498349+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T22:08:31.355858+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Corporate Filings Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T22:08:32.219213+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "NSE Online Announcements: 2 live items"}
+{"timestamp": "2026-08-22T22:08:32.452367+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Results: 28 live items"}
+{"timestamp": "2026-08-22T22:08:32.553459+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Insider / SAST: 21 live items"}
+{"timestamp": "2026-08-22T22:08:32.638980+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T22:08:32.680028+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Google News · Board / Dividend: 30 live items"}
+{"timestamp": "2026-08-22T22:08:32.777768+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Forwarding 41 filings to news_agent (agm_egm=1, board_meeting=4, dividend=10, financial_results=11, insider_trade=4, merger_acquisition=3, order_win=2, other_disclosure=2, shareholding=4)."}
+{"timestamp": "2026-08-22T22:08:32.779863+00:00", "level": "info", "agent_name": "corporate_filings_agent", "message": "Cycle complete."}

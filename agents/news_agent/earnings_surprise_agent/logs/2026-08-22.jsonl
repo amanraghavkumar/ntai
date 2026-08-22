@@ -1,0 +1,42 @@
+{"timestamp": "2026-08-22T17:42:09.195218+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Earnings Surprise Agent online. Will not invent EPS numbers."}
+{"timestamp": "2026-08-22T17:42:09.276031+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "ET Stocks: 50 raw"}
+{"timestamp": "2026-08-22T17:42:09.302561+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Moneycontrol Latest: 15 raw"}
+{"timestamp": "2026-08-22T17:42:09.608566+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Google News · Results: 55 raw"}
+{"timestamp": "2026-08-22T17:42:09.667538+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Google News · Q results: 100 raw"}
+{"timestamp": "2026-08-22T17:42:09.874994+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Kept 36 named results notes. Dropped 123. beat=14, miss=4, results_only=79"}
+{"timestamp": "2026-08-22T17:42:09.875800+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:12:53.488440+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Earnings Surprise Agent online. Will not invent EPS numbers."}
+{"timestamp": "2026-08-22T21:12:55.305501+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Google News · Results: 55 raw"}
+{"timestamp": "2026-08-22T21:12:55.842603+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "ET Stocks: 50 raw"}
+{"timestamp": "2026-08-22T21:12:56.077075+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Google News · Q results: 100 raw"}
+{"timestamp": "2026-08-22T21:12:58.919059+00:00", "level": "warn", "agent_name": "earnings_surprise_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:12:59.655149+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Kept 37 named results notes. Dropped 107. beat=15, miss=4, results_only=79"}
+{"timestamp": "2026-08-22T21:12:59.702274+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:17:25.345739+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Earnings Surprise Agent online. Will not invent EPS numbers."}
+{"timestamp": "2026-08-22T21:17:26.379691+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Google News · Results: 55 raw"}
+{"timestamp": "2026-08-22T21:17:26.534476+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "ET Stocks: 50 raw"}
+{"timestamp": "2026-08-22T21:17:26.884817+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Google News · Q results: 100 raw"}
+{"timestamp": "2026-08-22T21:17:29.410329+00:00", "level": "warn", "agent_name": "earnings_surprise_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:17:30.326452+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Kept 37 named results notes. Dropped 107. beat=15, miss=4, results_only=79"}
+{"timestamp": "2026-08-22T21:17:30.361236+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:30:11.141653+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Earnings Surprise Agent online. Will not invent EPS numbers."}
+{"timestamp": "2026-08-22T21:30:12.203115+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "ET Stocks: 50 raw"}
+{"timestamp": "2026-08-22T21:30:12.376320+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Google News · Results: 55 raw"}
+{"timestamp": "2026-08-22T21:30:12.606267+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Google News · Q results: 100 raw"}
+{"timestamp": "2026-08-22T21:30:14.696865+00:00", "level": "warn", "agent_name": "earnings_surprise_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:30:15.364700+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Kept 35 named results notes. Dropped 109. beat=13, miss=4, results_only=79"}
+{"timestamp": "2026-08-22T21:30:15.478797+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:44:34.482986+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Earnings Surprise Agent online. Will not invent EPS numbers."}
+{"timestamp": "2026-08-22T21:44:35.590938+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "ET Stocks: 50 raw"}
+{"timestamp": "2026-08-22T21:44:35.731398+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Google News · Results: 58 raw"}
+{"timestamp": "2026-08-22T21:44:35.881231+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Google News · Q results: 100 raw"}
+{"timestamp": "2026-08-22T21:44:38.352751+00:00", "level": "warn", "agent_name": "earnings_surprise_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:44:39.573740+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Kept 37 named results notes. Dropped 110. beat=15, miss=4, results_only=79"}
+{"timestamp": "2026-08-22T21:44:39.843651+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T22:08:32.287663+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Earnings Surprise Agent online. Will not invent EPS numbers."}
+{"timestamp": "2026-08-22T22:08:34.620352+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "ET Stocks: 50 raw"}
+{"timestamp": "2026-08-22T22:08:34.668350+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Google News · Results: 58 raw"}
+{"timestamp": "2026-08-22T22:08:34.826332+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Google News · Q results: 100 raw"}
+{"timestamp": "2026-08-22T22:08:38.741834+00:00", "level": "warn", "agent_name": "earnings_surprise_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T22:08:41.325871+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Kept 37 named results notes. Dropped 110. beat=15, miss=4, results_only=79"}
+{"timestamp": "2026-08-22T22:08:41.345512+00:00", "level": "info", "agent_name": "earnings_surprise_agent", "message": "Cycle complete."}

@@ -1,0 +1,10 @@
+{
+  "name": "historical_correlation_agent",
+  "display_name": "Historical Correlation Agent",
+  "parent": "news_agent",
+  "status": "idle",
+  "version": "1.0.0",
+  "mode": "live",
+  "sources": ["moneycontrol_nse", "google_news_company"],
+  "description": "Maps today's company news to NSE 6-month prices and 5-day reaction after similar headlines."
+}

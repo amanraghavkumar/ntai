@@ -1,0 +1,64 @@
+{"timestamp": "2026-08-22T15:54:21.622095+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Macro Policy Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T15:54:21.723988+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "ET News: 50 live items"}
+{"timestamp": "2026-08-22T15:54:21.981963+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Crude / energy: 76 live items"}
+{"timestamp": "2026-08-22T15:54:21.984917+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Budget / GST: 27 live items"}
+{"timestamp": "2026-08-22T15:54:22.066609+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · RBI / MPC: 100 live items"}
+{"timestamp": "2026-08-22T15:54:22.159408+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Fed / global: 90 live items"}
+{"timestamp": "2026-08-22T15:54:22.166902+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Forwarding 80 policy items (energy=83, fiscal=26, global=76, monetary=100, regulation=4, trade=4)."}
+{"timestamp": "2026-08-22T15:54:22.168139+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T15:56:08.436730+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Macro Policy Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T15:56:08.452873+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Budget / GST: 27 live items"}
+{"timestamp": "2026-08-22T15:56:08.465171+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Fed / global: 90 live items"}
+{"timestamp": "2026-08-22T15:56:08.471333+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · RBI / MPC: 100 live items"}
+{"timestamp": "2026-08-22T15:56:08.475741+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Crude / energy: 76 live items"}
+{"timestamp": "2026-08-22T15:56:08.593669+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "ET News: 50 live items"}
+{"timestamp": "2026-08-22T15:56:08.602389+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Forwarding 80 policy items (energy=83, fiscal=26, global=76, monetary=100, regulation=4, trade=4)."}
+{"timestamp": "2026-08-22T15:56:08.604056+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T16:31:14.405796+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Macro Policy Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T16:31:14.502486+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "ET News: 50 live items"}
+{"timestamp": "2026-08-22T16:31:14.672540+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Budget / GST: 27 live items"}
+{"timestamp": "2026-08-22T16:31:14.755992+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Crude / energy: 76 live items"}
+{"timestamp": "2026-08-22T16:31:14.785300+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · RBI / MPC: 100 live items"}
+{"timestamp": "2026-08-22T16:31:14.861142+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Fed / global: 90 live items"}
+{"timestamp": "2026-08-22T16:31:14.870285+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Forwarding 79 policy items (energy=82, fiscal=28, global=77, monetary=100, regulation=3, trade=4)."}
+{"timestamp": "2026-08-22T16:31:14.871999+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:12:52.702803+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Macro Policy Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:12:54.766975+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · RBI / MPC: 100 live items"}
+{"timestamp": "2026-08-22T21:12:54.769453+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Budget / GST: 27 live items"}
+{"timestamp": "2026-08-22T21:12:54.929626+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Fed / global: 88 live items"}
+{"timestamp": "2026-08-22T21:12:55.102516+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "ET News: 50 live items"}
+{"timestamp": "2026-08-22T21:12:55.161313+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Crude / energy: 76 live items"}
+{"timestamp": "2026-08-22T21:12:56.196850+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Forwarding 76 policy items (energy=81, fiscal=27, global=74, monetary=101, regulation=1, trade=3)."}
+{"timestamp": "2026-08-22T21:12:56.203455+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:17:23.939703+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Macro Policy Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:17:25.268623+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · RBI / MPC: 100 live items"}
+{"timestamp": "2026-08-22T21:17:25.291640+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Budget / GST: 28 live items"}
+{"timestamp": "2026-08-22T21:17:25.566152+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "ET News: 50 live items"}
+{"timestamp": "2026-08-22T21:17:25.578228+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Fed / global: 88 live items"}
+{"timestamp": "2026-08-22T21:17:26.105378+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Crude / energy: 76 live items"}
+{"timestamp": "2026-08-22T21:17:26.181035+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Forwarding 76 policy items (energy=81, fiscal=28, global=74, monetary=101, regulation=1, trade=3)."}
+{"timestamp": "2026-08-22T21:17:26.510451+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:30:09.542774+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Macro Policy Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:30:10.863457+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Budget / GST: 27 live items"}
+{"timestamp": "2026-08-22T21:30:10.876865+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · RBI / MPC: 100 live items"}
+{"timestamp": "2026-08-22T21:30:11.261518+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "ET News: 50 live items"}
+{"timestamp": "2026-08-22T21:30:11.611336+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Fed / global: 88 live items"}
+{"timestamp": "2026-08-22T21:30:11.661576+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Crude / energy: 76 live items"}
+{"timestamp": "2026-08-22T21:30:11.715465+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Forwarding 76 policy items (energy=81, fiscal=27, global=74, monetary=101, regulation=1, trade=3)."}
+{"timestamp": "2026-08-22T21:30:11.815559+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:44:34.185340+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Macro Policy Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:44:35.207947+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · RBI / MPC: 100 live items"}
+{"timestamp": "2026-08-22T21:44:35.393177+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Budget / GST: 28 live items"}
+{"timestamp": "2026-08-22T21:44:35.788826+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Fed / global: 87 live items"}
+{"timestamp": "2026-08-22T21:44:35.846419+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Crude / energy: 76 live items"}
+{"timestamp": "2026-08-22T21:44:35.915323+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "ET News: 50 live items"}
+{"timestamp": "2026-08-22T21:44:36.000757+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Forwarding 76 policy items (energy=80, fiscal=28, global=74, monetary=101, regulation=1, trade=3)."}
+{"timestamp": "2026-08-22T21:44:36.129713+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T22:08:31.956016+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Macro Policy Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T22:08:34.080580+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Budget / GST: 28 live items"}
+{"timestamp": "2026-08-22T22:08:34.115018+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · RBI / MPC: 100 live items"}
+{"timestamp": "2026-08-22T22:08:34.386511+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Fed / global: 88 live items"}
+{"timestamp": "2026-08-22T22:08:34.665138+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Google News · Crude / energy: 76 live items"}
+{"timestamp": "2026-08-22T22:08:34.781766+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "ET News: 50 live items"}
+{"timestamp": "2026-08-22T22:08:35.001806+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Forwarding 76 policy items (energy=81, fiscal=28, global=74, monetary=101, regulation=1, trade=3)."}
+{"timestamp": "2026-08-22T22:08:35.007501+00:00", "level": "info", "agent_name": "macro_policy_agent", "message": "Cycle complete."}

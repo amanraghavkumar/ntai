@@ -1,0 +1,15 @@
+{
+  "name": "news_agent",
+  "display_name": "News Agent",
+  "status": "online",
+  "connected_to": "central_orb",
+  "version": "1.0.0",
+  "agents": [
+    "sector_news_agent",
+    "corporate_filings_agent",
+    "macro_policy_agent",
+    "sentiment_agent",
+    "historical_correlation_agent"
+  ],
+  "description": "Parent news agent. Collects structured items from child agents and forwards them to the central orb."
+}

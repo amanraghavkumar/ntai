@@ -1,0 +1,56 @@
+{"timestamp": "2026-08-22T16:07:32.729405+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Sentiment Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T16:07:32.797019+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Moneycontrol Latest: 15 live items"}
+{"timestamp": "2026-08-22T16:07:32.943107+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T16:07:33.168351+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · India markets: 100 live items"}
+{"timestamp": "2026-08-22T16:07:33.181371+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · stocks rally crash: 100 live items"}
+{"timestamp": "2026-08-22T16:07:33.188247+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Forwarding 90 scored headlines (negative=52, neutral=75, positive=129)."}
+{"timestamp": "2026-08-22T16:07:33.189416+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T16:07:42.718280+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Sentiment Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T16:07:42.743720+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · India markets: 100 live items"}
+{"timestamp": "2026-08-22T16:07:42.750391+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · stocks rally crash: 100 live items"}
+{"timestamp": "2026-08-22T16:07:42.799968+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T16:07:42.831825+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Moneycontrol Latest: 15 live items"}
+{"timestamp": "2026-08-22T16:07:42.840096+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Forwarding 90 scored headlines (negative=52, neutral=75, positive=129)."}
+{"timestamp": "2026-08-22T16:07:42.842520+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T16:30:31.549060+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Sentiment Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T16:30:31.623848+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T16:30:31.627009+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Moneycontrol Latest: 15 live items"}
+{"timestamp": "2026-08-22T16:30:31.985689+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · India markets: 100 live items"}
+{"timestamp": "2026-08-22T16:30:31.995680+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · stocks rally crash: 100 live items"}
+{"timestamp": "2026-08-22T16:30:32.003709+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Forwarding 90 scored headlines (negative=52, neutral=75, positive=129)."}
+{"timestamp": "2026-08-22T16:30:32.016181+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:12:52.653137+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Sentiment Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:12:54.631515+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T21:12:54.632489+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · India markets: 100 live items"}
+{"timestamp": "2026-08-22T21:12:54.633723+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · stocks rally crash: 100 live items"}
+{"timestamp": "2026-08-22T21:12:57.194251+00:00", "level": "warn", "agent_name": "sentiment_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:12:57.306775+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Forwarding 90 scored headlines (negative=51, neutral=71, positive=119)."}
+{"timestamp": "2026-08-22T21:12:57.313324+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:17:23.966749+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Sentiment Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:17:25.502642+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T21:17:25.856343+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · India markets: 100 live items"}
+{"timestamp": "2026-08-22T21:17:26.251424+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · stocks rally crash: 100 live items"}
+{"timestamp": "2026-08-22T21:17:28.349742+00:00", "level": "warn", "agent_name": "sentiment_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:17:28.581612+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Forwarding 90 scored headlines (negative=54, neutral=70, positive=116)."}
+{"timestamp": "2026-08-22T21:17:28.586841+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:30:09.562601+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Sentiment Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:30:10.877795+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · India markets: 100 live items"}
+{"timestamp": "2026-08-22T21:30:11.190107+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T21:30:11.615590+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · stocks rally crash: 100 live items"}
+{"timestamp": "2026-08-22T21:30:13.827190+00:00", "level": "warn", "agent_name": "sentiment_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:30:13.867941+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Forwarding 90 scored headlines (negative=51, neutral=71, positive=119)."}
+{"timestamp": "2026-08-22T21:30:13.933787+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T21:44:34.187380+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Sentiment Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T21:44:35.135825+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T21:44:35.374694+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · India markets: 100 live items"}
+{"timestamp": "2026-08-22T21:44:35.633583+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · stocks rally crash: 100 live items"}
+{"timestamp": "2026-08-22T21:44:38.024546+00:00", "level": "warn", "agent_name": "sentiment_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T21:44:38.061548+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Forwarding 90 scored headlines (negative=51, neutral=71, positive=119)."}
+{"timestamp": "2026-08-22T21:44:38.072735+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Cycle complete."}
+{"timestamp": "2026-08-22T22:08:31.614027+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Sentiment Agent online. LIVE cycle."}
+{"timestamp": "2026-08-22T22:08:33.470914+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "ET Markets: 50 live items"}
+{"timestamp": "2026-08-22T22:08:33.472864+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · India markets: 100 live items"}
+{"timestamp": "2026-08-22T22:08:33.475963+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Google News · stocks rally crash: 100 live items"}
+{"timestamp": "2026-08-22T22:08:36.957487+00:00", "level": "warn", "agent_name": "sentiment_agent", "message": "Moneycontrol Latest unavailable: https://www.moneycontrol.com/rss/latestnews.xml → HTTP Error 403: Forbidden"}
+{"timestamp": "2026-08-22T22:08:39.876493+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Forwarding 90 scored headlines (negative=50, neutral=73, positive=118)."}
+{"timestamp": "2026-08-22T22:08:40.514791+00:00", "level": "info", "agent_name": "sentiment_agent", "message": "Cycle complete."}

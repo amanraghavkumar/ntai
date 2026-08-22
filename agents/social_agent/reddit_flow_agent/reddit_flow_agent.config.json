@@ -1,0 +1,10 @@
+{
+  "name": "reddit_flow_agent",
+  "display_name": "Reddit Flow Agent",
+  "parent": "social_agent",
+  "status": "idle",
+  "version": "1.0.0",
+  "mode": "live",
+  "sources": ["reddit_rss"],
+  "description": "Live Reddit RSS from India market subs. Named companies only when forwarding to CORE."
+}

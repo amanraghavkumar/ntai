@@ -1,0 +1,8 @@
+{
+  "name": "music_agent",
+  "display_name": "Music Agent",
+  "status": "idle",
+  "version": "0.1.0",
+  "source": "youtube",
+  "description": "Live YouTube search + queue. No fake tracks."
+}

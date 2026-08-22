@@ -1,0 +1,1080 @@
+{
+  "saved_at": "2026-08-22T18:03:42.523227+00:00",
+  "counts": {
+    "hit": 11,
+    "miss": 5,
+    "flat": 3,
+    "days": 8
+  },
+  "report": {
+    "hits": 11,
+    "misses": 5,
+    "flats": 3,
+    "calls": 19,
+    "decided": 16,
+    "hit_rate": 69,
+    "up_hit_rate": 86,
+    "down_hit_rate": 56,
+    "avg_up_next_ret": 3.13,
+    "avg_down_next_ret": -0.43,
+    "spread": 3.56,
+    "top2": {
+      "hits": 11,
+      "misses": 5,
+      "flats": 3,
+      "calls": 19,
+      "decided": 16,
+      "hit_rate": 69,
+      "up_hit_rate": 86,
+      "down_hit_rate": 56,
+      "avg_up_next_ret": 3.13,
+      "avg_down_next_ret": -0.43,
+      "spread": 3.56
+    },
+    "top3": {
+      "hits": 16,
+      "misses": 11,
+      "flats": 4,
+      "calls": 31,
+      "decided": 27,
+      "hit_rate": 59,
+      "up_hit_rate": 57,
+      "down_hit_rate": 62,
+      "avg_up_next_ret": 1.89,
+      "avg_down_next_ret": -0.36,
+      "spread": 2.25
+    },
+    "top5": {
+      "hits": 19,
+      "misses": 21,
+      "flats": 6,
+      "calls": 47,
+      "decided": 40,
+      "hit_rate": 48,
+      "up_hit_rate": 41,
+      "down_hit_rate": 56,
+      "avg_up_next_ret": 0.99,
+      "avg_down_next_ret": -0.21,
+      "spread": 1.2
+    },
+    "days": 8,
+    "protocol": "Two windows. First: 11\u201320 Aug top-2 69% (11/16) \u2014 this did NOT repeat. Holdout: 30 Jul\u201310 Aug top-2 52% (11/21), top-5 56%. Banned first-sample names: top-2 55%. Primary badge stays first-window top-2 but holdout is shown. Not a guarantee.",
+    "cutoff": "2026-08-22",
+    "disclaimer": "Small sample. Top-2 looks better than top-5 here; not a guarantee. Not investment advice.",
+    "holdout": {
+      "window": [
+        [
+          "2026-07-30",
+          "2026-07-31"
+        ],
+        [
+          "2026-07-31",
+          "2026-08-03"
+        ],
+        [
+          "2026-08-03",
+          "2026-08-04"
+        ],
+        [
+          "2026-08-04",
+          "2026-08-05"
+        ],
+        [
+          "2026-08-05",
+          "2026-08-06"
+        ],
+        [
+          "2026-08-06",
+          "2026-08-07"
+        ],
+        [
+          "2026-08-07",
+          "2026-08-10"
+        ],
+        [
+          "2026-08-10",
+          "2026-08-11"
+        ]
+      ],
+      "top2": {
+        "hits": 11,
+        "misses": 10,
+        "flats": 1,
+        "calls": 22,
+        "decided": 21,
+        "hit_rate": 52,
+        "up_hit_rate": 45,
+        "down_hit_rate": 60,
+        "avg_up_next_ret": 0.08,
+        "avg_down_next_ret": -0.05,
+        "spread": 0.13
+      },
+      "top5": {
+        "hits": 29,
+        "misses": 23,
+        "flats": 4,
+        "calls": 56,
+        "decided": 52,
+        "hit_rate": 56,
+        "up_hit_rate": 54,
+        "down_hit_rate": 58,
+        "avg_up_next_ret": 0.31,
+        "avg_down_next_ret": 0.09,
+        "spread": 0.22
+      },
+      "banned_names": [
+        "Balrampur Chini",
+        "Lupin",
+        "SBI",
+        "TCS",
+        "Tata Motors",
+        "Wipro"
+      ],
+      "banned_top2": {
+        "hits": 11,
+        "misses": 9,
+        "flats": 2,
+        "calls": 22,
+        "decided": 20,
+        "hit_rate": 55,
+        "up_hit_rate": 60,
+        "down_hit_rate": 50,
+        "avg_up_next_ret": 0.26,
+        "avg_down_next_ret": 0.07,
+        "spread": 0.19
+      },
+      "banned_top5": {
+        "hits": 26,
+        "misses": 17,
+        "flats": 4,
+        "calls": 47,
+        "decided": 43,
+        "hit_rate": 60,
+        "up_hit_rate": 64,
+        "down_hit_rate": 57,
+        "avg_up_next_ret": 0.53,
+        "avg_down_next_ret": 0.13,
+        "spread": 0.4
+      }
+    }
+  },
+  "days": [
+    {
+      "news_date": "2026-08-11",
+      "check_date": "2026-08-12",
+      "headlines": 139,
+      "up_names": [
+        "SBI",
+        "Bharat Forge",
+        "Axis Bank",
+        "Zomato"
+      ],
+      "down_names": [
+        "TCS",
+        "Sun Pharma",
+        "HDFC Bank"
+      ],
+      "call_rows": [
+        {
+          "company": "SBI",
+          "sector": "banking",
+          "side": "up",
+          "rank": 1,
+          "score": 2.35,
+          "mentions": 13,
+          "chance": 71,
+          "next_ret": 1.5,
+          "result": "hit",
+          "headline": "SBI Capital Markets to sell up to 8.78 million NSE shares in IPO - Moneycontrol.com"
+        },
+        {
+          "company": "Bharat Forge",
+          "sector": "auto",
+          "side": "up",
+          "rank": 3,
+          "score": 1.0,
+          "mentions": 1,
+          "chance": 55,
+          "next_ret": 1.49,
+          "result": "hit",
+          "headline": "Amber Enterprises India - Bharat Forge among 4 F&O stocks with sharp rise in futures open interest - The Economic Times"
+        },
+        {
+          "company": "Axis Bank",
+          "sector": "banking",
+          "side": "up",
+          "rank": 4,
+          "score": 0.45,
+          "mentions": 2,
+          "chance": 54,
+          "next_ret": 0.02,
+          "result": "flat",
+          "headline": "Axis Bank allots shares under employee stock option plan By Investing.com - Investing.com Canada"
+        },
+        {
+          "company": "Zomato",
+          "sector": "telecom",
+          "side": "up",
+          "rank": 5,
+          "score": 0.45,
+          "mentions": 2,
+          "chance": 54,
+          "next_ret": null,
+          "result": "no_price",
+          "headline": "Sensex closes down 388 points, Nifty slips below 24,500; Eternal gains, Axis Bank sees big dent - financialexpress.com"
+        },
+        {
+          "company": "TCS",
+          "sector": "IT",
+          "side": "down",
+          "rank": 1,
+          "score": -1.0,
+          "mentions": 4,
+          "chance": 58,
+          "next_ret": -3.93,
+          "result": "hit",
+          "headline": "Buzzing stocks: BSE, Wipro, TCS, HCLTech, BEL, Lupin among 20+ stocks in focus today - BusinessLine"
+        },
+        {
+          "company": "Sun Pharma",
+          "sector": "pharma",
+          "side": "down",
+          "rank": 2,
+          "score": -1.0,
+          "mentions": 3,
+          "chance": 57,
+          "next_ret": 0.1,
+          "result": "miss",
+          "headline": "Delhi HC directs Sun Pharma to take permission before launching semaglutide - livemint.com"
+        },
+        {
+          "company": "HDFC Bank",
+          "sector": "banking",
+          "side": "down",
+          "rank": 3,
+          "score": -0.84,
+          "mentions": 7,
+          "chance": 61,
+          "next_ret": 0.0,
+          "result": "flat",
+          "headline": "Stocks to Watch Today, August 11: Vodafone Idea, Titan, BSE, Wipro, TCS, BEL, SAIL, HDFC Bank and more - Zee Business"
+        }
+      ],
+      "hits": 3,
+      "misses": 1,
+      "flats": 2,
+      "calls": 7,
+      "decided": 4,
+      "hit_rate": 75,
+      "up_hit_rate": 100,
+      "down_hit_rate": 50,
+      "avg_up_next_ret": 1.0,
+      "avg_down_next_ret": -1.28,
+      "spread": 2.28
+    },
+    {
+      "news_date": "2026-08-12",
+      "check_date": "2026-08-13",
+      "headlines": 114,
+      "up_names": [
+        "Tata Motors",
+        "SBI",
+        "HDFC Bank",
+        "Mahindra & Mahindra",
+        "Axis Bank"
+      ],
+      "down_names": [
+        "Tata Steel",
+        "Titan"
+      ],
+      "call_rows": [
+        {
+          "company": "Tata Motors",
+          "sector": "auto",
+          "side": "up",
+          "rank": 1,
+          "score": 1.6,
+          "mentions": 17,
+          "chance": 72,
+          "next_ret": 3.88,
+          "result": "hit",
+          "headline": "TCS, Tata Motors PV, Tata Steel shares slide up to 6% as N Chandrasekaran steps down; key details - Upstox"
+        },
+        {
+          "company": "SBI",
+          "sector": "banking",
+          "side": "up",
+          "rank": 2,
+          "score": 0.27,
+          "mentions": 10,
+          "chance": 61,
+          "next_ret": 0.09,
+          "result": "flat",
+          "headline": "HDFC Bank, SBI, KVB, City Union, Axis Bank: 5 bank stocks to buy, target prices - Business Today"
+        },
+        {
+          "company": "HDFC Bank",
+          "sector": "banking",
+          "side": "up",
+          "rank": 3,
+          "score": 0.27,
+          "mentions": 2,
+          "chance": 53,
+          "next_ret": -0.55,
+          "result": "miss",
+          "headline": "HDFC Bank, SBI, KVB, City Union, Axis Bank: 5 bank stocks to buy, target prices - Business Today"
+        },
+        {
+          "company": "Mahindra & Mahindra",
+          "sector": "auto",
+          "side": "up",
+          "rank": 4,
+          "score": 0.2,
+          "mentions": 3,
+          "chance": 54,
+          "next_ret": 0.72,
+          "result": "hit",
+          "headline": "Buy, Sell Or Hold: Mahindra & Mahindra, SBI, HDFC Bank, NALCO And Godrej Consumer \u2014 Ask Profit - NDTV Profit"
+        },
+        {
+          "company": "Axis Bank",
+          "sector": "banking",
+          "side": "up",
+          "rank": 5,
+          "score": 0.07,
+          "mentions": 5,
+          "chance": 56,
+          "next_ret": -0.67,
+          "result": "miss",
+          "headline": "HDFC Bank, SBI, KVB, City Union, Axis Bank: 5 bank stocks to buy, target prices - Business Today"
+        },
+        {
+          "company": "Tata Steel",
+          "sector": "metals",
+          "side": "down",
+          "rank": 3,
+          "score": -0.4,
+          "mentions": 5,
+          "chance": 57,
+          "next_ret": -0.73,
+          "result": "hit",
+          "headline": "TCS, Tata Motors PV, Tata Steel shares slide up to 6% as N Chandrasekaran steps down; key details - Upstox"
+        },
+        {
+          "company": "Titan",
+          "sector": "fmcg",
+          "side": "down",
+          "rank": 4,
+          "score": -0.2,
+          "mentions": 3,
+          "chance": 54,
+          "next_ret": -0.69,
+          "result": "hit",
+          "headline": "Tata Motors, TCS, TCPL, Titan, Tata Power, Tata Steel shares hit hard; here's why - Business Today"
+        }
+      ],
+      "hits": 4,
+      "misses": 2,
+      "flats": 1,
+      "calls": 7,
+      "decided": 6,
+      "hit_rate": 67,
+      "up_hit_rate": 50,
+      "down_hit_rate": 100,
+      "avg_up_next_ret": 0.69,
+      "avg_down_next_ret": -0.71,
+      "spread": 1.4
+    },
+    {
+      "news_date": "2026-08-13",
+      "check_date": "2026-08-14",
+      "headlines": 94,
+      "up_names": [
+        "Zydus Lifesciences",
+        "UltraTech Cement"
+      ],
+      "down_names": [
+        "TCS"
+      ],
+      "call_rows": [
+        {
+          "company": "Zydus Lifesciences",
+          "sector": "pharma",
+          "side": "up",
+          "rank": 3,
+          "score": 1.45,
+          "mentions": 2,
+          "chance": 58,
+          "next_ret": -2.75,
+          "result": "miss",
+          "headline": "Zydus, Sun Pharma lead India pharma growth in July; Sun gains semaglutide share: Nomura - Moneycontrol.com"
+        },
+        {
+          "company": "UltraTech Cement",
+          "sector": "infra",
+          "side": "up",
+          "rank": 4,
+          "score": 1.0,
+          "mentions": 5,
+          "chance": 59,
+          "next_ret": -0.74,
+          "result": "miss",
+          "headline": "Stocks in news: UltraTech Cement, Tata Motors PV, Axis Bank, Apollo Hospitals and Ircon - The Economic Times"
+        },
+        {
+          "company": "TCS",
+          "sector": "IT",
+          "side": "down",
+          "rank": 1,
+          "score": -3.0,
+          "mentions": 7,
+          "chance": 69,
+          "next_ret": -0.59,
+          "result": "hit",
+          "headline": "Rs 44,000 crore wiped out in Tata group stocks; TCS accounts for 81% of fall - Business Standard"
+        }
+      ],
+      "hits": 1,
+      "misses": 2,
+      "flats": 0,
+      "calls": 3,
+      "decided": 3,
+      "hit_rate": 33,
+      "up_hit_rate": 0,
+      "down_hit_rate": 100,
+      "avg_up_next_ret": -1.75,
+      "avg_down_next_ret": -0.59,
+      "spread": -1.16
+    },
+    {
+      "news_date": "2026-08-14",
+      "check_date": "2026-08-17",
+      "headlines": 111,
+      "up_names": [
+        "Balrampur Chini",
+        "Dhampur Sugar",
+        "ICICI Bank",
+        "Maruti Suzuki"
+      ],
+      "down_names": [
+        "Tata Motors"
+      ],
+      "call_rows": [
+        {
+          "company": "Balrampur Chini",
+          "sector": "sugar",
+          "side": "up",
+          "rank": 2,
+          "score": 0.9,
+          "mentions": 2,
+          "chance": 56,
+          "next_ret": 4.95,
+          "result": "hit",
+          "headline": "Sugar Stocks Rally: Balrampur Chini, Dhampur Gain on Prices - Sahi"
+        },
+        {
+          "company": "Dhampur Sugar",
+          "sector": "sugar",
+          "side": "up",
+          "rank": 3,
+          "score": 0.9,
+          "mentions": 2,
+          "chance": 56,
+          "next_ret": 6.18,
+          "result": "hit",
+          "headline": "Sugar Stocks Rally: Balrampur Chini, Dhampur Gain on Prices - Sahi"
+        },
+        {
+          "company": "ICICI Bank",
+          "sector": "banking",
+          "side": "up",
+          "rank": 4,
+          "score": 0.2,
+          "mentions": 4,
+          "chance": 55,
+          "next_ret": -0.12,
+          "result": "miss",
+          "headline": "Buy, Sell Or Hold: MRF, ICICI Bank, Vishal Mega Mart, Maruti Suzuki, GMR Airports, Bank Of Baroda \u2014 Ask Profit - NDTV Profit"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "sector": "auto",
+          "side": "up",
+          "rank": 5,
+          "score": 0.2,
+          "mentions": 2,
+          "chance": 53,
+          "next_ret": -0.53,
+          "result": "miss",
+          "headline": "Buy, Sell Or Hold: MRF, ICICI Bank, Vishal Mega Mart, Maruti Suzuki, GMR Airports, Bank Of Baroda \u2014 Ask Profit - NDTV Profit"
+        },
+        {
+          "company": "Tata Motors",
+          "sector": "auto",
+          "side": "down",
+          "rank": 1,
+          "score": -9.7,
+          "mentions": 23,
+          "chance": 88,
+          "next_ret": -0.82,
+          "result": "hit",
+          "headline": "Stocks in news: Indigo Paints, LG Electronics India, Tata Motors PV, Honasa Consumer, Ashok Leyland, Physi - The Economic Times"
+        }
+      ],
+      "hits": 3,
+      "misses": 2,
+      "flats": 0,
+      "calls": 5,
+      "decided": 5,
+      "hit_rate": 60,
+      "up_hit_rate": 50,
+      "down_hit_rate": 100,
+      "avg_up_next_ret": 2.62,
+      "avg_down_next_ret": -0.82,
+      "spread": 3.44
+    },
+    {
+      "news_date": "2026-08-17",
+      "check_date": "2026-08-18",
+      "headlines": 100,
+      "up_names": [
+        "Lupin",
+        "SBI",
+        "Polycab"
+      ],
+      "down_names": [
+        "Dr Reddy's",
+        "Tata Steel",
+        "Maruti Suzuki",
+        "Tata Motors"
+      ],
+      "call_rows": [
+        {
+          "company": "Lupin",
+          "sector": "pharma",
+          "side": "up",
+          "rank": 1,
+          "score": 1.0,
+          "mentions": 7,
+          "chance": 61,
+          "next_ret": -1.2,
+          "result": "miss",
+          "headline": "Lupin Announces Approval from U.S. FDA for Pitolisant Tablets - TradingView"
+        },
+        {
+          "company": "SBI",
+          "sector": "banking",
+          "side": "up",
+          "rank": 3,
+          "score": 0.38,
+          "mentions": 8,
+          "chance": 60,
+          "next_ret": -0.77,
+          "result": "miss",
+          "headline": "SENSEX drops over 300 points, NIFTY50 hovers around 24,300 SBI, L&T top drags - Dailyhunt"
+        },
+        {
+          "company": "Polycab",
+          "sector": "infra",
+          "side": "up",
+          "rank": 5,
+          "score": 0.14,
+          "mentions": 1,
+          "chance": 52,
+          "next_ret": -2.47,
+          "result": "miss",
+          "headline": "Polycab shares may offer more returns despite stellar sectoral rally: SBI Securities - Business Today"
+        },
+        {
+          "company": "Dr Reddy's",
+          "sector": "pharma",
+          "side": "down",
+          "rank": 2,
+          "score": -1.0,
+          "mentions": 6,
+          "chance": 60,
+          "next_ret": -1.11,
+          "result": "hit",
+          "headline": "FDA flags four issues at Dr. Reddy\u2019s (NYSE: RDY) Hyderabad plant after August inspection - Stock Titan"
+        },
+        {
+          "company": "Tata Steel",
+          "sector": "metals",
+          "side": "down",
+          "rank": 3,
+          "score": -1.0,
+          "mentions": 1,
+          "chance": 55,
+          "next_ret": -0.27,
+          "result": "hit",
+          "headline": "Sensex falls 281 points, Nifty closes below 24,300; IT stocks drag, Tata Steel bucks trend - financialexpress.com"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "sector": "auto",
+          "side": "down",
+          "rank": 4,
+          "score": -1.0,
+          "mentions": 1,
+          "chance": 55,
+          "next_ret": -0.5,
+          "result": "hit",
+          "headline": "Maruti Suzuki India falls Monday, underperforms market - MarketWatch"
+        },
+        {
+          "company": "Tata Motors",
+          "sector": "auto",
+          "side": "down",
+          "rank": 5,
+          "score": -1.0,
+          "mentions": 1,
+          "chance": 55,
+          "next_ret": 0.27,
+          "result": "miss",
+          "headline": "Tata Motors PV Shares Decline as Heavy JLR Dependence Raises Fresh Investor Concerns - chshyd.in"
+        }
+      ],
+      "hits": 3,
+      "misses": 4,
+      "flats": 0,
+      "calls": 7,
+      "decided": 7,
+      "hit_rate": 43,
+      "up_hit_rate": 0,
+      "down_hit_rate": 75,
+      "avg_up_next_ret": -1.48,
+      "avg_down_next_ret": -0.4,
+      "spread": -1.08
+    },
+    {
+      "news_date": "2026-08-18",
+      "check_date": "2026-08-19",
+      "headlines": 89,
+      "up_names": [
+        "Wipro",
+        "Maruti Suzuki",
+        "HDFC Bank",
+        "Adani Ports",
+        "HDFC Life"
+      ],
+      "down_names": [
+        "Tata Motors",
+        "ITC",
+        "Dr Reddy's"
+      ],
+      "call_rows": [
+        {
+          "company": "Wipro",
+          "sector": "IT",
+          "side": "up",
+          "rank": 1,
+          "score": 1.0,
+          "mentions": 3,
+          "chance": 57,
+          "next_ret": 0.84,
+          "result": "hit",
+          "headline": "Wipro Consumer Care to buy Dermatouch for enterprise value of \u20b9387.5 crore - Business Standard"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "sector": "auto",
+          "side": "up",
+          "rank": 2,
+          "score": 0.3,
+          "mentions": 9,
+          "chance": 60,
+          "next_ret": -0.01,
+          "result": "flat",
+          "headline": "Maruti, Hyundai shares emerge as top auto picks as four-wheelers eye catch-up rally - Business Today"
+        },
+        {
+          "company": "HDFC Bank",
+          "sector": "banking",
+          "side": "up",
+          "rank": 3,
+          "score": 0.3,
+          "mentions": 1,
+          "chance": 52,
+          "next_ret": -0.41,
+          "result": "miss",
+          "headline": "Despite low valuations, HDFC Bank stock still not a buy: Coheron Wealth's Aditya Agarwal - Business Today"
+        },
+        {
+          "company": "Adani Ports",
+          "sector": "infra",
+          "side": "up",
+          "rank": 4,
+          "score": 0.2,
+          "mentions": 1,
+          "chance": 52,
+          "next_ret": -0.03,
+          "result": "flat",
+          "headline": "Kotak Model Portfolio changes: TCS, DLF dropped while Adani Ports, HDFC Life gain allocation \u2013 Check full list - financialexpress.com"
+        },
+        {
+          "company": "HDFC Life",
+          "sector": "finance",
+          "side": "up",
+          "rank": 5,
+          "score": 0.2,
+          "mentions": 1,
+          "chance": 52,
+          "next_ret": -0.36,
+          "result": "miss",
+          "headline": "Kotak Model Portfolio changes: TCS, DLF dropped while Adani Ports, HDFC Life gain allocation \u2013 Check full list - financialexpress.com"
+        },
+        {
+          "company": "Tata Motors",
+          "sector": "auto",
+          "side": "down",
+          "rank": 1,
+          "score": -1.0,
+          "mentions": 2,
+          "chance": 56,
+          "next_ret": 1.41,
+          "result": "miss",
+          "headline": "Tata Motors Passenger Vehicles Shares Fall 2.01% to Rs 323.55 - Moneycontrol.com"
+        },
+        {
+          "company": "ITC",
+          "sector": "fmcg",
+          "side": "down",
+          "rank": 2,
+          "score": -1.0,
+          "mentions": 1,
+          "chance": 55,
+          "next_ret": -1.09,
+          "result": "hit",
+          "headline": "Biggest Single-Day Market Crash! Rs 13 Lakh Cr Wiped Out as Sensex-Nifty Tank 3%; HDFC, ITC Hit 52-Week Lows - Goodreturns"
+        },
+        {
+          "company": "Dr Reddy's",
+          "sector": "pharma",
+          "side": "down",
+          "rank": 3,
+          "score": -1.0,
+          "mentions": 1,
+          "chance": 55,
+          "next_ret": -0.75,
+          "result": "hit",
+          "headline": "Dr. Reddy's Laboratories falls Tuesday, outperforms competitors - MarketWatch"
+        }
+      ],
+      "hits": 3,
+      "misses": 3,
+      "flats": 2,
+      "calls": 8,
+      "decided": 6,
+      "hit_rate": 50,
+      "up_hit_rate": 33,
+      "down_hit_rate": 67,
+      "avg_up_next_ret": 0.01,
+      "avg_down_next_ret": -0.14,
+      "spread": 0.15
+    },
+    {
+      "news_date": "2026-08-19",
+      "check_date": "2026-08-20",
+      "headlines": 55,
+      "up_names": [
+        "Balrampur Chini"
+      ],
+      "down_names": [
+        "Infosys",
+        "Wipro",
+        "HDFC Bank",
+        "ITC",
+        "Hindustan Unilever"
+      ],
+      "call_rows": [
+        {
+          "company": "Balrampur Chini",
+          "sector": "sugar",
+          "side": "up",
+          "rank": 2,
+          "score": 1.04,
+          "mentions": 2,
+          "chance": 56,
+          "next_ret": 17.87,
+          "result": "hit",
+          "headline": "Sugar stocks rally up to 7%: Why are Dalmia Bharat Sugar, Balrampur Chini and others rising today? - Zee Business"
+        },
+        {
+          "company": "Infosys",
+          "sector": "IT",
+          "side": "down",
+          "rank": 1,
+          "score": -0.9,
+          "mentions": 3,
+          "chance": 57,
+          "next_ret": 0.91,
+          "result": "miss",
+          "headline": "Infosys, Wipro ADRs crash up to 7% as IBM warning sends ripples across IT sector - The Economic Times"
+        },
+        {
+          "company": "Wipro",
+          "sector": "IT",
+          "side": "down",
+          "rank": 2,
+          "score": -0.9,
+          "mentions": 2,
+          "chance": 56,
+          "next_ret": 0.81,
+          "result": "miss",
+          "headline": "Infosys, Wipro ADRs crash up to 7% as IBM warning sends ripples across IT sector - The Economic Times"
+        },
+        {
+          "company": "HDFC Bank",
+          "sector": "banking",
+          "side": "down",
+          "rank": 3,
+          "score": -0.2,
+          "mentions": 6,
+          "chance": 57,
+          "next_ret": 0.7,
+          "result": "miss",
+          "headline": "NIFTY50, SENSEX fall: HDFC Bank, ITC, IRFC, HUL among 112 stocks that hit 52-week low on NSE - Upstox"
+        },
+        {
+          "company": "ITC",
+          "sector": "fmcg",
+          "side": "down",
+          "rank": 4,
+          "score": -0.2,
+          "mentions": 3,
+          "chance": 54,
+          "next_ret": 1.72,
+          "result": "miss",
+          "headline": "NIFTY50, SENSEX fall: HDFC Bank, ITC, IRFC, HUL among 112 stocks that hit 52-week low on NSE - Upstox"
+        },
+        {
+          "company": "Hindustan Unilever",
+          "sector": "fmcg",
+          "side": "down",
+          "rank": 5,
+          "score": -0.2,
+          "mentions": 3,
+          "chance": 54,
+          "next_ret": 0.36,
+          "result": "miss",
+          "headline": "NIFTY50, SENSEX fall: HDFC Bank, ITC, IRFC, HUL among 112 stocks that hit 52-week low on NSE - Upstox"
+        }
+      ],
+      "hits": 1,
+      "misses": 5,
+      "flats": 0,
+      "calls": 6,
+      "decided": 6,
+      "hit_rate": 17,
+      "up_hit_rate": 100,
+      "down_hit_rate": 0,
+      "avg_up_next_ret": 17.87,
+      "avg_down_next_ret": 0.9,
+      "spread": 16.97
+    },
+    {
+      "news_date": "2026-08-20",
+      "check_date": "2026-08-21",
+      "headlines": 73,
+      "up_names": [
+        "HDFC Bank",
+        "Tata Motors",
+        "Eicher Motors"
+      ],
+      "down_names": [
+        "Lupin"
+      ],
+      "call_rows": [
+        {
+          "company": "HDFC Bank",
+          "sector": "banking",
+          "side": "up",
+          "rank": 2,
+          "score": 3.45,
+          "mentions": 13,
+          "chance": 75,
+          "next_ret": 0.26,
+          "result": "hit",
+          "headline": "HDFC Bank Ltd Share Price Today,, HDFCBANK Share Price NSE, BSE - Business Today"
+        },
+        {
+          "company": "Tata Motors",
+          "sector": "auto",
+          "side": "up",
+          "rank": 3,
+          "score": 2.0,
+          "mentions": 2,
+          "chance": 60,
+          "next_ret": -1.06,
+          "result": "miss",
+          "headline": "Tata Motors stock rebounds 22% from June low, nears record high - Business Standard"
+        },
+        {
+          "company": "Eicher Motors",
+          "sector": "auto",
+          "side": "up",
+          "rank": 5,
+          "score": 1.0,
+          "mentions": 1,
+          "chance": 55,
+          "next_ret": -0.4,
+          "result": "miss",
+          "headline": "Jefferies names TVS, Eicher top picks, rates 9 auto stocks \u2018Buy\u2019 - financialexpress.com"
+        },
+        {
+          "company": "Lupin",
+          "sector": "pharma",
+          "side": "down",
+          "rank": 1,
+          "score": -1.0,
+          "mentions": 6,
+          "chance": 60,
+          "next_ret": 0.01,
+          "result": "flat",
+          "headline": "Lupin inks pact with Tenpoint Therapeutics to commercialize YUVEZZI in select countries - Business Standard"
+        }
+      ],
+      "hits": 1,
+      "misses": 2,
+      "flats": 1,
+      "calls": 4,
+      "decided": 3,
+      "hit_rate": 33,
+      "up_hit_rate": 33,
+      "down_hit_rate": null,
+      "avg_up_next_ret": -0.4,
+      "avg_down_next_ret": 0.01,
+      "spread": -0.41
+    }
+  ],
+  "items": [
+    {
+      "id": "a8a5488a17431ecd",
+      "agent_name": "news_agent_testing_performance",
+      "sector": "walk_forward",
+      "headline": "2026-08-11 news \u2192 2026-08-12 close \u00b7 3/4 hit \u00b7 75%",
+      "summary": "UP SBI, Bharat Forge, Axis Bank, Zomato \u00b7 DOWN TCS, Sun Pharma, HDFC Bank",
+      "news_date": "2026-08-11",
+      "check_date": "2026-08-12",
+      "hit_rate": 75,
+      "hits": 3,
+      "misses": 1,
+      "flats": 2,
+      "timestamp": "2026-08-22T18:03:41.706018+00:00",
+      "status": "completed",
+      "source": "walk_forward"
+    },
+    {
+      "id": "f7385b1d03bd504c",
+      "agent_name": "news_agent_testing_performance",
+      "sector": "walk_forward",
+      "headline": "2026-08-12 news \u2192 2026-08-13 close \u00b7 4/6 hit \u00b7 67%",
+      "summary": "UP Tata Motors, SBI, HDFC Bank, Mahindra & Mahindra, Axis Bank \u00b7 DOWN Tata Steel, Titan",
+      "news_date": "2026-08-12",
+      "check_date": "2026-08-13",
+      "hit_rate": 67,
+      "hits": 4,
+      "misses": 2,
+      "flats": 1,
+      "timestamp": "2026-08-22T18:03:41.859783+00:00",
+      "status": "completed",
+      "source": "walk_forward"
+    },
+    {
+      "id": "1ec00e0b512ebc5f",
+      "agent_name": "news_agent_testing_performance",
+      "sector": "walk_forward",
+      "headline": "2026-08-13 news \u2192 2026-08-14 close \u00b7 1/3 hit \u00b7 33%",
+      "summary": "UP Zydus Lifesciences, UltraTech Cement \u00b7 DOWN TCS",
+      "news_date": "2026-08-13",
+      "check_date": "2026-08-14",
+      "hit_rate": 33,
+      "hits": 1,
+      "misses": 2,
+      "flats": 0,
+      "timestamp": "2026-08-22T18:03:41.983461+00:00",
+      "status": "completed",
+      "source": "walk_forward"
+    },
+    {
+      "id": "fea6c1a97bdec397",
+      "agent_name": "news_agent_testing_performance",
+      "sector": "walk_forward",
+      "headline": "2026-08-14 news \u2192 2026-08-17 close \u00b7 3/5 hit \u00b7 60%",
+      "summary": "UP Balrampur Chini, Dhampur Sugar, ICICI Bank, Maruti Suzuki \u00b7 DOWN Tata Motors",
+      "news_date": "2026-08-14",
+      "check_date": "2026-08-17",
+      "hit_rate": 60,
+      "hits": 3,
+      "misses": 2,
+      "flats": 0,
+      "timestamp": "2026-08-22T18:03:42.122932+00:00",
+      "status": "completed",
+      "source": "walk_forward"
+    },
+    {
+      "id": "a56462f3f6a3c670",
+      "agent_name": "news_agent_testing_performance",
+      "sector": "walk_forward",
+      "headline": "2026-08-17 news \u2192 2026-08-18 close \u00b7 3/7 hit \u00b7 43%",
+      "summary": "UP Lupin, SBI, Polycab \u00b7 DOWN Dr Reddy's, Tata Steel, Maruti Suzuki, Tata Motors",
+      "news_date": "2026-08-17",
+      "check_date": "2026-08-18",
+      "hit_rate": 43,
+      "hits": 3,
+      "misses": 4,
+      "flats": 0,
+      "timestamp": "2026-08-22T18:03:42.247611+00:00",
+      "status": "completed",
+      "source": "walk_forward"
+    },
+    {
+      "id": "86cfe06d1f9d6ec1",
+      "agent_name": "news_agent_testing_performance",
+      "sector": "walk_forward",
+      "headline": "2026-08-18 news \u2192 2026-08-19 close \u00b7 3/6 hit \u00b7 50%",
+      "summary": "UP Wipro, Maruti Suzuki, HDFC Bank, Adani Ports, HDFC Life \u00b7 DOWN Tata Motors, ITC, Dr Reddy's",
+      "news_date": "2026-08-18",
+      "check_date": "2026-08-19",
+      "hit_rate": 50,
+      "hits": 3,
+      "misses": 3,
+      "flats": 2,
+      "timestamp": "2026-08-22T18:03:42.360748+00:00",
+      "status": "completed",
+      "source": "walk_forward"
+    },
+    {
+      "id": "7267c999ba26fb00",
+      "agent_name": "news_agent_testing_performance",
+      "sector": "walk_forward",
+      "headline": "2026-08-19 news \u2192 2026-08-20 close \u00b7 1/6 hit \u00b7 17%",
+      "summary": "UP Balrampur Chini \u00b7 DOWN Infosys, Wipro, HDFC Bank, ITC, Hindustan Unilever",
+      "news_date": "2026-08-19",
+      "check_date": "2026-08-20",
+      "hit_rate": 17,
+      "hits": 1,
+      "misses": 5,
+      "flats": 0,
+      "timestamp": "2026-08-22T18:03:42.431150+00:00",
+      "status": "completed",
+      "source": "walk_forward"
+    },
+    {
+      "id": "c715abe1fc93d5bb",
+      "agent_name": "news_agent_testing_performance",
+      "sector": "walk_forward",
+      "headline": "2026-08-20 news \u2192 2026-08-21 close \u00b7 1/3 hit \u00b7 33%",
+      "summary": "UP HDFC Bank, Tata Motors, Eicher Motors \u00b7 DOWN Lupin",
+      "news_date": "2026-08-20",
+      "check_date": "2026-08-21",
+      "hit_rate": 33,
+      "hits": 1,
+      "misses": 2,
+      "flats": 1,
+      "timestamp": "2026-08-22T18:03:42.523091+00:00",
+      "status": "completed",
+      "source": "walk_forward"
+    }
+  ]
+}

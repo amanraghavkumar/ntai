@@ -1,0 +1,155 @@
+{
+  "saved_at": "2026-08-22T22:08:41.359958+00:00",
+  "counts": {
+    "weekend": 5,
+    "banking": 5,
+    "sugar": 1,
+    "after_close": 2,
+    "IT": 1
+  },
+  "items": [
+    {
+      "id": "26ce7d8a82afccff",
+      "agent_name": "after_hours_agent",
+      "sector": "banking",
+      "window": "weekend",
+      "unpriced": true,
+      "companies": [
+        "Kotak Mahindra Bank",
+        "Federal Bank",
+        "ICICI Bank",
+        "HDFC Bank",
+        "Axis Bank"
+      ],
+      "headline": "Bank stocks to buy: Goldman Sachs remains bullish on 6 private bank stocks. Do you own any?",
+      "summary": "Goldman Sachs expects Indian banks’ loan growth to moderate to 14–15% through FY29 and initiated coverage on 14 lenders. It favours six private banks, including ICICI Bank, Kotak Mahindra Bank, HDFC Bank, Axis Bank, Federal Bank and AU Small Finance Bank.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-to-buy-goldman-sachs-remains-bullish-on-6-private-bank-stocks-do-you-own-any/slideshow/133420450.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 13:39:31 +0530",
+      "published_ist": "2026-08-22T13:39:31+05:30",
+      "timestamp": "2026-08-22T22:08:39.990633+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "c29a4f9839bcf6b4",
+      "agent_name": "after_hours_agent",
+      "sector": "sugar",
+      "window": "weekend",
+      "unpriced": true,
+      "companies": [
+        "Triveni Engineering",
+        "Bajaj Hindusthan Sugar",
+        "Balrampur Chini",
+        "Shree Renuka Sugars"
+      ],
+      "headline": "Sugar stocks rally! How Balrampur Chini, Triveni Engineering, Shree Renuka Sugars, other stocks performed this week?",
+      "summary": "Sugar stocks surged on strong pre-festival demand, with Balrampur Chini, Bajaj Hindusthan, Uttam Sugar and others hitting 52-week highs. Gains moderated after duty-free raw sugar imports were announced, though several stocks still delivered strong weekly and year-to-date returns.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-rally-how-balrampur-chini-triveni-engineering-shree-renuka-sugars-other-stocks-performed-this-week/slideshow/133418401.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 11:19:34 +0530",
+      "published_ist": "2026-08-22T11:19:34+05:30",
+      "timestamp": "2026-08-22T22:08:40.291991+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "e405a9d8e0c60944",
+      "agent_name": "after_hours_agent",
+      "sector": "banking",
+      "window": "weekend",
+      "unpriced": true,
+      "companies": [
+        "Kotak Mahindra Bank",
+        "ICICI Bank"
+      ],
+      "headline": "Goldman Sachs picks ICICI Bank, Kotak Mahindra Bank as top banking bets",
+      "summary": "Goldman Sachs has begun its assessment of fourteen Indian banks, pinpointing its top selections. ICICI Bank and Kotak Mahindra Bank stand out with Buy ratings that indicate substantial upside potential. The firm anticipates a cyclical recovery in earnings across the banking sector. It forecasts that private banks will surpass their state-owned counterparts in performance over the next two years, buoyed by loan growth",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-picks-icici-bank-kotak-mahindra-bank-as-top-banking-bets/articleshow/133416320.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 08:28:43 +0530",
+      "published_ist": "2026-08-22T08:28:43+05:30",
+      "timestamp": "2026-08-22T22:08:40.326751+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "a02fd360bb5c187a",
+      "agent_name": "after_hours_agent",
+      "sector": "IT",
+      "window": "after_close",
+      "unpriced": true,
+      "companies": [
+        "Kotak Mahindra Bank",
+        "Maruti Suzuki",
+        "Power Grid",
+        "HDFC Life",
+        "HCLTech",
+        "Trent"
+      ],
+      "headline": "Market wrap: Kotak Mahindra Bank, Power Grid, Maruti Suzuki, Trent top gainers and losers on Nifty and Sensex on Friday",
+      "summary": "Indian equity benchmarks ended largely flat on Friday, extending gains for a second straight session despite Middle East uncertainties. Power Grid, HDFC Life and Kotak Mahindra Bank led the gainers, while Maruti Suzuki, Trent and HCL Tech were among the top losers. Broader markets outperformed with positive market breadth.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-kotak-mahindra-bank-power-grid-maruti-suzuki-trent-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/133402032.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 16:27:05 +0530",
+      "published_ist": "2026-08-21T16:27:05+05:30",
+      "timestamp": "2026-08-22T22:08:40.545841+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "066aedafcef14782",
+      "agent_name": "after_hours_agent",
+      "sector": "banking",
+      "window": "weekend",
+      "unpriced": true,
+      "companies": [
+        "SBI"
+      ],
+      "headline": "F&O Talk: Nifty to consolidate further, says Sudeep Shah; picks 3 stocks for next week",
+      "summary": "SBI Securities’ Sudeep Shah expects Nifty to remain range-bound, with 24,000 as key support and 24,500 as resistance. He warns of underpriced options-market tail risks amid low volatility. Bank Nifty remains compressed, while Nifty IT faces support at 30,000. AU Small Finance Bank, Aditya Birla Capital and Nippon Life offer setups.",
+      "source_url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-to-consolidate-further-says-sudeep-shah-picks-3-stocks-for-next-week/articleshow/133419507.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 12:34:53 +0530",
+      "published_ist": "2026-08-22T12:34:53+05:30",
+      "timestamp": "2026-08-22T22:08:40.778688+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "0d79dee4c5c2e84b",
+      "agent_name": "after_hours_agent",
+      "sector": "banking",
+      "window": "weekend",
+      "unpriced": true,
+      "companies": [
+        "Kotak Mahindra Bank",
+        "Bank of Baroda",
+        "IDFC First Bank",
+        "ICICI Bank",
+        "HDFC Bank"
+      ],
+      "headline": "Banks ride RBI swap wave to raise $12 billion via overseas debt",
+      "summary": "This week was the busiest for forex debt issuance by Indian lenders. ICICI Bank, Kotak Mahindra Bank, IDFC First Bank, HDFC Bank and Bank of Baroda together raised a massive $4.4 billion, and the bulk of the proceeds may be used to help fund the leverage for foreign currency non-resident (bank) [FCNR (B)] deposits.",
+      "source_url": "https://economictimes.indiatimes.com/markets/bonds/banks-ride-rbi-swap-wave-to-raise-12-billion-via-overseas-debt/articleshow/133415906.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 00:04:04 +0530",
+      "published_ist": "2026-08-22T00:04:04+05:30",
+      "timestamp": "2026-08-22T22:08:41.175606+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "7f4f576d6bb5f937",
+      "agent_name": "after_hours_agent",
+      "sector": "banking",
+      "window": "after_close",
+      "unpriced": true,
+      "companies": [
+        "ICICI Bank"
+      ],
+      "headline": "ICICI Bank doubles borrowing from overseas markets to $5 billion",
+      "summary": "ICICI Bank has taken a significant step by doubling its overseas borrowing limit to five billion dollars. This strategic decision enhances the bank's ability to tap into international fundraising avenues. Following the closure of a previous swap facility, Indian banks are ramping up efforts, eyeing to collectively secure at least five billion dollars through loans and bonds. So far, ICICI has successfully raised over",
+      "source_url": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-doubles-borrowing-from-overseas-markets-to-5-billion/articleshow/133404318.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 17:55:14 +0530",
+      "published_ist": "2026-08-21T17:55:14+05:30",
+      "timestamp": "2026-08-22T22:08:41.289231+00:00",
+      "status": "completed"
+    }
+  ]
+}

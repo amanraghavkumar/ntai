@@ -1,0 +1,10 @@
+{
+  "name": "macro_policy_agent",
+  "display_name": "Macro/Policy Agent",
+  "parent": "news_agent",
+  "status": "idle",
+  "version": "1.0.0",
+  "mode": "live",
+  "sources": ["google_news_rbi", "google_news_budget", "google_news_fed", "google_news_crude", "economic_times"],
+  "description": "Live RBI, fiscal, trade, energy and global policy headlines."
+}

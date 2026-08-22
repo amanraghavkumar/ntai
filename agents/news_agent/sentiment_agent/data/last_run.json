@@ -1,0 +1,1784 @@
+{
+  "saved_at": "2026-08-22T22:08:39.878931+00:00",
+  "counts": {
+    "neutral": 73,
+    "negative": 50,
+    "positive": 118
+  },
+  "items": [
+    {
+      "id": "3f4d79f77ace6055",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Sebi proposes tighter curbs on promotional claims by online bond platforms",
+      "summary": "Sebi is tightening the reins on advertising practices for online bond platforms, aiming to protect investors from hasty decisions. New rules mandate that promotional content provides standardized information about specific securities. Terms such as 'fixed returns' must be accompanied by explicit risk disclaimers, while ambiguous claims like 'high yield' will also be subject to regulatory restrictions.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-tighter-curbs-on-promotional-claims-by-online-bond-platforms/articleshow/133424265.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 17:51:46 +0530",
+      "timestamp": "2026-08-22T22:08:37.541414+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "51cb70c47b81caab",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -2,
+      "confidence": 73,
+      "pos_hits": [
+        "buy"
+      ],
+      "neg_hits": [
+        "fall",
+        "weak",
+        "ban"
+      ],
+      "headline": "Dalal Street Week Ahead: Selective buying favoured as Nifty remains rangebound",
+      "summary": "Nifty remained range-bound, falling 0.47% to 24,252 amid subdued volatility. Resistance at 24,450–24,750 remains crucial, while 23,900–24,100 offers support. Analysts recommend selective, stock-specific positioning until a decisive breakout. PSU banks, IT, financial services and services show improving momentum, while pharma, midcaps and energy face weakening relative strength.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-selective-buying-favoured-as-nifty-remains-range-bound/articleshow/133423333.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 17:16:05 +0530",
+      "timestamp": "2026-08-22T22:08:37.541866+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "e6072205299d147a",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 2,
+      "confidence": 68,
+      "pos_hits": [
+        "rose",
+        "strong"
+      ],
+      "neg_hits": [],
+      "headline": "Freedom Oils maker Gemini Edibles & Fats India files DRHP with Sebi for IPO",
+      "summary": "Gemini Edibles & Fats India, maker of Freedom Oils, filed IPO papers with Sebi for an entirely offer-for-sale issue of up to 4.12 crore shares. Promoters and investors will sell stakes, while the company earns no proceeds. Revenue rose to Rs 12,650 crore in FY26, supported by strong branded oil growth.",
+      "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/freedom-oils-maker-gemini-edibles-fats-india-files-drhp-with-sebi-for-ipo/articleshow/133421580.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 15:31:46 +0530",
+      "timestamp": "2026-08-22T22:08:37.542313+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "81a3c43f17f3e68b",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 2,
+      "confidence": 68,
+      "pos_hits": [
+        "rise",
+        "rises"
+      ],
+      "neg_hits": [],
+      "headline": "Zee Entertainment allots 20.94 cr convertible warrants to promoter group entity",
+      "summary": "Zee Entertainment Enterprises has issued warrants to Sunbright Mauritius Investments Ltd, following the necessary board sanctions and regulatory approvals for their funding initiative. This move has attracted a subscription of Rs 659.76 crore, allowing Sunbright Mauritius to secure a substantial stake once the warrants are fully converted. Notably, these warrants are eligible for conversion within a period of eightee",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-allots-20-94-cr-convertible-warrants-to-promoter-group-entity/articleshow/133421533.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 15:21:31 +0530",
+      "timestamp": "2026-08-22T22:08:37.542626+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "918f1389d637e20d",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -3,
+      "confidence": 83,
+      "pos_hits": [],
+      "neg_hits": [
+        "decline",
+        "declines",
+        "weak"
+      ],
+      "headline": "CAS chaos triggers liquidity spiral: Nuvama says higher participation needed to break cycle",
+      "summary": "BSE’s new Closing Auction Session has faced weak participation, with Nuvama reporting sharp declines in option premium volumes and contracts. Thin liquidity is creating a self-reinforcing cycle, while early confusion, retail concerns and alleged CAS manipulation have further intensified scrutiny of the new closing-price mechanism.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-triggers-liquidity-spiral-nuvama-says-higher-participation-needed-to-break-cycle/articleshow/133421238.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 14:58:53 +0530",
+      "timestamp": "2026-08-22T22:08:37.542907+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "55592513ae9ef352",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "confidence": 54,
+      "pos_hits": [
+        "expansion"
+      ],
+      "neg_hits": [],
+      "headline": "Mom's Belief operator to launch IPO on Sep 1",
+      "summary": "On September 1, Rays of Belief Ltd will make its debut in the stock market with an initial public offering. With ambitious plans to open 319 new centers across India by FY29, the IPO proceeds will support expansion efforts, including fit-outs and technological advancements. The company aims to enhance neurodevelopmental care in Tier-II and Tier-III cities while showcasing impressive revenue growth.",
+      "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/moms-belief-operator-to-launch-ipo-on-sep-1/articleshow/133420812.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 14:25:28 +0530",
+      "timestamp": "2026-08-22T22:08:37.545778+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "e98149df6db26dd5",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 6,
+      "confidence": 92,
+      "pos_hits": [
+        "surge",
+        "surges",
+        "buy",
+        "boost",
+        "profit",
+        "strong"
+      ],
+      "neg_hits": [],
+      "headline": "Bitcoin surges 23% in 1 week to trade nearly $78K as liquidity hopes, ETF inflows boost crypto markets",
+      "summary": "Bitcoin surged nearly 23% in a week to around $78,000, while Ethereum and major altcoins also rallied. Strong crypto ETF inflows, softer US dollar expectations, Treasury buybacks and reduced Fed tightening hopes boosted sentiment. Analysts flagged improving institutional participation, though profit-taking and long-term holder selling remain key risks.",
+      "source_url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-surges-23-in-1-week-to-trade-nearly-78k-as-liquidity-hopes-etf-inflows-boost-crypto-markets/articleshow/133420463.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 13:52:07 +0530",
+      "timestamp": "2026-08-22T22:08:37.546333+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "26ce7d8a82afccff",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "confidence": 59,
+      "pos_hits": [
+        "buy",
+        "bullish"
+      ],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "Bank stocks to buy: Goldman Sachs remains bullish on 6 private bank stocks. Do you own any?",
+      "summary": "Goldman Sachs expects Indian banks’ loan growth to moderate to 14–15% through FY29 and initiated coverage on 14 lenders. It favours six private banks, including ICICI Bank, Kotak Mahindra Bank, HDFC Bank, Axis Bank, Federal Bank and AU Small Finance Bank.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-to-buy-goldman-sachs-remains-bullish-on-6-private-bank-stocks-do-you-own-any/slideshow/133420450.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 13:39:31 +0530",
+      "timestamp": "2026-08-22T22:08:37.546563+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "066aedafcef14782",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "F&O Talk: Nifty to consolidate further, says Sudeep Shah; picks 3 stocks for next week",
+      "summary": "SBI Securities’ Sudeep Shah expects Nifty to remain range-bound, with 24,000 as key support and 24,500 as resistance. He warns of underpriced options-market tail risks amid low volatility. Bank Nifty remains compressed, while Nifty IT faces support at 30,000. AU Small Finance Bank, Aditya Birla Capital and Nippon Life offer setups.",
+      "source_url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-to-consolidate-further-says-sudeep-shah-picks-3-stocks-for-next-week/articleshow/133419507.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 12:34:53 +0530",
+      "timestamp": "2026-08-22T22:08:37.546762+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "abf83ac96561a014",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 3,
+      "confidence": 88,
+      "pos_hits": [
+        "surge",
+        "gain",
+        "gains",
+        "rose"
+      ],
+      "neg_hits": [
+        "fell"
+      ],
+      "headline": "Vijay Kedia Portfolio: 5 stocks surge up to 55% in CY26; 1 new addition in June quarter",
+      "summary": "Vijay Kedia’s disclosed portfolio rose 21% to Rs 1,415 crore by August 2026. Neuland Laboratories led CY26 gains at 53%, while Innovators Facade Systems fell 37%. Eimco Elecon was his latest portfolio addition, highlighting varied performance across his holdings.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-portfolio-5-stocks-surge-up-to-55-in-cy26-1-new-addition-in-june-quarter/slideshow/133419471.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 12:16:31 +0530",
+      "timestamp": "2026-08-22T22:08:37.547135+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "7837a7fb5455a08a",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 2,
+      "confidence": 78,
+      "pos_hits": [
+        "gain",
+        "buy",
+        "rise",
+        "rose"
+      ],
+      "neg_hits": [
+        "weak",
+        "ban"
+      ],
+      "headline": "Gold prices rise for 3rd straight week, hit 3-month high. Can bullion reclaim $5,500 peak?",
+      "summary": "Gold rose 5% this week to nearly $4,603, marking its third consecutive weekly gain, supported by a weaker US dollar, Treasury bond buybacks and expectations of stable Fed rates. Analysts see long-term potential amid central-bank demand and currency concerns, though the World Gold Council expects near-term prices to remain rangebound.",
+      "source_url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-for-3rd-straight-week-hit-3-month-high-can-bullion-reclaim-5500-peak/articleshow/133419156.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 12:14:47 +0530",
+      "timestamp": "2026-08-22T22:08:37.547651+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "baf81c44e223fdf2",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Uttar Pradesh remains India’s largest crypto market in Q2 2026: Report",
+      "summary": "Crypto adoption expanded across India in Q2 2026, led by Uttar Pradesh, Maharashtra and Karnataka. Regional investment patterns varied, with Andhra Pradesh recording the highest female participation and distinctive cryptocurrency preferences, highlighting the diverse and growing nature of India’s crypto investor base.",
+      "source_url": "https://economictimes.indiatimes.com/markets/cryptocurrency/uttar-pradesh-remains-indias-largest-crypto-market-in-q2-2026-report/slideshow/133419128.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 12:04:17 +0530",
+      "timestamp": "2026-08-22T22:08:37.560592+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "15879b5e3d3cec9d",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "confidence": 59,
+      "pos_hits": [
+        "gain",
+        "gained"
+      ],
+      "neg_hits": [
+        "decline"
+      ],
+      "headline": "Concurrent Gainers: 13 smallcap stocks that gained for 5 days in a row",
+      "summary": "Despite a 0.60% Sensex decline, 13 BSE SmallCap stocks gained across all five sessions. Prabha Energy led with 39%, followed by Welspun Corp, Wakefit Innovations, Welspun Living and others.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-13-smallcap-stocks-that-gained-for-5-days-in-a-row/slideshow/133418816.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 11:34:12 +0530",
+      "timestamp": "2026-08-22T22:08:37.561069+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "c29a4f9839bcf6b4",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 5,
+      "confidence": 92,
+      "pos_hits": [
+        "rally",
+        "surge",
+        "gain",
+        "gains",
+        "strong"
+      ],
+      "neg_hits": [],
+      "headline": "Sugar stocks rally! How Balrampur Chini, Triveni Engineering, Shree Renuka Sugars, other stocks performed this week?",
+      "summary": "Sugar stocks surged on strong pre-festival demand, with Balrampur Chini, Bajaj Hindusthan, Uttam Sugar and others hitting 52-week highs. Gains moderated after duty-free raw sugar imports were announced, though several stocks still delivered strong weekly and year-to-date returns.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-rally-how-balrampur-chini-triveni-engineering-shree-renuka-sugars-other-stocks-performed-this-week/slideshow/133418401.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 11:19:34 +0530",
+      "timestamp": "2026-08-22T22:08:37.562122+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "bfff274375725c8e",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -3,
+      "confidence": 83,
+      "pos_hits": [],
+      "neg_hits": [
+        "warning",
+        "loss",
+        "losses"
+      ],
+      "headline": "Why Indian retail options traders are having a tough time to defuse what Warren Buffett called lethal time bombs",
+      "summary": "Sebi’s latest study shows that 88% of individual F&O traders lost money in FY26, with options accounting for 92% of aggregate losses. Despite reduced trading volumes, retail losses remained substantial, reinforcing Warren Buffett’s longstanding warnings about derivatives. Regulatory measures, including higher STT, aim to curb excessive speculation and protect small investors.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/why-indian-retail-options-traders-are-having-a-tough-time-to-defuse-what-warren-buffett-called-lethal-time-bombs/articleshow/133417813.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 10:52:29 +0530",
+      "timestamp": "2026-08-22T22:08:37.562704+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "a697ac042aaaa702",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "ETMarkets Management Talk | CleanMax’s next growth phase: 1.5 GW capacity addition target, Rs 3,000 crore EBITDA by FY28, says Kuldeep Jain",
+      "summary": "CleanMax targets 1.5 GW capacity additions in FY27 and over Rs 3,000 crore EBITDA by FY28. Growth is driven by data centres, AI, Make in India and manufacturing demand. An AA credit rating and planned Rs 2,500 crore bond issue will strengthen funding access as the company scales its renewable portfolio.",
+      "source_url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-cleanmaxs-next-growth-phase-1-5-gw-capacity-addition-target-rs-3000-crore-ebitda-by-fy28-says-kuldeep-jain/articleshow/133417896.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 10:50:32 +0530",
+      "timestamp": "2026-08-22T22:08:37.562985+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "6d4a52c0c4ae3cce",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "ETMarkets NRI Talk| Rs 1 crore, 5-7 years: How NRIs should allocate across Indian equities, bonds, gold and alternatives, says Rohit Sarin",
+      "summary": "NRIs investing in India should assess their global portfolio, existing India exposure, liquidity, risk appetite, taxes and repatriation needs before investing. For a Rs 1 crore portfolio, an illustrative allocation is 55–65% equities, 15–20% fixed income, 5–10% gold and 5–10% alternatives, complemented by real assets and diversification.",
+      "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-rs-1-crore-5-7-years-how-nris-should-allocate-across-indian-equities-bonds-gold-and-alternatives-says-rohit-sarin/articleshow/133417845.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 10:41:45 +0530",
+      "timestamp": "2026-08-22T22:08:37.563208+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "2a9d246b2401497f",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "FPI return to India may be tactical, not structural yet: HSBC MF’s Venugopal Manghat",
+      "summary": "Foreign investors are cautiously returning to Indian equities, but a durable FPI reallocation remains unconfirmed. HSBC Mutual Fund’s Venugopal Manghat highlights improving earnings, stable domestic demand and manufacturing growth, while stressing valuation discipline. Sustained foreign inflows will depend on earnings delivery, rupee stability, global liquidity, and India’s relative emerging-market valuations.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-return-to-india-may-be-tactical-not-structural-yet-hsbc-mfs-venugopal-manghat/articleshow/133417510.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 10:22:22 +0530",
+      "timestamp": "2026-08-22T22:08:37.563508+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "097d9e45bb902458",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 3,
+      "confidence": 83,
+      "pos_hits": [
+        "gain",
+        "gained",
+        "strong"
+      ],
+      "neg_hits": [],
+      "headline": "Dubai office boom drives commercial real estate growth; transaction value triples in H1 2026",
+      "summary": "Dubai’s commercial real estate market remained resilient in H1 2026, with transaction value rising 8.5% to AED 65.23 billion. Offices led growth, driven by strong Grade A demand and limited supply, while retail also gained momentum. Investors increasingly favored income-generating assets over land, supporting a positive outlook despite geopolitical tensions and Q2 moderation.",
+      "source_url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dubai-office-boom-drives-commercial-real-estate-growth-transaction-value-triples-in-h1-2026/articleshow/133417249.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 09:53:51 +0530",
+      "timestamp": "2026-08-22T22:08:37.565202+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "75cae92449818675",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 3,
+      "confidence": 92,
+      "pos_hits": [
+        "surge",
+        "gain",
+        "gains",
+        "buy",
+        "strong"
+      ],
+      "neg_hits": [
+        "weak",
+        "ban"
+      ],
+      "headline": "Gold regains momentum as weak dollar, safe haven demand and seasonal buying support prices",
+      "summary": "Gold prices have surged sharply in August, supported by a weaker U.S. dollar, expectations of monetary easing, geopolitical tensions, and sustained central-bank purchases. Strong Chinese demand and India’s upcoming festive and wedding season add further support. Despite potential short-term corrections, structural factors including reserve diversification, inflation concerns, and de-dollarisation keep gold’s long-ter",
+      "source_url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-regains-momentum-as-weak-dollar-safe-haven-demand-and-seasonal-buying-support-prices/articleshow/133417184.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 09:48:50 +0530",
+      "timestamp": "2026-08-22T22:08:37.565384+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "529f8f10dde01871",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Delayed, Not Denied: India’s BGAI entry waits on market access",
+      "summary": "India’s potential inclusion in the Bloomberg Global Aggregate Bond Index remains delayed, not denied, with operational accessibility the key hurdle. Inclusion could attract $15–25 billion in foreign inflows, diversify India’s bond investor base, ease borrowing pressures, and strengthen its global investment appeal. A phased inclusion remains likely, supporting India’s long-term bond-market integration.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/delayed-not-denied-indias-bgai-entry-waits-on-market-access/articleshow/133417098.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 09:42:32 +0530",
+      "timestamp": "2026-08-22T22:08:37.565666+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "73ea7e0b156c9746",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "ETMarkets Smart Talk | India’s diverse earnings story could bring FIIs back: Bandhan Life’s Avinash Agarwal",
+      "summary": "While foreign institutional investors (FIIs) have remained net sellers over the past two years amid India’s premium valuations and an earnings slowdown, Avinash Agarwal, Senior Vice President & Head – Equity at Bandhan Life, believes the tide could turn as India offers a diverse pool of large companies with consistent growth and greater earnings visibility.",
+      "source_url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-diverse-earnings-story-could-bring-fiis-back-bandhan-lifes-avinash-agarwal/articleshow/133417060.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 09:33:20 +0530",
+      "timestamp": "2026-08-22T22:08:37.565891+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "15b70c9caef9ff70",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "ETMarkets Smart Talk | Bonds aren’t boring: Where Devang Shah sees the best fixed-income opportunities",
+      "summary": "At the same time, the RBI remains watchful of risks from geopolitics, crude oil prices and global monetary policy developments.",
+      "source_url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-bonds-arent-boring-where-devang-shah-sees-the-best-fixed-income-opportunities/articleshow/133416948.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 09:29:47 +0530",
+      "timestamp": "2026-08-22T22:08:37.566055+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "09af9a6613828f54",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 44,
+      "pos_hits": [
+        "soar"
+      ],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "5 world market themes for the week ahead",
+      "summary": "The Jackson Hole symposium is just around the corner, bringing together central bank chiefs to tackle the pressing issue of global inflation amidst soaring oil prices. Nvidia's earnings report is anticipated to unveil key trends in AI expenditure. Meanwhile, South Korea's central bank might deliberate a fresh interest rate hike, and Icelanders face an important vote on rekindling talks about joining the European Unio",
+      "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/5-world-market-themes-for-the-week-ahead/articleshow/133416904.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 09:23:55 +0530",
+      "timestamp": "2026-08-22T22:08:37.566194+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "0a7e3cc0b733f3db",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -2,
+      "confidence": 73,
+      "pos_hits": [
+        "buy"
+      ],
+      "neg_hits": [
+        "drop",
+        "decline",
+        "declines"
+      ],
+      "headline": "Trump says he did not direct Bessent to intervene in bond market",
+      "summary": "President Donald Trump clarified that he had not influenced Treasury Secretary Scott Bessent's decisions in the market. Bessent made choices independently, guided by his grasp of existing economic conditions. In a surprising announcement, the government revealed plans to buy back double the amount of bonds initially anticipated. This unexpected action led to a significant drop in bond yields, although these declines ",
+      "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/trump-says-he-did-not-direct-bessent-to-intervene-in-bond-market/articleshow/133416881.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 09:19:20 +0530",
+      "timestamp": "2026-08-22T22:08:37.566364+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "1949f061489e29cc",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "confidence": 54,
+      "pos_hits": [
+        "rally"
+      ],
+      "neg_hits": [],
+      "headline": "Wall Street Week Ahead: Nvidia earnings, Jackson Hole to test pillars of stock rally",
+      "summary": "Nvidia's upcoming earnings report, alongside the Fed's crucial Jackson Hole symposium, may redefine current market expectations. The recent spike in global bond yields is putting pressure on stocks, raising alarms about borrowing costs for investors. Attention is focused on Fed Chair Kevin Warsh's policy discussions, as Nvidia's performance might unlock vital insights into the growing AI infrastructure needs.",
+      "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-st-week-ahead-nvidia-earnings-jackson-hole-to-test-pillars-of-stock-rally/articleshow/133416862.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 09:17:28 +0530",
+      "timestamp": "2026-08-22T22:08:37.566542+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "e405a9d8e0c60944",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "confidence": 59,
+      "pos_hits": [
+        "buy",
+        "recovery"
+      ],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "Goldman Sachs picks ICICI Bank, Kotak Mahindra Bank as top banking bets",
+      "summary": "Goldman Sachs has begun its assessment of fourteen Indian banks, pinpointing its top selections. ICICI Bank and Kotak Mahindra Bank stand out with Buy ratings that indicate substantial upside potential. The firm anticipates a cyclical recovery in earnings across the banking sector. It forecasts that private banks will surpass their state-owned counterparts in performance over the next two years, buoyed by loan growth",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-picks-icici-bank-kotak-mahindra-bank-as-top-banking-bets/articleshow/133416320.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 08:28:43 +0530",
+      "timestamp": "2026-08-22T22:08:37.566709+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "fe5cb04d8949666a",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 2,
+      "confidence": 68,
+      "pos_hits": [
+        "profit",
+        "strong"
+      ],
+      "neg_hits": [],
+      "headline": "Can Skyways Air Services IPO deliver long-term growth for high-risk investors?",
+      "summary": "Skyways Air Services plans a ₹399 crore IPO to repay debt and fund working capital. The company's promoter stake will decrease significantly after the initial public offering. Revenue and profits have shown strong annual growth between FY24 and FY26. Skyways Air Services has been the leading air freight forwarder for four years. The issue is recommended for long-term investors with high risk tolerance.",
+      "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-skyways-air-services-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133416205.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 08:16:43 +0530",
+      "timestamp": "2026-08-22T22:08:37.566956+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "8b5806e01841d7dc",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 49,
+      "pos_hits": [
+        "gain",
+        "gains"
+      ],
+      "neg_hits": [
+        "decline",
+        "declines"
+      ],
+      "headline": "Memory stocks face headwinds as 'smart money' walks out",
+      "summary": "Memory stocks showed initial promise but are now faltering, weighed down by anxiety surrounding the artificial intelligence market. Sandisk and Western Digital reported declines, while Micron and Seagate experienced modest increases. Despite solid fundamentals and last year’s booming AI infrastructure demand, investors focusing on momentum are shifting their attention to different sectors for potential gains.",
+      "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/memory-stocks-face-headwinds-as-smart-money-walks-out/articleshow/133416138.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 08:02:09 +0530",
+      "timestamp": "2026-08-22T22:08:37.567310+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "fff6d8dbab801f64",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "confidence": 54,
+      "pos_hits": [
+        "boost"
+      ],
+      "neg_hits": [],
+      "headline": "Sebi proposes new channel partner network to boost retail bond access",
+      "summary": "The Securities and Exchange Board of India (Sebi) is set to launch fixed income channel partners to broaden access to the retail bond market. This initiative is particularly focused on increasing engagement in smaller cities across India. Eligible individuals and firms can qualify as partners by fulfilling specific certification standards. Notably, existing mutual fund distributors can apply without incurring any enl",
+      "source_url": "https://economictimes.indiatimes.com/markets/bonds/sebi-proposes-new-channel-partner-network-to-boost-retail-bond-access/articleshow/133416068.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 07:53:57 +0530",
+      "timestamp": "2026-08-22T22:08:37.567589+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "8b0af47d5d963bda",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 4,
+      "confidence": 92,
+      "pos_hits": [
+        "rebound",
+        "rebounds",
+        "profit",
+        "recovery"
+      ],
+      "neg_hits": [],
+      "headline": "Aditya Infotech rebounds on fundraise plans; analysts see up to 20% upside",
+      "summary": "The shares of Aditya Infotech have made a notable recovery after a recent equity raise focused on enhancing capacity. However, the company is grappling with high electronic component prices that are squeezing profits. On a positive note, the introduction of new STQC norms is expanding the market opportunities for Indian manufacturers.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-infotech-rebounds-on-fundraise-plans-analysts-see-up-to-20-upside/articleshow/133415946.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 07:42:03 +0530",
+      "timestamp": "2026-08-22T22:08:37.567891+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "173fdf70e53033fc",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "confidence": 54,
+      "pos_hits": [
+        "buy"
+      ],
+      "neg_hits": [],
+      "headline": "West Asia tensions cloud market outlook, Nifty may stay rangebound",
+      "summary": "In a week marked by market stagnation, Indian equity indices closed on an unremarkable note, affected by geopolitical uncertainties and elevated crude oil prices. Experts forecast that without any significant triggers, the Nifty may continue its rangebound trajectory. Crude oil prices consistently stayed above ninety dollars a barrel, with foreign portfolio investors offloading shares while local institutional buyers",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/west-asia-tensions-cloud-market-outlook-nifty-may-stay-rangebound/articleshow/133415917.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 07:33:48 +0530",
+      "timestamp": "2026-08-22T22:08:39.579926+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "f9801bd1aee4b102",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 68,
+      "pos_hits": [
+        "rise",
+        "rises",
+        "strong"
+      ],
+      "neg_hits": [
+        "fall",
+        "falls",
+        "decline",
+        "declines"
+      ],
+      "headline": "US stocks: US market rises on the day but falls for the week; bond yields and Iran in focus",
+      "summary": "Major U.S. stock indexes finished Friday higher, but recorded weekly declines. Investors reacted to fluctuating government bond yields and Middle East developments. Stronger services sector growth offset manufacturing slowdowns, easing some investor concerns. Oil futures settled higher for a sixth consecutive day, adding to inflation worries. Upcoming economic data and Fed Chair's speech will guide future market move",
+      "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-on-the-day-but-falls-for-the-week-bond-yields-and-iran-in-focus/articleshow/133413493.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 01:39:51 +0530",
+      "timestamp": "2026-08-22T22:08:39.580222+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "51aebf6ce3f7244d",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "loss"
+      ],
+      "headline": "Citadel unloads over 80% of bets bought from Leopold Aschenbrenner’s Situational Awareness",
+      "summary": "Ken Griffin's Citadel has sold over 80% of acquired positions. These trades followed a steep loss in technology holdings for Situational Awareness. Citadel executed nearly one hundred block trades valued at over four billion dollars.",
+      "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/citadel-unloads-over-80-of-bets-bought-from-leopold-aschenbrenners-situational-awareness/articleshow/133413202.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 01:00:16 +0530",
+      "timestamp": "2026-08-22T22:08:39.580371+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "e948003b07fd35d5",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 44,
+      "pos_hits": [
+        "strong"
+      ],
+      "neg_hits": [
+        "selloff"
+      ],
+      "headline": "US equity funds see strong inflows this week amid bond pressure, draw $11.72 billion from investors",
+      "summary": "US investors bought equities for a second week, encouraged by corporate earnings and easing inflation. However, a bond market selloff and rising oil prices created market pressures. Investors added over eleven billion dollars to US equity funds, showing continued optimism. Bond funds saw significant inflows, while money market funds experienced outflows.",
+      "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-equity-funds-see-strong-inflows-this-week-amid-bond-pressure-draw-11-72-billion-from-investors/articleshow/133411899.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 00:09:23 +0530",
+      "timestamp": "2026-08-22T22:08:39.580502+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "0d79dee4c5c2e84b",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "Banks ride RBI swap wave to raise $12 billion via overseas debt",
+      "summary": "This week was the busiest for forex debt issuance by Indian lenders. ICICI Bank, Kotak Mahindra Bank, IDFC First Bank, HDFC Bank and Bank of Baroda together raised a massive $4.4 billion, and the bulk of the proceeds may be used to help fund the leverage for foreign currency non-resident (bank) [FCNR (B)] deposits.",
+      "source_url": "https://economictimes.indiatimes.com/markets/bonds/banks-ride-rbi-swap-wave-to-raise-12-billion-via-overseas-debt/articleshow/133415906.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 00:04:04 +0530",
+      "timestamp": "2026-08-22T22:08:39.580634+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "6cf8f425e5cf1d4f",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 4,
+      "confidence": 92,
+      "pos_hits": [
+        "rally",
+        "gain",
+        "gains",
+        "buy",
+        "strong"
+      ],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "Gold could top Goldman’s $4,900 forecast as options demand fuels rally",
+      "summary": "Goldman Sachs sees gold potentially exceeding its $4,900 year-end forecast as strong options demand, Western investor interest and central bank buying amplify price moves. Rising call-option activity could accelerate gains near key strikes, though changing Fed expectations could also trigger sharper corrections.",
+      "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-could-top-goldmans-4900-forecast-as-options-demand-fuels-rally/articleshow/133408548.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 21:23:11 +0530",
+      "timestamp": "2026-08-22T22:08:39.581012+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "7b122ed118bf9923",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "Symbiotec Pharmalab gets Rs 526 crore anchor backing ahead of IPO; Citi Group, Singularity among investors",
+      "summary": "Symbiotec Pharmalab has raised Rs 526.20 crore from anchor investors ahead of its Rs 1,757 crore IPO opening August 24. The pharmaceutical company has set a Rs 938-988 price band, with proceeds from the fresh issue earmarked for debt repayment.",
+      "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/symbiotec-pharmalab-gets-rs-526-crore-anchor-backing-ahead-of-ipo-citi-group-singularity-among-investors/articleshow/133408476.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 21:21:06 +0530",
+      "timestamp": "2026-08-22T22:08:39.581474+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "72dcd6a2e99f123f",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "confidence": 54,
+      "pos_hits": [
+        "rise"
+      ],
+      "neg_hits": [],
+      "headline": "India bond yields hit two-month high as rate hike fears intensify",
+      "summary": "India’s 10-year benchmark bond yield climbed to a two-month high of 6.88% before closing at 6.85%, posting its biggest weekly rise this fiscal. Hawkish MPC minutes, potential rate hikes and escalating West Asia tensions drove cautious sentiment among bond traders.",
+      "source_url": "https://economictimes.indiatimes.com/markets/bonds/india-bond-yields-hit-two-month-high-as-rate-hike-fears-intensify/articleshow/133407966.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 20:46:13 +0530",
+      "timestamp": "2026-08-22T22:08:39.581685+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "c421f01adc40ac2b",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 2,
+      "confidence": 68,
+      "pos_hits": [
+        "buy",
+        "recovery"
+      ],
+      "neg_hits": [],
+      "headline": "FIIs near historical lows: Jio BlackRock flags potential contrarian setup for Indian equities",
+      "summary": "Foreign investor positioning in Indian equities is nearing historical extremes, with FII flows showing early recovery after sustained outflows. Jio BlackRock says resilient domestic buying, reduced foreign selling and more reasonable valuations could signal a potential sentiment turnaround for Indian markets.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-near-historical-lows-jio-blackrock-flags-potential-contrarian-setup-for-indian-equities/articleshow/133407830.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 20:44:12 +0530",
+      "timestamp": "2026-08-22T22:08:39.581871+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "e6537ea3ee5cc83d",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 5,
+      "confidence": 92,
+      "pos_hits": [
+        "rally",
+        "rallies",
+        "surge",
+        "soar",
+        "buy",
+        "bullish"
+      ],
+      "neg_hits": [
+        "weak"
+      ],
+      "headline": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
+      "summary": "Gold prices soared to a three-month high on Friday, marking its third consecutive weekly increase. This rally was driven by a softer U.S. dollar influenced by Treasury buyback strategies. Analysts identify the surge as a bullish signal after a notable break above significant moving averages. Investors are increasingly attracted to gold and related exchange-traded funds, while other precious metals such as silver and ",
+      "source_url": "https://economictimes.indiatimes.com/markets/commodities/gold-rallies-to-3-month-high-on-weaker-dollar-bullish-technicals/articleshow/133407758.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 20:36:47 +0530",
+      "timestamp": "2026-08-22T22:08:39.582153+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "e574312b60845b65",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 2,
+      "confidence": 68,
+      "pos_hits": [
+        "surge",
+        "buy"
+      ],
+      "neg_hits": [],
+      "headline": "Accel, 2 others sell nearly 5% stake in Amagi Media Labs for Rs 587 crore",
+      "summary": "Accel, a leading global venture capital firm, along with two other parties, has divested nearly five percent stake in Amagi Media Labs. They sold over one crore equity shares for Rs 587 crore via open market transactions. Notably, domestic mutual funds and an insurance company were part of the buyer's pool, alongside foreign investors. Following this development, Amagi Media Labs shares surged by 4.57 percent on the ",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/accel-2-others-sell-nearly-5-stake-in-amagi-media-labs-for-rs-587-crore/articleshow/133407721.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 20:34:08 +0530",
+      "timestamp": "2026-08-22T22:08:39.582325+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "af43e9ea97e1a42a",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "confidence": 54,
+      "pos_hits": [
+        "boost"
+      ],
+      "neg_hits": [],
+      "headline": "Online Instruments India gets Sebi approval to float IPO",
+      "summary": "Online Instruments has successfully secured Sebi approval for its initial public offering. The firm is set to issue new equity shares alongside an offer for sale, with proceeds aimed at addressing borrowings, boosting working capital, and facilitating acquisitions. Specializing in audiovisual systems integration and display product manufacturing, Online Instruments has demonstrated notable growth in both revenue and ",
+      "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/online-instruments-india-gets-sebi-approval-to-float-ipo/articleshow/133407466.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 20:20:23 +0530",
+      "timestamp": "2026-08-22T22:08:39.582481+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "01d5a9c9194f7eed",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "Skyways Air Services IPO gets marquee backing, Citi, Nomura join Rs 174 crore anchor book",
+      "summary": "Skyways Air Services raised Rs 174.5 crore from anchor investors ahead of its Rs 582.80 crore IPO, opening August 24, 2026. The price band is Rs 131-138 per share, with shares expected to list on September 1, 2026.",
+      "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/skyways-air-services-ipo-gets-marquee-backing-citi-nomura-join-rs-174-crore-anchor-book/articleshow/133407402.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 20:16:29 +0530",
+      "timestamp": "2026-08-22T22:08:39.582615+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "3167a9afd93f891b",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 44,
+      "pos_hits": [
+        "rose"
+      ],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "India's foreign exchange reserves up almost $50 billion since July",
+      "summary": "India's foreign exchange reserves rose over $9 billion in the week ending August 14. Foreign currency assets and gold reserves significantly contributed to this overall increase. Banks received substantial funds through special deposit schemes and borrowing measures.",
+      "source_url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indias-foreign-exchange-reserves-up-almost-50-billion-since-july/articleshow/133416029.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 19:41:23 +0530",
+      "timestamp": "2026-08-22T22:08:39.582749+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "52d103ac44b8ed57",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "confidence": 73,
+      "pos_hits": [
+        "surge",
+        "gain",
+        "rise",
+        "rebound",
+        "rebounds"
+      ],
+      "neg_hits": [
+        "decline",
+        "declines",
+        "loss",
+        "losses"
+      ],
+      "headline": "US stocks: US market rebounds, but yield surge sets stage for weekly losses",
+      "summary": "Major Wall Street indexes opened higher on Friday after significant declines. The Dow Jones Industrial Average saw a slight increase at the opening. The S&P 500 also experienced a rise in its opening figures. The Nasdaq Composite index registered a notable gain at the opening bell. Markets are still set to finish the week with losses.",
+      "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-but-weekly-losses-loom/articleshow/133406374.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 19:19:33 +0530",
+      "timestamp": "2026-08-22T22:08:39.582906+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "bf543bb45cd186ff",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "India set to approve $1.2 billion incentive plan to make building equipment, sources say",
+      "summary": "India is set to launch a $1.2 billion incentive scheme to stimulate local manufacturing efforts. This initiative aims to draw in $1.8 billion of new investments over the next seven years, focusing on essential machinery such as tunnel boring machines and fire-fighting equipment. A major goal is to lessen reliance on imports, particularly from China, while establishing local value-addition targets for machines that ar",
+      "source_url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/india-set-to-approve-1-2-billion-incentive-plan-to-make-building-equipment-sources-say/articleshow/133405575.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 18:42:52 +0530",
+      "timestamp": "2026-08-22T22:08:39.583105+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "d6de02755d551440",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "confidence": 59,
+      "pos_hits": [
+        "rise",
+        "rises"
+      ],
+      "neg_hits": [
+        "decline"
+      ],
+      "headline": "All-India housing prices rises 6% YoY in 1QFY27 led by key markets: Kotak",
+      "summary": "In the first quarter of fiscal year twenty twenty-seven, real estate prices experienced a significant six percent year-over-year rise. Major cities such as New Delhi, Noida, Chennai, Greater Noida, and Bengaluru spearheaded this trend. While residential sales saw a moderate three percent uptick, the launch of new projects declined alongside an increase in unsold inventories in areas like Bengaluru, Hyderabad, and NCR",
+      "source_url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/all-india-housing-prices-rises-6-yoy-in-1qfy27-led-by-key-markets-kotak/articleshow/133405537.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 18:40:01 +0530",
+      "timestamp": "2026-08-22T22:08:39.583261+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "3ce1eb424325e1c4",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 49,
+      "pos_hits": [
+        "soar",
+        "rise"
+      ],
+      "neg_hits": [
+        "selloff",
+        "ban"
+      ],
+      "headline": "India bonds log worst week in FY27 on RBI surprise U-turns",
+      "summary": "Indian government bonds encountered significant challenges this week, marking the worst week of the financial year. The Reserve Bank of India's hawkish policy minutes triggered a selloff, compounded by the early closure of a diaspora-deposit hedging facility. Additionally, soaring crude oil prices heightened inflation concerns and rate hike fears in India, culminating in a notable increase in bond yields.",
+      "source_url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-log-worst-week-in-fy27-on-rbi-surprise-u-turns/articleshow/133405478.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 18:36:57 +0530",
+      "timestamp": "2026-08-22T22:08:39.583410+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "7f4f576d6bb5f937",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "ICICI Bank doubles borrowing from overseas markets to $5 billion",
+      "summary": "ICICI Bank has taken a significant step by doubling its overseas borrowing limit to five billion dollars. This strategic decision enhances the bank's ability to tap into international fundraising avenues. Following the closure of a previous swap facility, Indian banks are ramping up efforts, eyeing to collectively secure at least five billion dollars through loans and bonds. So far, ICICI has successfully raised over",
+      "source_url": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-doubles-borrowing-from-overseas-markets-to-5-billion/articleshow/133404318.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 17:55:14 +0530",
+      "timestamp": "2026-08-22T22:08:39.583555+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "98d70cce5c523b45",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Stock Market Today Highlights: Benchmark indices end flat; Sensex up 3 points, Nifty50 closes above 24,250 - The Times of India",
+      "summary": "Stock Market Today Highlights: Benchmark indices end flat; Sensex up 3 points, Nifty50 closes above 24,250 The Times of India",
+      "source_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNck55RFdXZTB3Y0NJSkkxVlpneENIQUdQNzhYakY5MFlveW9HZ0tsUTJieXRkZHRwOXI1RGkyWFJKOVBKQVVBUzdKNVBrWUVHX0ZOcWd5b3ctU0o1dUFqcDJDTEk3RjZFdkxXUTFOZjBOeGltd2VZSXh5RjdmcFJNRjExRXhCZGxJbHZJZVFYT3ItZWEzN3FjZVBaMnpLMzhNV21FWkczX01hMldSSjN0NjdmN1RuVEtDZ1R0THRSa3E1TU0tZHp0Sm1sRlBCYllUeEl3YkVJLTdoS05qcUJ3c3B4bnlzS3hrZWdKaVo2U0Mxd1BrREZJZ0xMTnFhLVVib25qeldJU3U1a1BrQmJBQ2Uzel9lTzdlUjdFcWFLNXNRRHppQ3IydTM4UlQ5dzhFNG5Z0gG4AkFVX3lxTFBsbk1LN1BrSXo5WTNQSjE3am81T3ktQkd1cERTekZMMHlCNDM4X2h0bEVVRUJlQlRqNk9lR1QtcVJPNkZFTHQ1M2hUbzdpNDZ2WVVUMi1mSGJfS0lRUGZ6MEJSbHNNNllnV2JrLUNsLWVHM3d3VTQteUNVVnZEUGFnRWF1bmRiaEllNEtKNlNyeXhEWDlrd2JyaFlsb0tnR1ZTR2R6VmtZdkV6UEYzNk55bElSTEJNZl9SMjB2bUx6YmRsRkhMNElOTzhsbXYyUXJVckZpeTdfbzFjNVVHczdIVV8zeXR4aVVfTVJON1dpV2tNUmZBcnRaMXFoWWxiY0FXS2xJLWJoM08xajRmV0ZwejJjcThEYjlLWlB3UkNQbmZwWVpvd1ZtRWJZdjdHbHQxSTlRQUdZeA?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 10:42:53 GMT",
+      "timestamp": "2026-08-22T22:08:39.583709+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "c103f66bfbcc74b6",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Closing Bell: Sensex, Nifty flat in volatile session; IT, FMCG, auto drag, metals shine - Moneycontrol.com",
+      "summary": "Closing Bell: Sensex, Nifty flat in volatile session; IT, FMCG, auto drag, metals shine Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPRldSQzR6WUcxSzgydG96UWl2VEx2TVdNTUZscWxhVWxwUFlWYVR6YWVXb1R3eHNWNFFQa25UNk82ckhxVWhzWmlqSzVqMlBicERWSllfREw2V2NXOUhYSlNleGVyZEtsN05KSmt5SVhoNW82cVdldGxraDIxb3d5TjRUMDZpN2FNUG9EMlpLOGxndnVQenRXMmRYQTdfR0g0NVhsWW00bmtPYnJSV3Jtck1ndEZLVFpNeV9feUJfODU1RnBtUmczQnprUVBITllacnRfZHZWc3R3bjZRVXkzd2RGZjFmMmltc0JSZjc4MXNqS1ZoM1hvc2tsbktXQmx3Y183WGNJWEhVYWJWeXVYeG9RNnhfeE9ORzhaWnh5T0FNeHfSAagCQVVfeXFMUHl3REV3U3dPYW40MHdJQndISWJNYzNyb19BQ3RuNzlPMlVuRVJKWXBDXzQzNm5ySExrd2g0RlVKSW11OFpKTDlBU1M5UGVqRVgwNHF5UThEMEJrS0lSNTh6bklJc21rSXlmYkk2MW5pWXZiMHk5ekpxYzhKbk9WUWdvTHNTUFJaenV3R2NxWEhNLWJvYV9jMkxNLWc4WkxhSmNnX3hHaFk5eGROX05ucHF3WUFQd2VDUjdRNVhUMjNmRXFzTDlCdUFSaG5OQjNJanFUR1ZkbDdpSGpTSEZkZFd0T25sU0VTR1JYOTFfQnoxYlhTbEVDN3F0R25uS2gyWjd1aXJFa1lNZHBfWVAwazV3ejAzMjh2ODdEQ2RLMkFfT3U5dXNza1k?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 10:45:20 GMT",
+      "timestamp": "2026-08-22T22:08:39.583858+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "8b4d364ff7c5bdc9",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 2,
+      "confidence": 68,
+      "pos_hits": [
+        "gain",
+        "gains"
+      ],
+      "neg_hits": [],
+      "headline": "Stock Market Highlights Today, Aug 20: Sensex, Nifty snap losing streak as IT and financial stocks drive broad-based gains - BusinessLine",
+      "summary": "Stock Market Highlights Today, Aug 20: Sensex, Nifty snap losing streak as IT and financial stocks drive broad-based gains BusinessLine",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONmVHTGVRU2RsRFNJYTBha3EtX2RxQVVzd1FpVlo0bGJqbHFwNHFUeWJnTnY4bGU5dkFuWDZIMEFnR1A5cXlReUQwbjh3OEMwYjlRdjVoVXVsbUtzaUpaTWJ6cWU1RFNkYnpMTlZrXzJnLTJPSk0yYmFWLXRtT181QkduWUVBVzZmQ2YzNC03UEgyMGdXWXVhWGlnZWJvdnR2MzNQcml1YXBxVnlxZTdEYko2SWo3YW1FNVJ1MkVsa1ZuMGtJQ0lyNGRqa2lla0nSAdYBQVVfeXFMT25LRWRwcEtzTFBMTE9pYURFVWlBWVZZZEYwSzlralZMN2I4Yi1IRk5rVEx0ZXVCOEdHR1NDdFNGaTlfOUpEZ1d6S0FSVXRqQmllVldCNzRUbDhzcEprclZOUW9jSDZVMUZVUTRPd2sxbmVkYURTeVBqajhTMVBmamg1MzF4UzE2b0Z3cFhheVdycnhRbC12UkRPTmFLZWh1UmJUVkVPMzJORVJZSGlsNmk2bGRjZ1UzbnR1cE12VVliR01oLV85WmRvb05XczhSMUR5dFVkZw?oc=5",
+      "source": "google_news",
+      "published": "Thu, 20 Aug 2026 10:37:26 GMT",
+      "timestamp": "2026-08-22T22:08:39.584051+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "2bd8463948561bd0",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -2,
+      "confidence": 68,
+      "pos_hits": [],
+      "neg_hits": [
+        "loss",
+        "losses"
+      ],
+      "headline": "Sensex, Nifty 50 end flat, extend losses for second consecutive week - livemint.com",
+      "summary": "Sensex, Nifty 50 end flat, extend losses for second consecutive week livemint.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa1oxSUs3SlM3R0lKOUxWQ2psSmU4SjB2dHFtUlJVcEN2UjhMMGZOS1haTGtvd2xSd0pPeUFUVnZDZk1Wa2NieW5XdVRVVVR2MXBaMG96eWZoTUVqYTNlZkF4LWswN1ZISHZ5dTdMdHVvdTBDY0hYbUNlbjZVRzRpT3hvQjNvc2xaV2FzVFIxNG1IOVhicVlJeFZSRlpJcjlVU3IzaXpGb0o3Q3N5VmJYaGlOSk5DREdUY1BTSllDSHMxejBZM0pxaUVIQmpEbXVaYW1NNzZwNThnZm4wX25NN3dsZFpZRU1ZT1JKbC1EUkEzY0x0VDFudkpLZnBvQdIBgwJBVV95cUxNa0VVbjlvQS1CVm5RcnM0cHNBcF9rUEJOUlV6Y0xTQ3UwbndibVltcmhfN2JCcDVDSm9zcG45X0RfMENCNFBBdkVNUnFaRGFWSHNxT1RWVnVCY3VTTmp2MEZoZjJQdkZkN01YbE9LVTB3UVJPR3FaeW5rUnRrTGszaFJTck44UTU0b3lLZldqRjhJLUdBdU42VkVqZ3dFdTg1SmdRdU9oWmV0MzJHdHZvVWRGWE1aWGNEbUNtYTZJOUQ4SlMyUUg2SlRaM1l2N1JQVERlSDJyYmhfUWx6VXdxY0Q2ZHhOdmdkRFRsS3FHVnZfQVEwbnpIUXhXdEtzREhTdWFR?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 10:01:29 GMT",
+      "timestamp": "2026-08-22T22:08:39.584315+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "ab2f501563769a26",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 2,
+      "confidence": 68,
+      "pos_hits": [
+        "gain",
+        "gains"
+      ],
+      "neg_hits": [],
+      "headline": "Stock Market Today Highlights: BSE Sensex gains over 600 points, NSE Nifty 50 closes above 24,200 - The Times of India",
+      "summary": "Stock Market Today Highlights: BSE Sensex gains over 600 points, NSE Nifty 50 closes above 24,200 The Times of India",
+      "source_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQTWVZV050R2toOEJURENBY2pCOFVJX0hTemdaenByU1EzeEtoLWxOTV9EWXphazk1YnlFUG5RUFZtdmViUHh6REZSVlEydzl3N0tHamZCZU1OSW9ZZjZJbHJkMlA1MkpqbVVYbnI5ZVRya3d0cFdIUGNudE5QeTN6VExPdTk3NWdtbDFxVHFWSHJwYVJma1diNDN3VUhrRVJWc19WODRQc0QtR2gyUXBYN2s5cWE4ZTkwcDZvZGFhVEd1OC1xTXQ2cG0za2llZ19majA5bDY0VjJHckNTam5OR0djbUdxMTdTWEEyYzZ0QWhkYUFxWll5T19BcEFpQXlUZ1hwMVNmNXNkTGt4Q1gyVVlTSXlwWFBiZS02aTNER1k1YlhSVklUX0IwUnVReGpPck1J0gG4AkFVX3lxTFBKVTZvbFRhMHZoYW10SEV3ZUhIeWtZUTlCUnRBVnJDVGs4M1l0MWNBbkhoaHVyMHBQcnJUeW1zUHkzQ25Od0FCWTVQblVJUjZGVjMxZFBBUjNadXRVSUpEaG85MG12RmVpVFQxaWNMVVoxNkdjMTZsS2dlRDUwcnRlenhZbHp1bVFIUWRaQUZZQ2tDV1pEaFN4Z0ZXOFhsc3g4LTh0YU1YR19PUExBSC1IZ3pqdzBxOW96bDZSbTAyU3o0cjR2V1puTlJRRE53Q0J3RXJILU5VUkd0WnNUYTh4SHlCY0YxLXlkZkFFNnktbUNhQ2lzazBUNGs2OVVhRU9uMzE4V25wMG5zVlZpMWpWNkZjNzVseGFReThjMHgxcjBZUVBuZ1ctOTFuQlNuUmtxYWpOOWNfSA?oc=5",
+      "source": "google_news",
+      "published": "Thu, 20 Aug 2026 10:14:57 GMT",
+      "timestamp": "2026-08-22T22:08:39.587547+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "62bc554c83c2f0f2",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -2,
+      "confidence": 68,
+      "pos_hits": [],
+      "neg_hits": [
+        "loss",
+        "losses"
+      ],
+      "headline": "Stock Market Highlights Today, August 21: Nifty ends marginally higher, Sensex flat as markets post weekly losses - BusinessLine",
+      "summary": "Stock Market Highlights Today, August 21: Nifty ends marginally higher, Sensex flat as markets post weekly losses BusinessLine",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVTBzRmtDRXh6OUdLVVFIWVlwX0ZLZk9ndFVkTEF1RnM3WHdscnR2VDAwNm1MbHlvdUVZY2lmN01LVGFvOVQ2ZjVkWTJWdVhCYlpaSTlLeTJrTDJXR3Y4NmozaFFfUGxyUkNWV0RyZVJwS1RFSklwMHg4MjlpZlNpdEpmWERxb190b0oxU1dQQ3N1VEZ0TWFjT1JIY0FkSDNFTWFIOFR3R21GNXVuUGVsWkRDQUc1Tm9ZX25Nd2xPUDBMV0tQ0gHLAUFVX3lxTE1DT2xQRWNQWnUtd3ozeGQxcndfRVluT3I2MUZmVHo5RGw1UlVKbjlEQl91WUdKVXl2OFZxdnpkcThCRk5KaW1nVkNvbVlVbUdsUVktUzVMY3VUeWRBbTRfenRra1RWbVF5V3llQXVaZzNpYllJdUg0eERBQUE3SXpZMVJmSWRHMnpaM2UtaF8wc1prbnlfT0hod0xZNFlQX3c3UGp2SE45YmQ0c1FzQVdOSGJfc2RZU3piR1JjTEZVdnNFdG5ZNEYyWlRv?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 10:42:24 GMT",
+      "timestamp": "2026-08-22T22:08:39.587903+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "ea9ee07001a8658c",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "confidence": 54,
+      "pos_hits": [
+        "recovery"
+      ],
+      "neg_hits": [],
+      "headline": "Why Is the Indian Stock Market Up Today? Sensex, Nifty Extend Recovery After 7-Day Losing Streak; Check Market Drivers And What Investors Should Watch - The Sunday Guardian",
+      "summary": "Why Is the Indian Stock Market Up Today? Sensex, Nifty Extend Recovery After 7-Day Losing Streak; Check Market Drivers And What Investors Should Watch The Sunday Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVWVyQ2FzZkN5TEVHLWRUVzhJb2hFRUlPX1hWX1ZZVV9yMTFVR2MwbGNzWm12UWFKMnliX3BCak93R3p3LVlqZ3FmMEx3ZExwdlQ2MEVmSkt6eFdsQkl4WGlQeG54TUlEOG9hYk9NbC11bTNGdXNmUExDUzJzWmVvcHY4MHRSNG9pT0lzdjdaWUtjUEdhOEF1R3dYdXpqdXRKR19hbkcyc1JhVGJMSkhTMFBiWEFscGdaMW9hZHJSc29Bck5LNkY5SGx3MDV0NDJDbjVNUXp3VUplb0RPeDg3dEJhU29KMmYyRy1JbERUTFdJUVpXdGNUNTJkdmZSRXhmUXFrdGREa2lqMHZQdDlSTjliSDN5Z29jbmNhMU9VeUI?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 05:41:16 GMT",
+      "timestamp": "2026-08-22T22:08:39.588078+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "12b21ede73ca72ad",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 2,
+      "confidence": 68,
+      "pos_hits": [
+        "gain",
+        "rise"
+      ],
+      "neg_hits": [],
+      "headline": "Why is stock market up today? Top 3 reasons behind the rise in Sensex, Nifty, and the biggest gaining stocks - livemint.com",
+      "summary": "Why is stock market up today? Top 3 reasons behind the rise in Sensex, Nifty, and the biggest gaining stocks livemint.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYzduYzhkdW1uNXNkeHkyMUk2VngxYUs1eHYwZVZQbzZnZE9UU3pRTjZFYTF4ZmJVM3JIRGRGcWxrNEFRcUZQVjVLRUdnX1MzZ2Zsd3JkSTZMd3N2THdXVjJJcWpYN1BhQk16V3o1V1RQclV4SEstN1hKOGJOd2hzc0tkZWlOdC1ScEtkTWRMTXZQdm54TWp0OHZHRWhuUVl1dERLN1NzZnhfek1KQmZ4dEYyeG40UEFDREZGV1NYRmt5X3RTS2ZRRmdSUjd5aXlPUmVJcmFlZnMxTUNJbVBFMUxzZEVaM0ViU2pkb2Z0SGJ4UmlTaWRXOGh6V1lwWERRU3VZZ3VrWjE2QdIBjwJBVV95cUxPYVExQmdfU3lnNlg3eHU1SHJWS0NuamVSaExwcS1OVXNBMnhDelVJZG9CeVpBZGdzVk5ZaGtCWWxGcUFSVU5oRzBrVEtFd0ktSU1iczVRU0pUa0lYX0pTalFTMWZwazJTRkJZWmVUZXZTMURWSDRJalVmbnl0SERMbjVDTFJZc1ZsY09HNElpVUV2MmtrWTMwRERoWWx1b0NNa0tiUFktLWFhSU1tMDVUWDlJS20taXVQVUZyTTd3cklVUFp5eDNNOThYcHMzdHgwNVVpYTZHWUxIdVl4emJoaHZqVEpfRDN5SG9ub1pfZVFES2NuMGVrN2I2TVgwVjYxSmg2bF8xblA5TWxvUzlz?oc=5",
+      "source": "google_news",
+      "published": "Thu, 20 Aug 2026 06:42:52 GMT",
+      "timestamp": "2026-08-22T22:08:39.588219+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "1fac686eaffe4f0a",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "fall"
+      ],
+      "headline": "Stock Market Today: Sensex, Nifty 50 Fall Amid Rising Crude Oil Prices, Middle East Tensions - India Infoline",
+      "summary": "Stock Market Today: Sensex, Nifty 50 Fall Amid Rising Crude Oil Prices, Middle East Tensions India Infoline",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQjFhVFJNXzQ5QVVuTkFNOThKMmVKZ19GcWVXUmFGTFlXTFZEVFFOS0ZEZEM3OVR1VVh5VFhCNXE0c0lkM0FHalVCUlRIckVxS1VkZDhPa3lfR3B3RkU0TUxBMThJemNCZEo4ZFBzaVBHRl9xYk9RQzFQbFJNVFZNbkNjeFl4czdKSVdXMy01aUVFMFRwUWJOaVZJSVRWZ2dIby01WUV2OVVKOG0xd2JCbVNLQ1VvRmJ5Ti1KMGNVd2xSOGRZSkRCcGxiTVk?oc=5",
+      "source": "google_news",
+      "published": "Wed, 19 Aug 2026 06:25:08 GMT",
+      "timestamp": "2026-08-22T22:08:39.588404+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "5268070ee2ba2f78",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Share Market Live News: Indian Stock Market Prediction, Nifty 50 - Liquide Blog",
+      "summary": "Share Market Live News: Indian Stock Market Prediction, Nifty 50 Liquide Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZy1ILW5GaUYyX2tRQndyVUMzUHRVVEFXeG5fMkRNWEE1OGNzSnJzbWtqckRHRHpqc2taR09UbFlxWFhkQkU2VWg0ajBOMW9QUjdrYTMxOHFLa1k5RjVhTHBHV0xWenNheXRpRXc0NkI1Wmk1aVNSOEFtTjd2TmpaT3g4OVpzdGs4VE8ySFZNZW1ldVBJ?oc=5",
+      "source": "google_news",
+      "published": "Sat, 22 Aug 2026 13:39:40 GMT",
+      "timestamp": "2026-08-22T22:08:39.588587+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "9c1e6ee579d6e158",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 18 August - TradingView",
+      "summary": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 18 August TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdmdoX3NEUFRRRGdsdjBvMWcyVkRXWlNRb0xUSHBFQ0Y2andUYVlxRWNWSWVJajdhQjlBVmdNMnNkT2JXNTBjczcwX3RUYUN0eE9jczkxUmdMNUFhcWdUSU4xcktFU3lpeXdldFZEVjN1elY2WDlYMC1VbDVRN3JZUDFRN09VVXZXYXJucy1PbTU0dnYta3dMcEpqc194M2kyQjhuZ1pPeWduSVZ6NEFBYnVFLUd6T3VnOGNRQXBDRHJiTWRJRU1NS3BqWmFleFdBV3NvVWNRY1h4NzA2V3Zrb01TVndmOU9r?oc=5",
+      "source": "google_news",
+      "published": "Tue, 18 Aug 2026 05:19:00 GMT",
+      "timestamp": "2026-08-22T22:08:39.588727+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "f1327333dd1c3b0e",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 21 August - livemint.com",
+      "summary": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 21 August livemint.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRXFxVlc0THBrSVZqd0UtM2xLQ2pzSnA1WDRuUm5zV2VqSk94ZW5saXRIam8xR0ljc2M5OWtYbW1nMElLSjBXWEgyN3RYWFJWaFYzc3R0S0pQV0FUbk9FeGZVNnZMOEZaNFdxMnUzRHpkdWZlYzJkWGg5U0dDV2dKLWNrQk9ZaTJMdkNreGcweF9WQUo0SlZKekdicDNtQ0VsLXdkX3Q5T241enZsVFk4T2JYMEdoN3VhNXVHakk5dmF4blBzeTFla2dtdWI4TFJCMjQ5TTd5TWNYaWdYTGZMeWZHYk9FbnBmVkQ5SEJ5ZW4wRVBlTHNfWWVn0gH_AUFVX3lxTE41S0h6YTdWVjlvWWZTZXpYa0pGNllnWHlFOGJfaWNBNFZIMF9Kb1ZORWlIRGVWWXV6aHpqSTN3ZzJibG92R0x6ZTY1WUIyYldwaVNlOFhSVkh4UFFKeGFRUFJfU3didG02N0ZwZ1FoRmN3cFNfQTFkTk5BVlMwY1ZhNUxOczROaklHVGt3cVUyWGpnZTd6aEdMbEV3MklyTjBmRmN1ZjUwSUdXcUF2UWpjMTN5aXYtcU83SVNwYmtUejBZRk56cGVranBDSU01NVkteGRLTFE4dmFSZUNOTndnM3ZzVDdycUxuR1RmNFdTY3REbTNkVGhtOHc5d0hiZw?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 01:52:27 GMT",
+      "timestamp": "2026-08-22T22:08:39.588900+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "3c43388c14dc1ff5",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "fall"
+      ],
+      "headline": "Nifty snaps 7-day fall, settles above 24,200; Sensex closes 600 pts higher - 7 key factors - Moneycontrol.com",
+      "summary": "Nifty snaps 7-day fall, settles above 24,200; Sensex closes 600 pts higher - 7 key factors Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOd1hwRDJhNWdiUmJvQjgxSzFQWS1SZEZRbWFUWUZqRDF2a0UyaHFPTjBWSlVacmNXakU1d2xwV0doazdYejRFWDkxMHhqVERIQkZHekhKdVFYdW9uLWduY2ltd1ZQcDdfbV9FZV9aQUtiUGItVXRyV3VBc1JQM3hKeXFoSXRxcldxWTNkTHh2VGhoVzcxNDNXMU9XWTd5M1ljZ3RHaGl6NGtEcHRMYmlFMk9wbmlBYnBjZUcxdG93d01RdW9UcTJtZGtZalBwbXkxUDZpek00ZjYwclNpUkM0d1k3dnZsVk1NdXROZTJRTnbSAfYBQVVfeXFMUDAtLVlXV2FZQmxuV1A5eEJIbzlDcUZoQ29oUUFnSU1RSi15bTBsVEVsUVBuVFQzTmR1M0dFN1dHbWNIWnBFclFWUXBaLXZ4cmV6SDFlTU9CUkFpdFpGbG1nQTJuNXBfeU5jSVRzcVU1c2ZUR2RIRlY3UTVqZlVHNFVYVU1nbGs0S3hXSUpfNG03VkVSREM0Z1ltNlJuekMzZEpIY2o1U0ZJUkotSkxHUkNzWTYwVFB1bnhvangzZ09IVzE3MTR4STZyYnZadEY5MHdudUE3bmlsQ2JMQmV4V3ZZX1pnR3FMbXRSRnIxYU1UWjVvNFBR?oc=5",
+      "source": "google_news",
+      "published": "Thu, 20 Aug 2026 04:04:51 GMT",
+      "timestamp": "2026-08-22T22:08:39.589034+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "3c5f15496d039259",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 20 August - livemint.com",
+      "summary": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 20 August livemint.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR2REbzhFRjdiRG55blBReTlfR0NienYxY2gwQ3N0ZnYzOElZbW55MWZLbkFFWDduT1lGWldtLV9ibndJaDBTYzlPamR2SzhHNWZOMjFCdzNYZnpfVVF6dHh6b05FekJPX2YzeUEtbVF4VzBVNXBieGlpNl9UWGhVM0hiVHNGOGNNR1pBcFBpU04wVVJJbVoySlBFLTFnVkFLaEYtX2xIRlVXa1dCaFFZUEdRRlRNY2tfNVlQMjNzNExKNmlkejk3OXpHSzdleDhVWEtabmF6Y2ltUXJKX0pOaW50akoxV3NGUFFZY00wd1VjRk9oQk05RERn0gH_AUFVX3lxTE14UFc4XzUycjNHYWxxQkJ5dVpIQWtLT0VUNVg5emFaQzZUNWFWOGMwb0hoblJXNmUtUkJmZkxuNmVxWUtlR29CNTlOb0V6WkdtMFZOOWk3UmItR0puY2xFSlF4czR1OXUyUEFZOURpTjJkd1IzczZTdmVrT25jVmYweHVPc0MxRHJEaVd3MTFzVUVURndyRWRHMG81ZVZYVmI1d1RtT2tUN0xWRVJ0VXFoSV9xLS1fSjk3aS10b3VpYmoydEFwM3hfWGswZ3ZHMUNldHBnQVo0MXpGSVdhNUdxS0p1aE9JNnhfQ0hDaDUxQnNPWFVYbVlRakZWZ2FoTQ?oc=5",
+      "source": "google_news",
+      "published": "Thu, 20 Aug 2026 01:58:09 GMT",
+      "timestamp": "2026-08-22T22:08:39.589160+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "f86b2645673ed7a4",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "India's Nifty and Sensex diverge following launch of new auction mechanism - Reuters",
+      "summary": "India's Nifty and Sensex diverge following launch of new auction mechanism Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazBsLXlLazNKQ0tJV3JleVhBcV9JZktMbkR1WVB1allUaGcyZjUzdk5HeGRpNmx2REJ0ZEV0c0JOMGo5UkVoTEpEWGNpN1BNd0s0a2lMdGd5RkFuWFFNM0RDcEdEdGRpUGZVclU1QmtTRkR6YWNjclJkdmU0anNrejQ4RkpLeWFPVEtmSVJVcS0xcVZNNHc1UjZWMDQ0ZU5LRnRkSTNVdV83QQ?oc=5",
+      "source": "google_news",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:39.589321+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "e777964ead74b9e6",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Stock Markets Today: Sensex, Nifty Show Resilience Amid Global Caution - Rediff",
+      "summary": "Stock Markets Today: Sensex, Nifty Show Resilience Amid Global Caution Rediff",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRGZHSndjVGF0UG9NS3piTk1uc1RTa3FQU1UwdWp4M2hnMWI2dkZtSTFIbHh0Mi02NU5HdzRiYUJOajFkX0tJMXVaZW43NTVJV1pWXzJrcTlJSVJCeFY2V3pLZHVPcUhHM3B0WUU2dm90cG1uQmgzTDdfak1vLTExMjlnUmxPbFpXU3V1dHJqVTN6QUdOVW5YdWpfX2NIeXJRVzIzd0o4SHlrVThBSXFRdnhmckZyXzREcHdZVER3YUdtR2VCOXFKU25Yd3AzZ2RlMXlaTTdPc0_SAdsBQVVfeXFMTnFNVkhwTDBXZmd2Q3ZpQTFaaEZZM3JQZnJKRnJXUGFqRVRvbjQ0QW5oak44MlVpbDluZlN0bjN3aEhtd0FadFkzaWZWVm1BcnlRM0hnWEQ5TU9GaldWM0R0VUQxVkwwM212QUttT1htY3RzaWtEWE1jN0w5MXhYMFQwZTVkNnh1TUg4Y2R1aWcyalBKcVdOaDVSeE9hdlhkcUxyV2NfY0pzS0hkc29ZWGwwYVg0UTJLdktyd3M4M0k2WkhWN3h4bkROVnJsdFB0UnB0bG5ZWGR5cm9B?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 05:23:04 GMT",
+      "timestamp": "2026-08-22T22:08:39.589525+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "54447a8d566bd958",
+      "agent_name": "sentiment_agent",
+      "sector": "positive",
+      "sentiment": "positive",
+      "sentiment_score": 2,
+      "confidence": 68,
+      "pos_hits": [
+        "jump",
+        "jumps"
+      ],
+      "neg_hits": [],
+      "headline": "Stock Markets Today: Sensex Jumps Over 500 Points, Nifty at 24K - Rediff",
+      "summary": "Stock Markets Today: Sensex Jumps Over 500 Points, Nifty at 24K Rediff",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSGVnR0Z5Ymgxb1dycXhtazNXcW1uRXZJemxIVUFXb19LazFadDAwVlFxa0o1NUVNMEp2cGlfM2w1d0FCNlctOFR0dkxEQlNBWUtTcFV0dU1oLXlZWGZsQU1RdUwwSDlVZ2E1bE5mSlk2OERPMk1UOVJFM2JRSm1lZTNLa3NfTWRPZHRBaWFTdXh6VHJlVDBBSXFWamIwNnVHanhxTVM5TXhyT1VOVktlUXlibjZMRFhmNmZCNm4yNk8wR29uT25rQXNSOVM2dlBKUHQxbTlFT05yUdIB3AFBVV95cUxPQTdLVGd4ZjEzdFMyYTV1dkdoeExJbzJ0Um9nLUU2S1pvYl90aXprMmlTdXpPTGQ4ek0zSnZCTjJDdExqMlUwYUZveUZXaERGSzR2eUphZGZ3V1l6Y0FlbHZlbHpKY2QtTkpqOU0yY0xzT19pVUxTLU1JZ1dyZ3FYaXI4aDdfclNJTm9HVUJSdmNtX3lCZHcwTmxpbFJadE9ZWWwxT0xrdXdQUlVwMUp6MVhOQmdHMVY5djJwbXdRZGJ5dkpKNjB2cXlPcVBTY3MzOE1PVzZaOXotaXFL?oc=5",
+      "source": "google_news",
+      "published": "Thu, 20 Aug 2026 05:19:22 GMT",
+      "timestamp": "2026-08-22T22:08:39.590031+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "047b8e547da2eb0c",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "Sensex Today Ends Flat | Nifty Above 24,250 | Urban Company Up 8% - Equitymaster",
+      "summary": "Sensex Today Ends Flat | Nifty Above 24,250 | Urban Company Up 8% Equitymaster",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcDVxZGQza254Nl90dnhYbGVGbHhfcXBvb05pYWU3T21lQ011aU9TMkRiUTdaYnU4MHNQdGZTUE5SRkJrbUdBb2lzMFhGZ19XeWVWY1Foa0ZrTWk2NXRtSVdpazBKTVl1ckU1MDdGdEcwcHBBNkVtVUpGVDIzam1xVUFKMmdYei1oRGhxRnRIRmJ5b2Z1bjJkT1UzUVVqN01jZU9xLWFKeEFuOFJzMFFpZDZSRlRTNjliaGtXOWRaQQ?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 10:38:03 GMT",
+      "timestamp": "2026-08-22T22:08:39.590606+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "faa5c45b194a2e50",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 19 August - livemint.com",
+      "summary": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 19 August livemint.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV1dsd1lGMllYS2xGcEtuVlUzOWNlbTlpaVJ1Qy12V3ctUExkX1dVWjV6RzZxSWVIWTNhS1c4QmtSRkRwOGp0a1p3Z3ludlk3QVp5ZnZKdDZTYzNhaE1HYzl1a09tenJScXFjbmVNOGpJQktCM0tjblBmZVFOZlVXVDJMNXEzVU1pYkdLbmNkbFpDcUVyejRudllPTjJ1ZWdtVXFCUG1xOV9vOE1xZGVhWGs4eDc5Sm4wOUNKejFmc3YzdVlxMDM4ODh6cXAwbS1idmlsR0Z2QUZpbWkwbzgwTkpLd0xlN1RFdkpVMU9XZGdKVXVmTWxpTld30gH_AUFVX3lxTE43QUhlb3dfVThFVUF6b2pDaTZucjNGWkhFS3hFOVRRTXoyVUZITWQ4bk0tZUtubklzQ1VjQzZqOUhqM3hRVnlxeUZOMjN5TzdVVzJZYnNHU0dBbTh5dXVGaVB0cGdqMzRLRmJWQUJSclNibk9pQ0dtbHA5dEJ2X0oyR0ZLclhlenhSVVhtYjVPdEZnNmpiZnlUc3RjbkotcFItRWRkem9KOW5YS3RFT0Rab0ZiZWdyYVVTbUNpM1FOdnVRWnFSY3IyWG1Yc2VhTGc2dm9UMkdBbHlJOHJhYjZEVWhVcl9ZQnZULVRiZUE5bGJRYm04ZXhkeGh4LTN4QQ?oc=5",
+      "source": "google_news",
+      "published": "Wed, 19 Aug 2026 02:09:26 GMT",
+      "timestamp": "2026-08-22T22:08:39.591000+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "3788180a4a4f7126",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "Share Market Today: Nifty 50, Bank Nifty | Aug 20, 2026 - Liquide Blog",
+      "summary": "Share Market Today: Nifty 50, Bank Nifty | Aug 20, 2026 Liquide Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOXRvOW9Mb0VVYl8zRjlaLWs1aUx3dUkwdi0zejljLXpmaFFBMHJ2S1pWR1dRRVFDYTA0S1ZyUXhDbVNpeFphMGlERnF6V3UzQ2Y4M3Z2VDl1QU5CT0tiUlpRYlFGOTRqRTRicC1MOC1sV1dXRkU0dDZDU2I5VENySVV6VG14d1JXSWI3ZnVyUUdqRE9CWWZHemlSaWtFcGVxTGFoTlkzMUtubjFKZi00WHZNSnI2TXU4ZXlOaXR5bkZaSEpPLVkyYg?oc=5",
+      "source": "google_news",
+      "published": "Thu, 20 Aug 2026 11:39:34 GMT",
+      "timestamp": "2026-08-22T22:08:39.591480+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "6da02d28975a0d59",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "Share Market Today: Nifty 50, Bank Nifty | Aug 21, 2026 - Liquide Blog",
+      "summary": "Share Market Today: Nifty 50, Bank Nifty | Aug 21, 2026 Liquide Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ2dGNmp5MFZ5ZE8zTXp4emNYSFpjVjRKZTBBaHZDWWplR2RTSEpoSG9XXzVud3FKLW9GcjVUVEgwd2JUeF9oSTRKTjhIVndhZTh3UVJNaExYdU9MVHZFR0NvQ0ItemY3OVVPdTYwWlVxaW1mUmZ5YWlSYXlsN21aUWJaTEZOZTN4dnRUeWZzRUoxYzljNWJnWlFMdE55M0ViOUVxSlNfejlaS1RzbFAtUGl4UmVoR0JLT1JOV09MemV6b0U?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 10:54:39 GMT",
+      "timestamp": "2026-08-22T22:08:39.591614+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "8c07038abf253bf6",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "Share Market Today: Nifty 50, Bank Nifty | Aug 19, 2026 - Liquide Blog",
+      "summary": "Share Market Today: Nifty 50, Bank Nifty | Aug 19, 2026 Liquide Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZnhLWmFvY1U1b2VuMHNveHh4X3FEOHdMa0UzX0hzSU9KVDFiUzBMa2p1c1JMNmRxcDRCSjBGbU1XVGlTTHdKcGNJcjVxRXdCUTROVmNEX0JYUmRiWWFxdDZYWWpwRGgxSlI3cXRCdjJoWnJEN295MkRnVjdrSzdvbTNweS1CQXV3ekdINFUwWFpCQ2t6Zi1fSjlUeUUzVXFGMkFucm5DYnhMRDdmemdlbEhSaVZUbTMtdVktc0c2S0VzXzdOLWZXczlLekR1bkZiRkJheDFB?oc=5",
+      "source": "google_news",
+      "published": "Wed, 19 Aug 2026 11:19:31 GMT",
+      "timestamp": "2026-08-22T22:08:39.591791+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "82efa45759088240",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "Stocks to watch: HDFC Bank, BSE, Oil India among shares in focus today; check list here - livemint.com",
+      "summary": "Stocks to watch: HDFC Bank, BSE, Oil India among shares in focus today; check list here livemint.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUDRhRFVQY1g0QTFGdkhRcVAzbXFWNDhvLWIyWnJ4X1haVDF6QVl5WFZTUVgtUlBQT2VfZGV2SXFVRFJjQXZPcGx2UTNUOGlFR3BtTDdmUlpvS2FnczlCOUdzTXk3TldtTjFqLWc0M1NVREViMXNPdW5LVXF2VGdXWDl0UVhHWVhFS0U5bUt1RU1VeXowcjRhZkFZZmt5ZHBrOE9HdlpSSFcwQ2dIQVhfLUpqYkM2cUNRbTJsaHYydE4zVjl3ZmttRk5TVkVfZERQNHl0RlpfQlItbmc2ZEwxaGhQRFpiMzNk0gHuAUFVX3lxTE1uU0ZXazRWRlhaYVBJVktvcmZ3SHZ0cUVDcW45X0pMcE1Pb3lyQ3A2a09aRHBJSG4yOTBXOG9XdUs3MXFmN255d3NyZzNPT0VXeW1Vc3RPSkt6akdwMUotb05IbUlWLUNTRk04dmlZT3NENmlSN3E5V181alhvTFV5ZDJLeUNuMHFwNTVyTkozLXRKS3M3WkRHQ0hUdDMzc1FMOW5TM1hFVHMycTAxSlNIT25SOHVxc3pNY0ZnUEszUnBkbjdXMnJJNFpleGs4OVl0a2F5MDlaclhVMU8xSUZGZFhPUFdNRXlJS2pvMnc?oc=5",
+      "source": "google_news",
+      "published": "Thu, 20 Aug 2026 02:48:23 GMT",
+      "timestamp": "2026-08-22T22:08:39.591980+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "dc62ee5f706da2ea",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 17 August - TradingView",
+      "summary": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 17 August TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZUNCVGpRS1lVaFNCVDlIdThZTWsxamFqYzZ0SFJwTm4teHFKSXZXaFhWblN0WUFRbzk3S1I0VmxNZUNReDFQcVFMa2ZEd1ljblhaZlBCMW9FVW8ybmhUS1NfLS1sSWxKOWhyenExYUJFNGkzYzc3LUFEdHZXWjR4Z2ZtOWp6YUVsZ2tRelVGdTdKbzl4ajB0VUJpZHk5cDUxUl9rNm5MbmhWbDlLdWc2a2o4cWJFdGs1XzcxU21SOUEyS0otVnBVSUcwVVNsaW9leHBYZjhmdEhZYVlaN1NZQzhCRzlRY3c2?oc=5",
+      "source": "google_news",
+      "published": "Mon, 17 Aug 2026 05:09:00 GMT",
+      "timestamp": "2026-08-22T22:08:39.592113+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "c1eba5b3a1a308fc",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "ban"
+      ],
+      "headline": "Sensex Today | Stock Market Live: Sensex flat, Nifty at 24,250; ICICI Bank approves up to $5 billion - IndiaIPO",
+      "summary": "Sensex Today | Stock Market Live: Sensex flat, Nifty at 24,250; ICICI Bank approves up to $5 billion IndiaIPO",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT2lwemJiS1U1QTg1a1pfTklPaFJUenBabGFzVUxabUlYZmpWR3ppaF9aWHZQZTctSTRWdmNCdnZ1bGdGRTJiZWlvcFdyVXcyWUE5X2xnS2RHTXpYc2dEaXhqNXJNTUNOVUhPVVpHR3gzMkRlMTNpdmZUY0IzR3BlaS1GbV8xbDF3X0ptVnU3b2hwYzNiNXZsWWhlRFhqZHN5Z0d3c0ZoZll1Y1pjZ0xRQVNmODgtN3ktdEg3NWJDU2d0NWdYWHEzUQ?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 07:13:03 GMT",
+      "timestamp": "2026-08-22T22:08:39.595021+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "1013492f4894561e",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows - Goodreturns",
+      "summary": "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows Goodreturns",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2JzQUJabDhtVHRIaHQxMktTVVFtd0lWWmtTR1ZwLWN3dlVnS0tEQVZyVVhZWEtIWUNIZm9pQVdqbV9JNkR6RW9YLUNsWFVLMXJSMXlHdkxjTkdESk5YXzM1eDFHZ1BFc2psSHJjY0V3eGhfTEFrYVMxZU1HbG9PTjA0QUh1QUFDTmwtTjhfTGNMY1VVdzFzanNRU0RVUm9lTEphNVJKRlpZOHFfaTNIX09XVC1Fd2VHdWl1VzAxcVFKb0QwREgyRnNCQnZhQWhtRnVMaXlJWlBPeFVsUlE?oc=5",
+      "source": "google_news",
+      "published": "Thu, 20 Aug 2026 05:34:17 GMT",
+      "timestamp": "2026-08-22T22:08:39.595552+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "27ea51c7c0c7d2ef",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Sensex Today Ends 325 Points Lower | Nifty Below 24,100 | Bajaj Finance & ITC Top Losers - Equitymaster",
+      "summary": "Sensex Today Ends 325 Points Lower | Nifty Below 24,100 | Bajaj Finance & ITC Top Losers Equitymaster",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdlNFaWlWTkhHNmtWS2RlTGh0NkRhb0UxQ3gzUE0wekV6M29kbHlNenkzVTE1V2lYNjhIM2NWUWRpOUhaeWFyOERpV2gyYmZHalJtZzJZVi1MMlVoalFQbFZQaC1jY1lKZGFmeDM0UVhSTXpHRmh5TW1LYzVkT0Y3SjZBcEFCRzZaUHEzVk1PUmlrTmNCa1htNll5d2lvTmw3ZG42Z0VSU1RQcjlxVWlqenNzZlJqWlIxSUMtYUlDQzk2YjNsVHp6ZkVRTTUzTXY1V2JKcmRlbnBkT1NUbmc?oc=5",
+      "source": "google_news",
+      "published": "Wed, 19 Aug 2026 10:42:07 GMT",
+      "timestamp": "2026-08-22T22:08:39.614218+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "00b91c6153da90ac",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Sensex Today Trades Lower | Nifty Below 24,100 | Tata Steel & Bajaj Finance Top Losers - Equitymaster",
+      "summary": "Sensex Today Trades Lower | Nifty Below 24,100 | Tata Steel & Bajaj Finance Top Losers Equitymaster",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZzd5YjREd3c2MmhpVXFXNFZLeDBabS1NbFhPTk1LNDVONlctMHgyUTFwRC1SZEZLSk92a19RWExXUW5rdTA5MUpXWGFaR3pzWXdVR054Tk5KV3E0bExCVmdBUUQ2M2FFdGFTQmFmWXMxNE9fUmM0MXdUMFJmZ3NieTcwSWFlOG9Tb0tJSGVzTm5LR0Z4MFFCSWRDUm8tV3JyWURwY0dlVm1NYjRiVjFGdzZVWHE5MzVHRVRWQUszdnBaaV9yYlVYWG1OS1RCbzMzQ1ZxUFQ3M1BtX0k?oc=5",
+      "source": "google_news",
+      "published": "Wed, 19 Aug 2026 04:48:17 GMT",
+      "timestamp": "2026-08-22T22:08:39.614427+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "56be922ed0476b37",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 44,
+      "pos_hits": [
+        "gain"
+      ],
+      "neg_hits": [
+        "fall"
+      ],
+      "headline": "Indian stock market extends losing streak: Sensex, Nifty fall again - Indiablooms",
+      "summary": "Indian stock market extends losing streak: Sensex, Nifty fall again Indiablooms",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcm5zeGxGNmY4eUJaOFNCQ0FSYW82c0x5YjFVZEQwM0pudDZLN1R1YjZ1aE91UEJPZTZpRVJ6U1FSMzhEV2FXZDhZLXpmNzExU3B5MGh2MEZ5cU1zdF9xZmZGWnBXT0FFM3J1dHdaUVhyVDdQWm5JVWdLaGJPSmhJT3B6SmVZU0x2NEd6UmNtN2Y4Z0w3Nnp3eHdYZGhJLUxsUkhWNWlWR19vazVURmc?oc=5",
+      "source": "google_news",
+      "published": "Wed, 19 Aug 2026 11:26:28 GMT",
+      "timestamp": "2026-08-22T22:08:39.614715+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "b8beb35897212478",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Sensex ends flat as financial stocks offset crude and bond yield concerns - India Today",
+      "summary": "Sensex ends flat as financial stocks offset crude and bond yield concerns India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTERYUXlKUTBIdjFCMzk1cDFEQXlwTkMxcEtXVFhGZGZtNGdmUEtKVlR2YzVXeVYzdWx1aWprb3BvTUN1NGtWX1YyR1c2TW1QOGVlMllIQUFHWVFBb3B0cV9oSUhiWVFVMjVLenotaVlQRlpOeWQwcUhfazBrQ3ByQnVzNE5BcUpEY0o3MGRfXzRiUjFtX25HS1l5OF9UOXpDRFRSYnpOb2M1NE83UjZnT3doel9nZkxGNG1MUjUxZWRka3ZxcWN0eWFLUXNnVnVVZ3VESNIB2gFBVV95cUxQWXBRR3VGRW1oR1JGakh3ZlVWQndDdFdKRG5pYldDdVNqS0xwV1pRUkhsRnh3cG1PVzhwcU92M1dvTE5LSU8wN0dKWHVBVEFuaWpYRlpLNlFISmtRWS14enU4YkIzVmlpVnRQSkxqNEpGMVFZZTYtUFZ0ZlhncDFhOVlEOTJYbjFXUEtpNVZvajU3d0NBM0xOa2FmZE15LVVPaU1pUjF0dXhsZ3FKTVZnMGduMHJVOGhnVmg0ZHBmQ2o4alkxZzMySHlyeHdpNzNWR2MzVEdldGdDQQ?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 10:22:38 GMT",
+      "timestamp": "2026-08-22T22:08:39.614883+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "a9954ef80ea1824d",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Why did Sensex, Nifty end flat today? 5 big stock and sector moves explained - CNBC TV18",
+      "summary": "Why did Sensex, Nifty end flat today? 5 big stock and sector moves explained CNBC TV18",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYk04ZGdwUHZpZHVuZ25aVE41Y3lhV0pvMDVLb3lJMF9lOVhmcC1OZ3FnY3JTc1gxbWtmbFB3WEFnOGNSVEJqM1JLTnBtakdLRHR5RnFQOGZJTTJHaTR3NTBDRWpRc2pReGcyYjlkbzB3MHhTU1B0UGxhWGRGWG1GS2xuTzR5QzN0eXc4LWNtUTFsNGQ0S1Z3ZlVyUG9tbVFEd1FLcWVPNWJ4RjFBakVVZ09fOExYaFJuVXBv0gHAAUFVX3lxTE1hcE00aFVwbDRHWklUdk1wQUJQS1BnY25jY0VfZTVJaEJMeHBvcG1GWUNkN1diYU5EZWlHWlNTM2JJQ0NwM3dKdTRMU0VoRGdKUDc2U054MnM4NUVNc3lBbkNtZ3FVTmZYbGoxZTN5bUhocFdSeENtRml5b3llTXlwdnh1bDZNQjZ3SUdOOG5GRXVsZ241Z2xLNXFFSHExaTdoM29INGZucEkyXy1xTmF4NkthT1podE1LUy1vTW9CMQ?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 10:13:07 GMT",
+      "timestamp": "2026-08-22T22:08:39.615729+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "c54b3b6c367bba46",
+      "agent_name": "sentiment_agent",
+      "sector": "neutral",
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "confidence": 40,
+      "pos_hits": [],
+      "neg_hits": [],
+      "headline": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 31 July - livemint.com",
+      "summary": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 31 July livemint.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObkdtRkM5SWRUQ0I2d3plNU1tdDdHUVdrU25vZHpXYS15TlAwZGlGRWM2Y3RycTRZRld3V28wa19VUXI3TWczZnRJTlpIcUFHQjhldmFibTBLdnpZeTltbUVRSDQ3cEdQdjFDTFJQZ1FVcktKQ29sYWw1YnlheDVmRVJfdWFYUkZibzdiWms0Smdhc1E3eUt2UE1DVGExSGt6V3BGUkJ2TElPaU5aS2VOXzBiQjA1NWNnQkJsYmR6elJ3T3JrZTJIMGhINy1vaGRKNHppVVg2dV8ySEh1blZpOUM0d2hsTzlIUE0xS19MYWF4dmU4VjEw0gH8AUFVX3lxTE9DMExwUkF0WVhYTk9xZkhfbmxHZ0k0RDEwdkd4S2UwRHpENDhGd3o4aTZqSXdhaDVPVGhqQ0w2ZGpvbGRjQU1QNnFWR25OOUpGdTZSak5HRG4wc016c1ludGZTal8wUmxtOW9WQ3dNNjM1ZVkyMkZrYlNmTS1aTXJtZHhWcTUycjh5RWtVaF9Nd3NhMVM2ZWwzMmdhN1VLRWJCTTQ2c1Joc3dBbzRsYVhIcWlYS2NNMkNrNlhrRjIycmhHV1hhZjVPU0xFU19wZE4tMkphOGxRWWtZeHFlOTVqcTcwQjZMUU90a0ZycFlQRXM0aWpGTjdDeVhTdA?oc=5",
+      "source": "google_news",
+      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:39.616589+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "88dfbdf2c59b0609",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "fall"
+      ],
+      "headline": "Sensex tanks 700 points: 3 reasons why the stock market is falling today - India Today",
+      "summary": "Sensex tanks 700 points: 3 reasons why the stock market is falling today India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSTJQUDBNdExlYVhyUXh4WlZ5MUlDeUR5LTNYRExqRlM3TlpxMlcwTkdMUnliQzFYclFxaE1YazRpSkloTlBadTdtcTE1SlZWdXZveHNVYzFkV2N2dlB1emlxOU9tejZDY1RMc2phb3FIM0pBUVc2eXdZc2dqQm5iRmphaFVSS01yQmVCMHgtTGY5Q1ZZTGlCS1VDNzI5UjMwSDR4MEZhRVlIRi1tTTA0VlNIWUphQ3IxbUxPRmY4Vk1mX1c4bWI2YXRDemxWbXE5SnFiR3hjZ2V4bnUzanA2X0dUQlpsRTg1N01EN3cwc3dVYjjSAfgBQVVfeXFMTVZzTHdDZVFzd1o0MEtFUmhlOGxjTmJSNGRTRnh3b3BaMDNuWG9oWVo0SE9XTHYxVkpZOXIyOEZNbzVLMzBNY2VibFZFc3FqNEllcW5ycnBnTmdRM3ItTHhqY3lpUzNXWVc2UFJ6aEZJNlpxcGdBaEN2Q0NzS0pHM29jRUZRRkE5NkItZlloODgta2dYcGVKVHROZTcwak00QTJRanA5UWs0ajFSeFpJVW50SWRDOUwtbHNQVHZvaXV3eWN2bWRRbU5kNzdlTVNUVnBFRTRoMmRmU3hCbHI5MW0xbUhDcnZxMkl5Vk9vMDlLV2VFdUZTZjg?oc=5",
+      "source": "google_news",
+      "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:39.620664+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "ca110ab76468e5e8",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "drop"
+      ],
+      "headline": "Sensex, Nifty Drop at Open as Crude, Geopolitics Weigh - HDFC Sky",
+      "summary": "Sensex, Nifty Drop at Open as Crude, Geopolitics Weigh HDFC Sky",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWE5ZQTd1U2JCaUQzaFRZM1RoeFZxTUpIOHcyR3RSVUwtRGU3TjJBckhmcjZMaXdya01zUkFIRm1VVUhyYkVsbFpzX1lDdVJpdFE5Z1dBNVY5WDljX3F5allWMWxob2JhR3F1aXlJR2FUQ2phWlVKMXJmNDMwS0ItM2hEQjBldzVfYUxPN0Vjb09zdUFaeVBjMHlhZ003OEFCbHM1al9xeFZuY0p5Um1oSlYtelVHV2t2RnZjMjlSWjdRVjhUS0paVjA3bDdES1JUT0dZ?oc=5",
+      "source": "google_news",
+      "published": "Mon, 17 Aug 2026 04:48:43 GMT",
+      "timestamp": "2026-08-22T22:08:39.620850+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "3854ffaec7110880",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "decline"
+      ],
+      "headline": "Sensex settles 550 pts higher, Nifty ends above 24,750: Decline in crude prices among key factors behind... - Moneycontrol.com",
+      "summary": "Sensex settles 550 pts higher, Nifty ends above 24,750: Decline in crude prices among key factors behind... Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRlpCbWtwdjVXUm9Va2RGbC10OVllMlFJdTI4NGhDNTVHRG4tU1oxTXFTTUhPNzR6QXNEVkFfcnAzM2NFUzF4b2RWZGQtbzZmZFE5YmpEOXVoUzBodkFGYlNJNV9SelFzUlZwZWZSMnBBTEJyb21CWkh0UTJGOFlvRUMtSE5WaUZWc2UyZVVJWEc0SWJrbkE2bDZVRTF3eUZ6TWlOVHc1cWFOT0hrYnNiQXBwQkNNT3BtRzNtUHdJUEpPQXZjUVVuSVNjWG5ocVFXTWlDaExkczlUbG1LWEpHSE5URU1YdkFrRHdQcDhXejBkZldkcFFUWtIB_gFBVV95cUxOSk56SEpoTDJCeE0zcHFIN051LWZ4ckhEVGtsQjM2TEwtQ3BaQl9IeHI0TkRjamRSQ0E3dmd5QmpDeVhCVHp5a054TXlsdkNIM3JUTUtWUk84eElZZW1JUW55MEsySVJDaktuOTZBclhmTzNaOElDS2JVSWNLWEtBU043eFE5WDg4QWFSS056cHM2bVdVNUV6OFRIYmpqcWpWTkpyVDF3b0EwTXNDMzZqWVVpQ29hWHVFZk1zZHVmUk12OTNFY081cDVDLVJLQzMyYVhtOC1zWFB1czBURU1qUWZkVWNKQmJQeUZadk8tU1JpNnF4blBNdTJJdmkwQQ?oc=5",
+      "source": "google_news",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:39.621492+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "5fb24b900a3f1227",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "decline"
+      ],
+      "headline": "Stock Markets Today: Sensex, Nifty Decline Amidst Surging Crude Oil Prices - Rediff",
+      "summary": "Stock Markets Today: Sensex, Nifty Decline Amidst Surging Crude Oil Prices Rediff",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ2dhV2pyakZOMmJYTGwza05fV0FyTzVwbllpdGFxREVkRUpqbTc3VGdXRW9uMmFqMmpWWExLOE1qUDJ5T01ZRjN6bWVyYzNxTWhaRGhRRFY5bVQ0NUtBcjV0WFhuRzlYdTFSUFFvcEVUZVZBYUhTV1plOEE0aGcxbnFNbHJDSGJsTzNsSFl4VzNsQ0RrWUcybVByU3pDN2ZXUGs4czdkTkVMMUJNYkhSWWpaT2lQMGppaUc5OTdaT0hlNmFTVWlaLThQWHd3RGduY01R0gHWAUFVX3lxTE5FcTJHV3FMbnhYT2loLWpWTEdfN1JZRnF0RElpNWFhVWV4aFRocHdKTkNJaGlINXRoeTQycXp4ZDA0UmtSS3BLRUtkd1lMMkVPT1FjYlhpNjQxWnUzdGk5WU5INFZkcFhFd3hRd3RhRVg1cWpqeS1yUU9FUlAtME9wZldCY3lQMXhxZy1JOWh0aXIxZ0pNN0lOOGxyTi0xbTRoT2g2RTI1U1g3LU5QdlRNNEk3RXVMcW56NUVXUFF2VjEwdURkYWpCUUR1U3FCWVoyODFib0E?oc=5",
+      "source": "google_news",
+      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:39.621670+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "d9b9d6046bb76794",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "crash"
+      ],
+      "headline": "Sensex ends 1,677 points lower: 3 reasons why stock market crashed today - India Today",
+      "summary": "Sensex ends 1,677 points lower: 3 reasons why stock market crashed today India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeWlVUHNfSy1xRlhmcTQ2OVYtZE1FWEVYZFB6dHh5MlpnZllMTzVYTTloQnVJRmRHcUhyZW9qNGY5UDRfNHhaQ0NuOG56WWJUM0ZhUWsxNVNueG12dzlkd0UxTFpYNVJtMEw1UC1lUTl6eXc1alFHNmFnMUQ3Nk1FYTRpenhrdEpFUGE5ZllvV3JvZFVUNkJxM0VleGl2bllkS0RFOHZrMC1HMEQ4cDVVSmU5Y1poazZuS2dxYXdXZm5oUjE5czhGSzFCYXFPMVd1SUdUeHR0QU1qRTF6OURRUHpzcFZ6QjlxT1prbVI1alpHcTjSAfgBQVVfeXFMTkdBdFhDMHI0a08xNWtJX0lFRkVTT3FjTDB0T2pKUnBDemFrTV9MYXBlX1dCNnk2cmZiNjZ6SjNSMmZwT243b0hoem9iXzF5a0hoeXJFQ0xTWTJ1bFVxeW9SdnRCd1p5UmJrTFBNRWYyUWp6OC1TYllaTERpcU9PV0dEUlpnaWNRMnZkNURBX2puNGFNOFlja19QaGFuNEptcktRZ0h0RXZlMi11TjV2UEpveTNkQ0t4TnlHNlBEMk9wQmUxRUtpVUJ2cm93NS1McEVqWW45cS1OVnVtTHZ2ZXQ2bXZtOXN6bktONDZiS2w1RS12b0s5YmY?oc=5",
+      "source": "google_news",
+      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:39.621840+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "9c59c3b57b329790",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "fell"
+      ],
+      "headline": "BSE Sensex Today: 5 Reasons Why Market Fell and Recovered - Sahi",
+      "summary": "BSE Sensex Today: 5 Reasons Why Market Fell and Recovered Sahi",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3YWUxQkZrc1E1dDJQZk1EaVJpN0g5eUt2MjRJN0hyUXZhR2QwTDBKMGNvbUd0MUpHTHpHdk9MWHhtT3lRUnF5TUNIMVVGR1VNRmY2ZnB5SFlKZHJhVHIzNUZHYU1jeXM0VjdTWW5uUUloRWxVNEY1VUhIU0Vqdw?oc=5",
+      "source": "google_news",
+      "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:39.621928+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "c8cad346d7cda2d7",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "warning"
+      ],
+      "headline": "Trump’s ‘economic D-Day’ warning to Iran rattles markets: Sensex, Nifty turn volatile - Indiablooms",
+      "summary": "Trump’s ‘economic D-Day’ warning to Iran rattles markets: Sensex, Nifty turn volatile Indiablooms",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3RHMkdLMGMxS2FNTHVINEc2Ung0WldmaGpNU2wtSFdhMU1Ua25EaEJLSWxoUzEtdU9JNEotRFNuLTdvLV9sODhFaW5ld2NTZUtTTDFSUHRFQW5WR0tWc1hNYXFIM3FWMHJSbkVWZ1VEaXprSEh5NXJnZk5UU3phVEN6RjBudkEwUGNYeS05NTlFQ2pkSEdpNXdvM2ZjZnhSdlo0eTduMmZoaDdLOGxfSUptVHNmUFl1MVh6ckUzMmR5dw?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 05:37:39 GMT",
+      "timestamp": "2026-08-22T22:08:39.622796+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "691275c697a781b7",
+      "agent_name": "sentiment_agent",
+      "sector": "negative",
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "confidence": 54,
+      "pos_hits": [],
+      "neg_hits": [
+        "downgrade"
+      ],
+      "headline": "Kotak turns cautious on Indian IT, downgrades Infosys, TCS and LTM; prefers challengers amid AI shift - Moneycontrol.com",
+      "summary": "Kotak turns cautious on Indian IT, downgrades Infosys, TCS and LTM; prefers challengers amid AI shift Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRm51OUlyZEx4OU4xa3NlbDdPa2FQTml4SkVmb0hva0lMVUZBWXJfOWY1eXdxeXJyVU1JTllRSDc4elRDLUZqV2EwUFEwbk5VNzliV0thcF9XWm02aGVKRHRyZ2NiazFrLW9HTWY3UFJBR3lYWVJiRWVCb2JNODU4ZDRVWmpfUVJZcUlPSEFWLVY5OVprTUlhMWZhenZwd1gzYXR0Qi1mS3prMDZIRmJwTUx4Zlk4Y0VxS3Jja2w1QndCWkN0X2k4MDNBdWVaOWlVLXhUdmFWcUhnTXc1eG9MLWV4SnM4MXpiNkdnSlNpdnQyeGptelHSAfsBQVVfeXFMT1NHblJjV3UtUzFhUFlIVXZjdFI1d0Rhd0tpaHAxa3V3RTJQT2lHVFUwWlBucHZFR1ZVVV83elctRXBLczB4dGVxUWtacGRQUnN6OWcyT09XeXZWeEx1bTkwdzNOMHBRdEt2SU00X0VCenB6YnVKNHpMc09pRW94Ny15ZEZfQzBSamlRc3dBOUdoQ1g5VlVKeEVyUzlScHlzUGNVbm9NbmhZYTYtRFprMm1RQm16Nmh2alQxRVI3ME9XdGpMRTgycC1TaG9ZeDJzc01OYUFYbDJJTm0xb01rekF4a3RmQTZvNGc5WGV0bEliNy1fb290LVAyR2c?oc=5",
+      "source": "google_news",
+      "published": "Fri, 21 Aug 2026 05:01:50 GMT",
+      "timestamp": "2026-08-22T22:08:39.622986+00:00",
+      "status": "completed"
+    }
+  ]
+}

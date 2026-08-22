@@ -1,0 +1,10 @@
+{
+  "name": "earnings_surprise_agent",
+  "display_name": "Earnings Surprise Agent",
+  "parent": "news_agent",
+  "status": "idle",
+  "version": "1.0.0",
+  "mode": "live",
+  "role": "satellite",
+  "description": "Live results headlines tagged beat / miss / inline from language. No invented EPS numbers."
+}

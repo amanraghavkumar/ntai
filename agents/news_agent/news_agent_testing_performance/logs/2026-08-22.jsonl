@@ -1,0 +1,95 @@
+{"timestamp": "2026-08-22T17:05:30.303203+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Walk-forward tester online. News day first, next-session price later."}
+{"timestamp": "2026-08-22T17:05:30.615340+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Pairs: 2026-08-11→2026-08-12, 2026-08-12→2026-08-13, 2026-08-13→2026-08-14, 2026-08-14→2026-08-17, 2026-08-17→2026-08-18, 2026-08-18→2026-08-19, 2026-08-19→2026-08-20, 2026-08-20→2026-08-21"}
+{"timestamp": "2026-08-22T17:05:42.393352+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-11. Prices for 2026-08-12 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:05:44.272074+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-11: 139 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:05:44.287145+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-12. Prices for 2026-08-13 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:05:45.985466+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-12: 114 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:05:45.998260+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-13. Prices for 2026-08-14 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:05:48.733864+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-13: 94 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:05:48.740976+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-14. Prices for 2026-08-17 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:05:50.380095+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-14: 111 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:05:50.392091+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-17. Prices for 2026-08-18 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:05:52.034149+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-17: 100 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:05:52.044904+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-18. Prices for 2026-08-19 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:05:53.672498+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-18: 89 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:05:53.682258+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-19. Prices for 2026-08-20 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:05:55.485446+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-19: 55 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:05:55.489474+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-20. Prices for 2026-08-21 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:05:57.077601+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-20: 73 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:05:57.083424+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Walk-forward complete. 51% hit on 49 decided calls."}
+{"timestamp": "2026-08-22T17:17:41.519435+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Walk-forward tester online. News day first, next-session price later."}
+{"timestamp": "2026-08-22T17:17:41.519894+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Pairs: 2026-08-11→2026-08-12, 2026-08-12→2026-08-13, 2026-08-13→2026-08-14, 2026-08-14→2026-08-17, 2026-08-17→2026-08-18, 2026-08-18→2026-08-19, 2026-08-19→2026-08-20, 2026-08-20→2026-08-21"}
+{"timestamp": "2026-08-22T17:17:44.417914+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-11. Prices for 2026-08-12 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:17:44.419609+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-11: 139 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:17:44.568006+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-12. Prices for 2026-08-13 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:17:44.574128+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-12: 114 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:17:44.644753+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-13. Prices for 2026-08-14 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:17:44.645658+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-13: 94 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:17:44.705649+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-14. Prices for 2026-08-17 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:17:44.706616+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-14: 111 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:17:44.774873+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-17. Prices for 2026-08-18 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:17:44.775705+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-17: 100 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:17:44.836160+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-18. Prices for 2026-08-19 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:17:44.836889+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-18: 89 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:17:44.892128+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-19. Prices for 2026-08-20 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:17:44.892671+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-19: 55 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:17:44.926849+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-20. Prices for 2026-08-21 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:17:44.927508+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-20: 73 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:17:44.972777+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Walk-forward complete. 80% hit on 5 decided calls."}
+{"timestamp": "2026-08-22T17:18:28.401537+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Walk-forward tester online. News day first, next-session price later."}
+{"timestamp": "2026-08-22T17:18:28.402391+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Pairs: 2026-08-11→2026-08-12, 2026-08-12→2026-08-13, 2026-08-13→2026-08-14, 2026-08-14→2026-08-17, 2026-08-17→2026-08-18, 2026-08-18→2026-08-19, 2026-08-19→2026-08-20, 2026-08-20→2026-08-21"}
+{"timestamp": "2026-08-22T17:18:31.300650+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-11. Prices for 2026-08-12 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:18:31.301823+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-11: 139 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:18:31.393826+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-12. Prices for 2026-08-13 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:18:31.394744+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-12: 114 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:18:31.466508+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-13. Prices for 2026-08-14 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:18:31.467223+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-13: 94 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:18:31.527271+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-14. Prices for 2026-08-17 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:18:31.528326+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-14: 111 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:18:31.599681+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-17. Prices for 2026-08-18 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:18:31.600555+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-17: 100 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:18:31.660886+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-18. Prices for 2026-08-19 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:18:31.661677+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-18: 89 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:18:31.717140+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-19. Prices for 2026-08-20 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:18:31.717660+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-19: 55 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:18:31.752738+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-20. Prices for 2026-08-21 still hidden from scorer."}
+{"timestamp": "2026-08-22T17:18:31.753659+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-20: 73 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T17:18:31.799544+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Walk-forward complete. 52% hit on 29 decided calls."}
+{"timestamp": "2026-08-22T18:02:52.501451+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Walk-forward tester online. News day first, next-session price later."}
+{"timestamp": "2026-08-22T18:02:52.501994+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Pairs: 2026-08-11→2026-08-12, 2026-08-12→2026-08-13, 2026-08-13→2026-08-14, 2026-08-14→2026-08-17, 2026-08-17→2026-08-18, 2026-08-18→2026-08-19, 2026-08-19→2026-08-20, 2026-08-20→2026-08-21"}
+{"timestamp": "2026-08-22T18:03:08.906122+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-11. Prices for 2026-08-12 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:08.907460+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-11: 139 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:09.089925+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-12. Prices for 2026-08-13 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:09.092093+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-12: 114 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:09.233542+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-13. Prices for 2026-08-14 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:09.234267+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-13: 94 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:09.361818+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-14. Prices for 2026-08-17 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:09.362779+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-14: 111 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:09.502294+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-17. Prices for 2026-08-18 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:09.503172+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-17: 100 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:09.624863+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-18. Prices for 2026-08-19 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:09.625674+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-18: 89 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:09.738195+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-19. Prices for 2026-08-20 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:09.738857+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-19: 55 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:09.807675+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-20. Prices for 2026-08-21 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:09.808406+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-20: 73 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:09.900899+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Walk-forward complete. Not enough decided calls."}
+{"timestamp": "2026-08-22T18:03:25.195083+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Walk-forward tester online. News day first, next-session price later."}
+{"timestamp": "2026-08-22T18:03:25.195647+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Pairs: 2026-08-11→2026-08-12, 2026-08-12→2026-08-13, 2026-08-13→2026-08-14, 2026-08-14→2026-08-17, 2026-08-17→2026-08-18, 2026-08-18→2026-08-19, 2026-08-19→2026-08-20, 2026-08-20→2026-08-21"}
+{"timestamp": "2026-08-22T18:03:41.466253+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-11. Prices for 2026-08-12 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:41.468154+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-11: 139 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:41.706043+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-12. Prices for 2026-08-13 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:41.708801+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-12: 114 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:41.859804+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-13. Prices for 2026-08-14 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:41.860705+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-13: 94 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:41.983487+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-14. Prices for 2026-08-17 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:41.984612+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-14: 111 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:42.122950+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-17. Prices for 2026-08-18 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:42.123810+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-17: 100 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:42.247632+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-18. Prices for 2026-08-19 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:42.248528+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-18: 89 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:42.360794+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-19. Prices for 2026-08-20 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:42.361401+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-19: 55 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:42.431168+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "LOCK news window 2026-08-20. Prices for 2026-08-21 still hidden from scorer."}
+{"timestamp": "2026-08-22T18:03:42.431948+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "2026-08-20: 73 dated headlines (IST filter)."}
+{"timestamp": "2026-08-22T18:03:42.523894+00:00", "level": "info", "agent_name": "news_agent_testing_performance", "message": "Walk-forward complete. 69% hit on 16 decided calls."}

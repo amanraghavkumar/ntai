@@ -1,0 +1,726 @@
+{
+  "saved_at": "2026-08-22T22:08:41.326878+00:00",
+  "counts": {
+    "results_only": 79,
+    "banking": 71,
+    "metals": 5,
+    "beat": 15,
+    "energy": 8,
+    "infra": 3,
+    "fmcg": 2,
+    "IT": 8,
+    "miss": 4,
+    "telecom": 1
+  },
+  "items": [
+    {
+      "id": "e405a9d8e0c60944",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": null,
+      "company": "Kotak Mahindra Bank",
+      "companies": [
+        "Kotak Mahindra Bank",
+        "ICICI Bank"
+      ],
+      "headline": "Goldman Sachs picks ICICI Bank, Kotak Mahindra Bank as top banking bets",
+      "summary": "Goldman Sachs has begun its assessment of fourteen Indian banks, pinpointing its top selections. ICICI Bank and Kotak Mahindra Bank stand out with Buy ratings that indicate substantial upside potential. The firm anticipates a cyclical recovery in earnings across the banking sector. It forecasts that private banks will surpass their state-owned counterparts in performance over the next two years, buoyed by loan growth",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-picks-icici-bank-kotak-mahindra-bank-as-top-banking-bets/articleshow/133416320.cms",
+      "source": "economic_times",
+      "published": "Sat, 22 Aug 2026 08:28:43 +0530",
+      "timestamp": "2026-08-22T22:08:40.145604+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "aee5e02e20869ce3",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": null,
+      "company": "Federal Bank",
+      "companies": [
+        "Federal Bank",
+        "ICICI Bank"
+      ],
+      "headline": "ICICI Bank, Federal Bank among top bank picks by Axis Direct after Q1 earnings season",
+      "summary": "ICICI Bank, Federal Bank among top bank picks by Axis Direct after Q1 earnings season",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-federal-bank-among-top-bank-picks-by-axis-direct-after-q1-earnings-season/slideshow/133398012.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 13:37:07 +0530",
+      "timestamp": "2026-08-22T22:08:40.149980+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "e2dce1ceb6a9a5d7",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "metals",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": null,
+      "company": "Adani Ports",
+      "companies": [
+        "Adani Ports",
+        "Tata Steel"
+      ],
+      "headline": "Tata Steel, Adani Ports among top 10 stocks downgraded by Motilal Oswal after Q1 results",
+      "summary": "Tata Steel, Adani Ports among top 10 stocks downgraded by Motilal Oswal after Q1 results",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-adani-ports-among-top-10-stocks-downgraded-by-motilal-oswal-after-q1-results/slideshow/133397759.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 13:20:32 +0530",
+      "timestamp": "2026-08-22T22:08:40.156521+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "af9c78d675a48ddb",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": 37.0,
+      "company": "ICICI Bank",
+      "companies": [
+        "ICICI Bank"
+      ],
+      "headline": "Goldman Sachs starts coverage on 14 banks with up to 37% upside potential; ICICI Bank, Kotak among top picks",
+      "summary": "Goldman Sachs has initiated coverage on 14 Indian banks with a mix of Buy, Neutral and Sell ratings, focusing on earnings growth, franchise strength, valuations and the normalisation of return on assets (ROA) as key stock drivers. The brokerage sees private banks at an inflection point.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-starts-coverage-on-14-banks-with-up-to-37-upside-potential-icici-bank-kotak-among-top-picks/articleshow/133394535.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 11:23:46 +0530",
+      "timestamp": "2026-08-22T22:08:40.163981+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "fd85e5424303b967",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "metals",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": 7.0,
+      "company": "Hindustan Zinc",
+      "companies": [
+        "Hindustan Zinc"
+      ],
+      "headline": "Hindustan Zinc shares jump 7% in two sessions. What’s triggering the rally?",
+      "summary": "Hindustan Zinc shares rose 4% as silver prices climbed for a third straight session, taking the stock’s two-day gain to 7%. The company, one of the world’s leading silver producers, continues to benefit from strong fundamentals and a favourable outlook for the metal. Its Q1 FY27 net profit surged 145% YoY to Rs 5,469 crore, while margins improved.",
+      "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-jump-7-in-two-sessions-whats-triggering-the-rally/articleshow/133393717.cms",
+      "source": "economic_times",
+      "published": "Fri, 21 Aug 2026 10:30:38 +0530",
+      "timestamp": "2026-08-22T22:08:40.336610+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "0c587be9f1934e96",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "metals",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": null,
+      "company": "Vedanta",
+      "companies": [
+        "Vedanta"
+      ],
+      "headline": "Vedanta Aluminium Q1 Results: Net profit soars 3x YoY to Rs 5,629 crore; Rs 8/share dividend declared - The Economic Times",
+      "summary": "Vedanta Aluminium Q1 Results: Net profit soars 3x YoY to Rs 5,629 crore; Rs 8/share dividend declared The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOS3daZk1TdURoTE5fOVZVb21wTDFfSi1pWmY0V1JNZnhjeXJaYTM0N1pkUFdKQV8tQUZ1US1MSWVoQmI0dmJsaUFXYUF6aWI4WGtvNHduVTFza2RwNVhOTi1VczhPNEFhR1R4VldiZjhmMEpNYU0tM3lGbEZoQXJrYzJZRDVsaVdPdGRJMjNJR3RZUUw5d3ZEMkRvSU9Hd1pvLWRTNUhkSWZUMU02S2wwTmh1WVlKSDhzaTE3N0t1YllCMVlUOEJ2amRrMkdsOUhqZ011dm9pWFZKRlFsS2dmLVJQVV9GZlVzZi1qdXVPd1NLbWZQZG14MnZ2QTNsSUk5bnpKTHNJY9IBjAJBVV95cUxOTktzWHFyeExTNU5mbnZKaHlyaUxqalJqYTlPa0hvM3pjVW1NUGZTdjlpT0F4SEp4MHpmb09aVTZHUU1ScjJXVHZjSFM1YVZnZTRod2ZFV1R5aEdyaUFkdFI4Sk1aRURyc1FJa1ZvNVd1dHhNLUJEdlhxcW1HYTlPSmkxUWZidU9FQlRxX0JuUXd3VGRsNnZyZ3JVTW4tWDl6cEp0bU1tNUY2aWJwcWozM3VfYkxrVER2R3FvblNMbDBsckwyZDFvd0xyNE00YlZwaWg2U2U0SWNqMHY4ek93TEhPei02X1pYWGVzZ2JmWktUeG04OUFsUnlPMWhBSGMwU1VaTG5WcG10YmhN?oc=5",
+      "source": "google_news",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.398583+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "8460959e97a9cf63",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "energy",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": null,
+      "company": "Coal India",
+      "companies": [
+        "Coal India",
+        "Maruti Suzuki"
+      ],
+      "headline": "Coal India Beats Estimates; Maruti Q4 Results Due Today - NiftyTrader",
+      "summary": "Coal India Beats Estimates; Maruti Q4 Results Due Today NiftyTrader",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUlHb3VpcTkwYTRCSnpDZWJOTkZJYXI1aXlyb3NiaXlFR09ZU1ZOUGNHNFdQMnNPVDlqSzZHZ3ZSdG04dHc3ak1JaEZmMUlWM2JzbVFRVEdRNllCTHVCV0ZTRFBuNjlaSlE0R1YxUXRDS05iTVprOEZXb2pFMUc1WHQ1SFJVSDA?oc=5",
+      "source": "google_news",
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.438370+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "a90e30820b44cfae",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "energy",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": null,
+      "company": "Coal India",
+      "companies": [
+        "Coal India"
+      ],
+      "headline": "Coal India Q1 Results FY27: Uniresearch Predictions and Analyst View - Univest",
+      "summary": "Coal India Q1 Results FY27: Uniresearch Predictions and Analyst View Univest",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iU0FoRUV5bTRvd3VTOTVGb2RZZU96dkdQeHFELU85TG5pcnVTNEhDRkxrdEttcmdORUNhX3hNSDRmX2ZOTm9CNUVqemdRTDZENlZvTkdPTzNNek9iZ1c2Tg?oc=5",
+      "source": "google_news",
+      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.441937+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "fa0bd34abc18c568",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": 15.0,
+      "company": "SBI",
+      "companies": [
+        "SBI"
+      ],
+      "headline": "SBI Q3 Results Preview: PAT to fall up to 15% QoQ despite up to 4% likely growth in NII. 5 things to watch - The Economic Times",
+      "summary": "SBI Q3 Results Preview: PAT to fall up to 15% QoQ despite up to 4% likely growth in NII. 5 things to watch The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPOFY1T3poQXoyMFJ6by11Y3VLOTJMdmVSYlFHQm1scWVLYkVNaUN5ZjR0cjBDZWVaa3d2ejMxdzNBWkpUQ1ViYXFiQTRHV1JjZy0tYU9OTFMwZlFwRkp5Wi1Ua0xwM3p4UmdTMVUtVlVmM0dieE00T0hlRFJMWjhZUGVwaGdsV1dsNDhfY3VFamFZLWhSUVpCc29MZWdsaHJMOW5ncHU4d3VNSjRqVDdkdkFoM09KeUZaajI0LW16Q1lhUWlucDNpZ3BQc3lGMEd1U0ZCSjA4SkxRbk5QVzNDMkdCSkJPQW1Hc213UkNmdG1weVpZS1k0VG1sTmE1amN5MmxNNXdlT2pUc3pq0gGSAkFVX3lxTE5oNzIycFJKQjRnN0tmLTIyZHFqSkpDLXFCUmtuTzVUd1FINWtfNU5Cd3UyQUdfaGRyei1PZTJwN0pJd0pHZjVRMlRGdnBfQjlvZzJhN1o4clA4bmo5OXJTVmIxYkZGdEV4V2xZUnhSaXhlN29sUWtPYzRhMjFxcVRQY1FzdmpZclRhdVRHZ0t6TENsWVFpSjhMTWV6dHlJYmRkTTdWNDh3LVotMm9PUFpyM01SN1Zmb1F4WVhfbFBuRk9VdGg0OUN5Q1NJUDR2empweURnQ1FoN2dqVjlteDhhNnJ4Y3JTRHdhMTNkWFFMZWY2OUwtbFpkVjk3VUZBcDJ1dWFLZ1pLdFVJVnFsWHZOclE?oc=5",
+      "source": "google_news",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.447786+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "4b74a7faab4935f4",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "energy",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": 11.0,
+      "company": "Coal India",
+      "companies": [
+        "Coal India"
+      ],
+      "headline": "Coal India Q4 Results: Profit Rises 11%, Revenue Beats Estimates; Dividend Declared - NDTV Profit",
+      "summary": "Coal India Q4 Results: Profit Rises 11%, Revenue Beats Estimates; Dividend Declared NDTV Profit",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcHcwUGltVG84RWtVSy0zcUF6di1DM2Q3OFFVV2REQllqNVBGR1lSb0xUakhVOENMWDE1MWZfR1hfaVpUUVZUOVFCVGxCYjR3ZEtPcmJVZjZESzdvNFJGRzZKem5RSUVHUExKRXhlVDdFRGVlZXJVSjk3dHFfdHpKRXpOYWlrdXB5eG1DdVFITU92cnNxWXJ4cTU2dGpndVhMNVZ5ZHdZc0NOSkV2QmhxMHRCcGphSDJkNXVRQVJhTmXSAcgBQVVfeXFMTUlxVmctekh1cGFMQzFhRlhlUzlnQkFJakpNeEZJRTAzQ0QxWXBOa3U5UjhEcmo0dldERTY4WEk3MHpRbFduTnVzOVFOaERsLVEyVjIxX1JnVmFEVHNJR3JodWZYN0ZaWVRmZmR4V20xei1zanI0M3FwMFpVcjFES05uU04xSFRlbXI2dFptM3BieG5naXU1dGF1YmliRGhwRDNtb3d6QkxGekdib1VFRTM3amVFZktKdEpod0d6QmhlWFdqcWxzSWc?oc=5",
+      "source": "google_news",
+      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.531247+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "e7ecf23de29db089",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "infra",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": null,
+      "company": "Havells",
+      "companies": [
+        "Havells"
+      ],
+      "headline": "Havells India Q4 Results: Shares Jump After Profit Beats Estimates, Dividend Approved - NDTV Profit",
+      "summary": "Havells India Q4 Results: Shares Jump After Profit Beats Estimates, Dividend Approved NDTV Profit",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR3QxZmNFYTVSNVhJcnRjaUozdG5UR1NoU04teGtVTzBXc1Y2WUV6LWs4U0RuV3NoV3JkSlIyUnNjVWZqVjFrREtxRG5JVGljNDR4Zy1iRWtaeFZjWnFFdXhEMi04bzRLSUpmekFIdUlRamgwYUdiS2E5elV3RzVod2liT0ZKT2dYcUtDYnlWTDQtMVY3c09INUdkT1RSUjlPMlJOZkh4WFNrSzlaaGhnczdqdGkxaXREQ1Z0aGl1eXV1TWZwQkHSAc4BQVVfeXFMUHN0MHNMRV9JOS1aMFMxdkVidVFuTXRtemJxS3lmbUphYWRIRVhhQlgwRjFna3d4WFF5dmt6Znh4b25jdVhPZDNjYjE5OXBrelktYkJoVER3SlM5enh4bm0xeHE5U2hPNWhyYmFFZFhVWFBCX0h0ckNvTGRESGZNaEdWNnRoMXZwdkZPc2hnX3Q2dUlfNFVlRDl5Vzh1QTJPYUY5RWJuZlJXRHZQQUtUOTd4SUZ2ZUN2akdmUE1ENTBFTzM5LTVyd0tLLXgxbmc?oc=5",
+      "source": "google_news",
+      "published": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.532750+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "ae07225c828f92df",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "energy",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": null,
+      "company": "Coal India",
+      "companies": [
+        "Coal India"
+      ],
+      "headline": "Coal India Q3 Results: Profit tops estimates, YoY earnings decline; dividend declared - CNBC TV18",
+      "summary": "Coal India Q3 Results: Profit tops estimates, YoY earnings decline; dividend declared CNBC TV18",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNUlfa0xtYnFSLTZ6UzFRd0RrLTNDMzBYY056RFVQZ0xOaXlPWno4Vjhvb3lwaGpMUTJONnpfeUhodkN5cm9KN09lcVdxb01lV3BzYVBpRzVYaE54X25BR1JJMzRqZjlmQXFxaUFLS3N2d1NrUnJJeWdLVE1ad1I4UkpyakxVZWRsdFd2cW9mRndBcUJhMzl0RWRjUnlUMGJONVdUZk1LSGFHcF9wNHY4MTk0Wnd2YjJwa1JzUVJKRXZ5ZS1BM3NoX1FldmzSAdIBQVVfeXFMUFFOcmQ0YUEyN0xyZ3JNWmQ0OEthbEVVQWlBMGw2SGpsTDBNRTl0cUJOd2hBY3ViVnJwX210WE5rSDBSZm9rNVJnY3gxZW9MUlBQbVE1TUJpOHRXQ0dFZm9GcHQweE1UV3ZhNEFyRHIwOS1IT01iam1yNjBCR2JEVlFGQU13Y0ZoWlBXVmFZQzRqY096SmdxVGgzRG5pQU9GLTdZVU1YREIyckR6dzBpVy1ISzRFUWtLOE5ZYmg2RE52SHVhU3EyS0ZEbTR6ZUNwdmZ3?oc=5",
+      "source": "google_news",
+      "published": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.537013+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "da3d737e693234b7",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "fmcg",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": 4.0,
+      "company": "Nestle India",
+      "companies": [
+        "Nestle India"
+      ],
+      "headline": "Nestle India share price rises 4% after Q2 results beat estimates, top Nifty gainer; brokerages positive... - Moneycontrol.com",
+      "summary": "Nestle India share price rises 4% after Q2 results beat estimates, top Nifty gainer; brokerages positive... Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVUtsSWtNZEEwYl9ZWkpvdFF0UTJBWFcxY3hDdVVWbVY0VXRXY1N5bjFQa0lMdGtkalVmMnlHVW5EVkVwWldfSGRaTmNtNkQ0UC1hQTlfU3RpaGpiN1BSSmdsbUU3SFV4RUJkenpwTG5LRW9yTFBjWGNUUUdCSHZTQTRiNVRfb3JFYkkxUmlOTlVoRkNYSHFEblI5LXlTNzUtaXc3SWVlV09YUU1tSDBQVzVBclEwdllnb3UydkloNHJ4enpaNlY3dFlJc01sc254dUNvSW1pMmphcnNjOGtOUVdmSHJqYmFWZmJNYkV1Qm1oYnJDaFJnZlVfbVp6NUVCTUdOV0tCeUFPa1NRTDdV0gGUAkFVX3lxTFB2aHkxdjM2NkFxaGN4V2s2RVZZbllfdFI3YkpNckFrSDhrNjB4SDhsWW5HaVNKdGZqWVRWRm9MbTgtbG1SNnJ6MFpWQ3B1OWU5cHR2S3Q3dGtzYndHTGVnbkY2SUk5eDczcF9TQmY3RnNZWHdNUXlYdGhxWEstMDY4OE1RR1Ftbm5oOWI3UE4tNTl6NXJqaU5Ib1BoNGVqTTRPNTUyVHc0Ny1fZml6bWdFUFY4SHJNcUt6c0pYVmQzN21yMFgzQUxjTG1vOEVkX1Z0ZzNLOGYxVmZmZFE1aENLR3pSdFBUS3d5bXgwWkxwRE5kUEd3RmNIc24zdW9tbHNpMFJFMVRnUGExdTloSWh4OHViQw?oc=5",
+      "source": "google_news",
+      "published": "Thu, 16 Oct 2025 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.542009+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "97eadb92d8dbd995",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "fmcg",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": 24.0,
+      "company": "Nestle India",
+      "companies": [
+        "Nestle India"
+      ],
+      "headline": "Nestle India Q2 net profit down 24% YoY to Rs 753 crore, beats estimates; double-digit sales growth across... - Moneycontrol.com",
+      "summary": "Nestle India Q2 net profit down 24% YoY to Rs 753 crore, beats estimates; double-digit sales growth across... Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ0JPNzAzamNhMml1bHRLVEhHa1FSTEEyYkdxc3REcDNIU2FVeFF3SFE1bE1iXzh0cU11dmZpbEtLTmwxNjhoTkJNZklIdkZNZVBxd1RyT0t2MU0xQktkM0V3b3lZSmxNUWFzY2ZHTnBvcmYtRTY3eV9JdC1pSlE0cEs2MjhCdUVaZHlvMnQxYVR0MVNvQl96SjEwM28ybUllZzYwYmoyUzN4Tjg4NFowYTVVNElqeTJoMUUwekZMRzZ5cnFVeGV6a1NCVjdDTVlqVXl6Znpmb9IB3AFBVV95cUxNQXozSFZwQndLeTdOV05WOF91S1V3RVI3ZzFMZXNIdzk5Y0cwNmJmRFl1UGxyakpjQWJ4Ti1DeU9NR0twTEQ2Wmt6WDF2azJnWmw3aTh3M3Y1dmhCT0dVUHh4ZXBrUzJKWFRDc0VZeWpGTXdtcmhmaVhmcTRfNmNad29XelVXa1BoZmxmLWVuMG14UXRoNjBYX1pDQkpvOVZxNndhTnVMQmhwWktwU0I2Y0tLYk1TQWduNjQ0YUFYQkhOY1J6bmh6UGNqLXA1Y090ajFJU3oxTmVYS204?oc=5",
+      "source": "google_news",
+      "published": "Thu, 16 Oct 2025 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.543856+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "a37d05c0e5444b2a",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "infra",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": null,
+      "company": "Polycab",
+      "companies": [
+        "Polycab"
+      ],
+      "headline": "Polycab India Q1 results FY27: PAT Rs 784 Cr, Beats Estimates - Univest",
+      "summary": "Polycab India Q1 results FY27: PAT Rs 784 Cr, Beats Estimates Univest",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CQ0QwV0R3aGltcXNjNFFMcEdwZ1lTTFdIMnFTZGFjZHM0cEZxU1JvNm9RUmZYMmhTSENscGFqUlpITk5oUmVieUZYcG1EN2lQdVVFTkdSRXlJLXFfd3dYbnB0ellubGRucFFHU2Y0RUltWVpWems4?oc=5",
+      "source": "google_news",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.570028+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "8473cd6ceb38faa8",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "energy",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": 11.0,
+      "company": "Tata Power",
+      "companies": [
+        "Tata Power"
+      ],
+      "headline": "Tata Power Q1 Results: Net profit rises 11% YoY to Rs 1,176 crore, revenue up 6% - The Economic Times",
+      "summary": "Tata Power Q1 Results: Net profit rises 11% YoY to Rs 1,176 crore, revenue up 6% The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNanhYdVM2enJ0M2RsZ0RQUVIzUmpyd083c3EwWG0tRnBlZzRmY2lDc0VVdDRlbFpDX3lYYmp4TkpmY04tYjFSTFVSV19jV0hJckt1UE82Q3FDdFFteE9LakNNanRoWTlPZk9kYUNyTklWX2xHUFE5TEh0N3pmYXhmN21EME8zU0hHelVEUVhyYjBrTmZidExZVkhDSWREYUNIWUpleWV1VUFfUl9RZm8wX2hmUnNqY1Vjd05sSWs5MzRzVnZFUExRUjNXcFJmVHB3eGE2eGpHWHg3cGxSa29JTWU2aXlsR0Q50gHuAUFVX3lxTE1hdVJyWXRRV2NFX2hQeWFNRzhTaHNnZXc0dm1zUllFVmxra04yUTZ3M2hBYnRYQWM3Szg2SWZRTHFvQ0NkV0x6ZHZVbXd2ODBzclRLekN2a25PczFlVktUZ2pQVE5Fbl9KVVN6dUJzUW94SDNiRmZtVjFodkoxYTJ5eGl5a29BX2RDMnRsVXZMQllsOXNXQmZZVUE5TkEtRml5aHhqRWtnSnB3MFlUdE8wOWdLcG1MbVE3V2NnVDVlUU1OUHpkX0pBcHI2ZUw2a3R2SWxPWHhIMzdNS1FwQXZqNVpSTUloUkpwaDlETGc?oc=5",
+      "source": "google_news",
+      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.575136+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "417c5c88a7361938",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "infra",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": null,
+      "company": "Polycab",
+      "companies": [
+        "Polycab"
+      ],
+      "headline": "Earnings Beat: Polycab India Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - simplywall.st",
+      "summary": "Earnings Beat: Polycab India Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models simplywall.st",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU1NyWVlRZE1FTUl2ZnJJVEVUNGo4V0QwNG5MZEMxYWhLbEF5UEt2T29FeTBwZW1tclZtZjhKUS10N3VnZk5CY2xnOHJlOTU2dUFaREdULVhBbWd0WnlYc1JncnpycEhFZmk1WW4xdVg4b3dxZHJXWGhEWVhWWFAtMXBKbUN0LUlzNzdkMkRBbGlRRHItVjgySzluVHg4RlNuVFFjVXV5dHhoLTIxRVpsNW5VVHlhb3lsX3NkR0NMZnNRN3ZaWHV4M2R6YWhmeEFaR1hZYkEyZm5aNTFIYmFJ0gHkAUFVX3lxTE9EcEdVbGQ3VHVWMXl0Q3U3UUxfR3NGcjFKVTJkb0trd2M2VVlDNkFvRE5lLUJXZUxzZU9ENFJQS3hTMlY4SHdwUXRTajB1Z3RwVlJhWnVUY1pLbUp5bkF4U21JZUl3QkxQQUFrT1d4aGI1VTNWUEdaZGt1S2dhUHNwbHJnc0JFejlLQWlCZWY2ZHhWclVjMEwyQ2RoTTJFN0JBYW5UQ3VYM2xjWmlSUnFadFpHRnVaMGZlalVoQ1lUY2pIUGp3OE0zWUxrTEJaM2hfTExxbzdnb1RmendJdTlkY19OUA?oc=5",
+      "source": "google_news",
+      "published": "Sun, 19 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.577362+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "49e3d382cd815955",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "IT",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": 2.7,
+      "company": "TCS",
+      "companies": [
+        "TCS"
+      ],
+      "headline": "TCS Q1 profit down 2.7% QoQ at Rs 13,349 crore, revenue beats estimates; board declares Rs 12 dividend - Moneycontrol.com",
+      "summary": "TCS Q1 profit down 2.7% QoQ at Rs 13,349 crore, revenue beats estimates; board declares Rs 12 dividend Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT09sbkZ4dEp2Vm9HaHB3RF9KWkhCS0hLUHJBS0RjdUl6dlhZR25RVFZWaDdWdWZwTDYtLTZ6Q2VjZUNMLUY0cjFnVUxFU3JXX0VrX1FEd2ZOUXNzOExlaXZIQXNTbXVOZ29oV2ZKcTF3a2NKZVlza0xLelkyZ1RHUHZ2NU12NC1JOW4wQXQyTVB5ekd6QWljZl85R1RvZFRhaTh4MmN3bldrbVdCMTN1cEdSX1RtMGtzU253eDc2ZHBhZ2h2NWRESWpfVXBDOWhLQXdPZDI1dlk2NlE2Slo00gHkAUFVX3lxTFBkM09iejhDUHREOE1EUDA5a1pVWVFISUJTYllITEtFbGVCUmVBYVcxc3FGRG8zUlRYQTQtZXhUcWJEVV9DMld2MU5yQk5oSVgyaFlKTUlJVklpdFpfdk93bHZQN1dNWEkzc3hrS284Rlg2X2Y0WkRxTjNzVE1vd0pGei1FSnhUcmx5U3B3Q1htX2doeTJiZTlJRnR0bjFyaUVDTW5JemVRVXhpeVFxRGRRaDBsRW5nT2xIdG16bDFVbGhwRjF0VXpCc0p0a21RZklnUmtfRnFVU3p1cEV1SE90aWRlRA?oc=5",
+      "source": "google_news",
+      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.580232+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "f76eb65c234637ce",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "IT",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": null,
+      "company": "Bajaj Auto",
+      "companies": [
+        "Bajaj Auto",
+        "Infosys",
+        "Zomato"
+      ],
+      "headline": "Q1 earnings this week: Infosys, Eternal, Bajaj Auto among 256 companies set to announce June quarter resul - The Economic Times",
+      "summary": "Q1 earnings this week: Infosys, Eternal, Bajaj Auto among 256 companies set to announce June quarter resul The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOOTFrM1V2RHo3RUduMEdmdXBjSzQ2V2x5NmU5Zk55dS14TGk1Vnd6b2F1ZXFfLVl4TlJoRmNKWXFNVEp2Tm5qZHBaYUs5VWg3dmFMSFRyMGQxQWE4eGRtSjIweWhGMU9XbFFXVnVJdjdSZnpUcGc1dVBGSUgtNk0yRVRYMzRNdndLUTJLMUFUMlUwQlJINXVoc1FZRE9WSWxja2lHQXJkOWR4cUpjT05URHoteGFPa0VCTGtZUjdIU3JwemZtVzhSZEdVSHhkX1lyeG1SMWU0WGxiOTkyeG9RWGNyejJIQlZqeXVDZ1Y0akZtdzJqVjVwdEN3bUtXbE5TSzhLV3pMcFJfRHFfa1NteNIBlgJBVV95cUxQUmhQZlBCbThXVU40VEt3NVVHM3pZLVBZQ21aaW9oTDg3Y0Z4dkxNbkVKcXZMSXUxejVUcFRvaEhyOEJkNEFJRTJyTWVkeHhtbmx1SXJPTnhrdWp1cW1EZ1AxRWRIR2NGbF9GbGItc1E1ZVJUckM3NDZzcGxUM0RNUTdkT1lnRVRoYTFsQjdOcUJsdlNVdENWTlJWWTVlSEVfd2dfYmZwcFBPR2VRamF5T2R2RXM0c0N0Q2hMSU1jSU1FUjFTVng1UG50dVVpbVd5V1BuZFFDaldYemdGNTNCMWVfU3dDV0pTcWh5VXdOQTBoRGdpUzJmVDE5RnVyVGZSTUZENmdBQUhvQW5JLUp2d3N3NjFTQQ?oc=5",
+      "source": "google_news",
+      "published": "Sun, 19 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.585655+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "d23aac4fc96b2d3a",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": 19.0,
+      "company": "Canara Bank",
+      "companies": [
+        "Canara Bank"
+      ],
+      "headline": "Canara Bank Q2 results: Standalone net profit grows 19% YoY, NII slides 2% - The Economic Times",
+      "summary": "Canara Bank Q2 results: Standalone net profit grows 19% YoY, NII slides 2% The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdUZkSEZsTTNyWjVzYUZJT19acEctTE5RVFI4VmVRNUhtZmxxUkVESTdRalV6RW1tY3BOWUlEeWJRVUdIQ0JSVmZXTVQ0aFpkN0NhMXVmMERRRDFTTjlGUEd6SUdjSXdhZkd3MXAwRmd3cjJ5ZXJocHY5YjFTUFBfT21ldmhHbHhQbmtpdmE0M0p2Rjc2ZTU1d1J6cTBkc3dSNHBiZnlMRmQ1LWRWMW9ZZG5ZeUdLU0xCX3JmY2VWQ2lCSlFSNm5tRXJkYjItcXhHdFFSNDlCTmJteTBNUExhS1FR0gHnAUFVX3lxTE9WVDZtZEhqU3BLQ0Y0WHQwSi1JZXp2bllaQWJKdldldURlMy1HRExrMkNsZjI3clFuMkN6T3hWelE5ZVNoZ21LUGt5UUFfQWFnY0l3Z3lHcUFrdXBaTm40a3ZyUThnUV9sZENlaUtXT0kwMXlEbWFnNXdRT2JDR3hNVlRVbTZDNkNTUENILUkyZ3VPcml2NXFnazJRLXd5TVR5R2dRMVA3SXVXYlNXR08tT1E2aU45a3VvYWFvWU43SzZWb2Z0Qk82QXJCRUYyaWlrU0l3X2Q3c2dKa081aGpLYVc0eUVJcw?oc=5",
+      "source": "google_news",
+      "published": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.592703+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "ebd4a75f9859792d",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "energy",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": null,
+      "company": "Coal India",
+      "companies": [
+        "Coal India"
+      ],
+      "headline": "Coal India First Quarter 2026 Earnings: Beats Expectations - simplywall.st",
+      "summary": "Coal India First Quarter 2026 Earnings: Beats Expectations simplywall.st",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2xQdWRVZDU4YTZ4MXplWlpaSEp1MTdJRkxpRlVSaDRDUnpmRHBFRGpxVUpGVmFPMUhRTkRJNUpibzMxUzFhVEhadkt3UGNlYkxTWlBHN3k2S0oxbUMtdllPN1lnNmRoVmctZHZTZHYyQkJkOGptdmpLZ3AtY1JSQlJxc05LdzRRRmRUUWEzOGJubEJ0OG04VTRxX3B6RUN5alMxNXR0X1RXWHowZVRBZHROUFk4MUE5UVI0Q3VPNzZXWklCX0NvNFV3Vmlwd9IB0wFBVV95cUxOU3UzR0FvazQ4SFN3QnZwcTRiZG5UYU83Y0syNXFGZ2VYeXdubW0wV0haQUctSW1pbTQ3ZWlzSGpPVnkyZHIwVVhVdUF0ekpycEM5eTZrVU9WZTZhSWNVWllIbFc0eE9hdTFPSDQtTEstTWtkay1BTTdWQTYxWjZWT1Z0SUhJWEYyVHhEZ1V4eW9fZTllN25sZWNOLTJZcjB2YTh5M0F5OXdTQkRfQjVGVG96YzdsSVNnZThvQldhT0lfNmdaVk1CZmQ0VFNVM3JUY0Z3?oc=5",
+      "source": "google_news",
+      "published": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.695551+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "48dae582cb575056",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": 12.0,
+      "company": "SBI",
+      "companies": [
+        "SBI"
+      ],
+      "headline": "SBI Q1 Results: Standalone PAT jumps 12% YoY to Rs 19,160 crore, beats Street estimates - The Economic Times",
+      "summary": "SBI Q1 Results: Standalone PAT jumps 12% YoY to Rs 19,160 crore, beats Street estimates The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNckJJOWROQ294RnNLUDZwTXhmSjNzX1RrNHFFaXJWbG9sRXFvRC1Eb0FXU2ZDUzhZVWkzalN5Qkp3aU9jeDV2SlZ0Qm5kSV96S0dCX2dDNnBFQUpJMWljV1ZCOThSd0pYbnNoNDNiQUM1MENMOUtqM2VuZG84M3ZNVU9uNHpJaWx2QUkyTEV6NmxHS0dvYzlyYm1TTjZnUF8yVVlqUm11bzFSRURRalRtRUtVczNVRTdaT04tYkN6RlFZWFFvU2pKbU5lcEFVYjhsWHhYb0Vjc0FaQkZiN09NclV5VTVYR01nMUF6bF9hU29jVEHSAfgBQVVfeXFMT2JLbEoyWjNmc3NJX3ZUZnpZbGFVd01GbklDS0hza1ZMaTg2VTBqaEVDaTB0OFBiYXNQd3lGWEcydFhScURNVGp1aVJ1TTBCckVHRk9QZEtJYjFoNVlKMGFPYlU3RHZqZU84MnlRYkE2VXBEZTN0WU5jS080OV9qWURFc1FscDBrNlBjYXZxNW9iemJqanI5VkhYVEVxV2NqVVBCVFF5R28zQTJaR20tQ0wtc2x2MmpFWktQZHdXOVo5djRDekd6dThHbWktVFFtblJ5RzE0eDM1Q2U5VkFRNENoeDI5SzN5VGVhN1FrUXpwZ2kwdXNRQ0M?oc=5",
+      "source": "google_news",
+      "published": "Fri, 08 Aug 2025 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.697139+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "21ab3de6d8d1fe39",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "energy",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": 78.0,
+      "company": "Reliance Industries",
+      "companies": [
+        "Reliance Industries"
+      ],
+      "headline": "RIL Q1 results FY26: Reliance Industries posts net profit of Rs 26,994 crore; up 78% YOY, beats estimates - The Times of India",
+      "summary": "RIL Q1 results FY26: Reliance Industries posts net profit of Rs 26,994 crore; up 78% YOY, beats estimates The Times of India",
+      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQdW5fQzRPTWk0NTJXTkhJUGh5cTdKXzhvRmdzQmZKMVB1RkJQWFpvdXg2YkROUVkteHU3SVZNTXNzbEk0TFZsLXFHb3JFWDhKUjhkTTJSdTlUYU9rSXBRX3lwS2Z0RGFxU21XOXFlLWNicGl6RUg2a2JRR1RjMWFDTmZ4Q0JwejJiZS1sOFY2WW1MQ2tXN1Z1bER3Q1pMNnAwQlJ2djBZQlZSTjJQeFU4TmxSSW1pZUlLc2ROb3VkeDhMNGs5Mm1nWUFSZGxGclhuZlZmSVlKNnY2ZWgwUHlHN0NVQUtqLXNPMEJlZHY3R25TZFlJa0R1YmNld2RQTzFFVDREWlNEV052Y0d5R1dfZWV0S2jSAZoCQVVfeXFMTkpxbDNUZ2VrNnNTZmdEdzF2UzlQSzFCdFQzT1gzajgzVDY5alNSLUtHNUc4ZFNVdjlJXzl1eXBEMVZBazA3TEc2Zll2N0o3bVpVa2ZwS1lQQXlvWWFuTHZsaUIxOVU0RUR0ZHVRbHlRV0JzMWdOc2U5NjZmbERXQTI3elJEWHlJbjBLbFdvWmp0WUk2em9hT2pCbGV4T2FDUEE2NHYzWGFZRGtUMjUtanNJaldmOE4xd1hYR0FBUGFrSmVDS0NsU1NZNWRfWTdhN2JHSHpIZWNPc1h0Wk96aWZJZHQxUC1pUjdjNE5GQ3FsSnUwQml1UDZLaDM1elF4d2J5WUUtTkdqbjdyb3JiZHhHaHBRdFVkcEJn?oc=5",
+      "source": "google_news",
+      "published": "Fri, 18 Jul 2025 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.699400+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "c85f4f48a5bcfc9a",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "energy",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": 26.2,
+      "company": "IOC",
+      "companies": [
+        "IOC"
+      ],
+      "headline": "IOC Q1 Results: Loss At Rs 2,661 Crore Sharply Beats Worst-Case Street Estimate; Revenue Up 26.2% - NDTV Profit",
+      "summary": "IOC Q1 Results: Loss At Rs 2,661 Crore Sharply Beats Worst-Case Street Estimate; Revenue Up 26.2% NDTV Profit",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdm51N2pnZjRIWS14cTRnbDVWcG9jRkp3RFBlN0xmWlJEM2toWHIzQkEwemNPLTRFZFpZc2pPM3U3VmpDeG5YOXlRbWk3UHZnb1NMcW1uMVJSamNyQVM0NzlyVDhvN2dRX01lZjVqRzMyd3dNZVpBanpLWk9yMGphZDNiMGw1Mlp3el9nWHVyS2NSaEtLbTRaZFB4UVhfdWNJWTNPRDlYTXEtdTFPcDR6WnhFQm9McjM2Ny1KV2h1RkVlWTV1dC03VlhnOUstay1SZ3kwMkt0SlNwYWhDMXl2Q3FDYnHSAewBQVVfeXFMTmdqMnN2UGxOQW9ncGtoM0FrUkVEUkNPUzdUNkloMGM1QXNwVEZCSHhoWmxhMDRwWS00dUJoeWl3NUhCNFB0U1J0UFA1dkNRc29lN3BzMzZpVjF0UWpjX2dJb1ZMSnJJdDNNS0IzVTRTcTdwVmc2ZURqU2ZZbGxNZ0dvQ3Noc3pkSTNWR05wMnlSc0R5TURJb19fTUh3UlJ3ZTRkWmEyYlFjUzhWYVhoQWE0RHpMbk9pZ2pWOVFWbHhsQzNEOWlEaXhNeTFBRGNkX0V5NFFtRThqM1g2alpJTVYyb01odlNNblFLN00?oc=5",
+      "source": "google_news",
+      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.704249+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "b1477659d8f4548f",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "metals",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": 272.0,
+      "company": "Tata Steel",
+      "companies": [
+        "Tata Steel"
+      ],
+      "headline": "Tata Steel Q2 Results: Cons PAT surges 272% YoY to Rs 3,102 crore, revenue rises 9% - The Economic Times",
+      "summary": "Tata Steel Q2 Results: Cons PAT surges 272% YoY to Rs 3,102 crore, revenue rises 9% The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNakZRclRrYkNNckFOcVBOcUxHUVRVaGtrcExYSnpmMEtFLTVlaU44cTNWOGlBU1BZQ2J3S09GX01SVy00VW1UT2tqa0VEc05ZZEhMbGxDc3ZFZHd6dHkzallIOEF1X2J1LWJ2TXlSTE1Sd2FzT3YtVnJnUDBZclpNdkhFNDNSVGxwbHVIM0FnWEV2d3RodUdSZmJsWHRKZkNaTU9SUjllYnFkNTN6ZkNhVEFIQkdrNmd1SG1UdDdDdUZDVGVFMlIxbHFSQjJVUHdXMlJndXRPT3JsRzgzcFJmRjJNdUVqMy1SMEl3dNIB8gFBVV95cUxNWmZYcUhkZGFTbjdEV0wyOG51Z2w1NTNVQ1FxMGZhOEhxRGxKNE85aVY0UE1xN1gwa2wwRFdQcDBKR3FIVGNNMDZLajNvX1p5Mi1nSlQ2RWRubzM1THFFWGNYTjdqbmpXdkhkLWVsbzBTTHJNR1VKbHdyRTFKZ3F2bEdicGRHdm5NN1NmNTdpVVk0TlRyY0tsWlM4SU1WWHJPbTF2ZGdRVS1uQkQwaGhNMTFXQlJXMk9nZUZVQTFkVkRoRWRsWWkxQUpBVk13VkcwcEtMOVNRUGZPODFwQXRNRnRfaTBPQTJEeDBCV3RldTVfdw?oc=5",
+      "source": "google_news",
+      "published": "Wed, 12 Nov 2025 08:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.744390+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "5f31ae58d3b2d364",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "IT",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": 10.6,
+      "company": "LTIMindtree",
+      "companies": [
+        "LTIMindtree"
+      ],
+      "headline": "LTIMindtree Q1 net profit up 10.6% to ₹1,254.6 crore, beats estimate - Business Standard",
+      "summary": "LTIMindtree Q1 net profit up 10.6% to ₹1,254.6 crore, beats estimate Business Standard",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWjhHWkR5Uk44SmFQU0hidnhrWUVOVFRhUVVfbnJTSHhtNkUwSk1UUnhNMHlEdkpMRWpXU0dqczhuOE1wWF9UZ0JqNGkyNFcxbGYtY2wzOU5IbjZvbFFQb1FmbmdmZFdWNG1NQmwwam5CVVY1SWRETzdhai1iUThYYkQ4WkZnYW5uSnJQc0MwSGtZbkRNZ3VfVW90VDc1YW9IRm9rWmlBZ1JQcXVMX19Cd3hXN0IwVkRYSk9HQUdJcmYwU21EZ1JmUXZDTE9manNsc1MzZnV3WlRjbS1uYm1xbtIB5gFBVV95cUxNZC1RMWl5X3gxMDl2NHNYbWVUQTQ1Rjg2OTBESW5vTk02Yk9rTlZhcWEycUJ4allZZVIwWmhTbldWZnJtZ1B3WEE1b2J6SnR6ejNaamJYMHpGaXRzNUJDLUx5VnF1dmFfNVdzTGdSUlhwVU1PemZqVzBKdVIxNUs4ckJUTUhGT3VEelNaLS0wQldheEN1UEtBczZES2FGN1kzTURfalpocWwzV2ViS2VmNVFYVkxzcUhiVXlXZGxxZ2IzYVd4NUVvbnZVdXZJVE04U3NCTzhpdVdSb190Q3kza29ZRUNzQQ?oc=5",
+      "source": "google_news",
+      "published": "Thu, 17 Jul 2025 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.745951+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "8fe9c763c64a6509",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": 24.0,
+      "company": "SBI",
+      "companies": [
+        "SBI"
+      ],
+      "headline": "SBI Q4 Results: PAT jumps 24% YoY to Rs 20,698 crore, beats estimates - The Economic Times",
+      "summary": "SBI Q4 Results: PAT jumps 24% YoY to Rs 20,698 crore, beats estimates The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON3ZDXzF1bzBocmVqelE0b2paMmptNkhDX0pLcUVMQlhWWE9aZ05DOHRrb1NRQXJQM3pFcVJFUm5QbjNaemlleklKSzBxU3QxanZETS1HczFQWHhLeXdvalB5RHI0TklVV25OMURYU212TlBpZmZkRUt2R0NLam5fSnU3N0hXQmlyNGZ6SFAzNXdTanBINkVMOTRTVlpqc0xJdlVDWUt1cFplWjFXaG56MDctaGl1dF9VNFBHSTRJWnNERl9heGVqMG9KbjRaTkRXMUhsUF9YREhEaUHSAeABQVVfeXFMUGdyM2c0Z3NYR2JDUGRJX0RoOXk0UVRxbmJDZ3BkVGg0WEg1cjhYQlpwVTktSzM3QVRLdHFJNXo1MVNSdVBiV0UtU2kxZ25XNWcxUnJBVVgzci1ENjRFQ19lcFhYN0FzUFFYdzZfelBuMXVlWmFKSFpabTBlQ1BCazA4OGRIbnFxczNaaUsxc2pzaXBPVmVqOGFJbU1CeS1VMC1iNTNSVzB3cGNpUWR3NXBKQW9ZVXV2dERMR3hOOG80ampRclNvSXBnQktTcTA3eVZwV2NPT3c2LTQ3R0ZFT0M?oc=5",
+      "source": "google_news",
+      "published": "Thu, 09 May 2024 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.825355+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "5c91d1c9fddb17b0",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "metals",
+      "surprise": "miss",
+      "match_score": 3,
+      "pct_in_text": 51.0,
+      "company": "Tata Steel",
+      "companies": [
+        "Tata Steel"
+      ],
+      "headline": "Tata Steel Q1 Results: Cons PAT jumps 51% YoY to Rs 960 crore, misses estimates - The Economic Times",
+      "summary": "Tata Steel Q1 Results: Cons PAT jumps 51% YoY to Rs 960 crore, misses estimates The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNWZVNnJETDlVb2d3U2g3d3RmWnE4U3Brd1JSZjg5ZVFsMGEyalF4dGtiaHdCVDFBVmRteDI5V1gtTm5Qbmtid3VRREtDSUlqRVplVk5JWGtFdUpTTVNzeVZwRFB6MDhGV2ZJcWNFWkpzM3g2Q243Ym5vLVNFckxYTTNlNjRZX3dLVGpiTzdjRlN1N3liRWc0aS0ycktmSm5PQ2hUd1BWQnc2SERaZ3pHUjFUcmdwbmVXaHZ0VWd4YmlxUXJPSE50VVN1YVNmVjQwUVpSQ2U1QVdWZzhocXBmOGY2SzNNWEF1elHSAe8BQVVfeXFMUEFHdDJqdG1icndxYlRaMnFWcW1hWFhLR3NkbXVDMVZCQlM4LUM5cFZGb2R2ZFRUUHhHNExFNmdrbHNLVkg3UnBEUS1NOGo4c1NoMHIxY1hfX0NlYnhkYU9jT0lNZDNOeUdVbkd5ZHFfSkdjODVXTzRabVJidlp5a0lLU0l5VE1MZFptSUNvMTZ3clpVa3lhR19JRTZEblotZ0hEUF9PYVJRR3M1SWpQNm9PUGM5QjladVVNMHV4MTYyMlBJTkRuRUtma0F2d0lqbUZKbTlHWVJncHpjUHRDMjhqeFVzaWVKWXdpNW04TEE?oc=5",
+      "source": "google_news",
+      "published": "Wed, 31 Jul 2024 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.857815+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "3fa1f8280d35f71e",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": 24.0,
+      "company": "SBI",
+      "companies": [
+        "SBI"
+      ],
+      "headline": "SBI Q3 Results: Net profit rises 24% YoY to Rs 21,028 crore, beats Street estimates - Zee Business",
+      "summary": "SBI Q3 Results: Net profit rises 24% YoY to Rs 21,028 crore, beats Street estimates Zee Business",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNThCV0U0akpKMWxKdWdtTUI2X2p1bngtQ3FqMHBxdTM3U0Q2TnJYZG5nOGtndThZQnV3Q0d6TndZdDFNR3g3dmZVd01rbXRZS3NWQ1JpaERpRU9WN19WSW0zMmpPRlpiWktZU0FBYnV1ZmdBektwam5SdzhsdWhVVW1VRThXZWNISzB1WjdHTG9TMG5UZEhKbGVzZjlIMWdzLXJUV1JtMmdfMXZFeWRHdWw0SU1XNDJvN25WS0NVRlh5UXJUMkNBanlsQjg2UQ?oc=5",
+      "source": "google_news",
+      "published": "Sat, 07 Feb 2026 08:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.859299+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "85366e7cfbbfeac2",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "telecom",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": 180.0,
+      "company": "Info Edge",
+      "companies": [
+        "Info Edge"
+      ],
+      "headline": "Info Edge (Naukri) beats estimates with 7.7 times Q4 profit jump, announces 180% dividend; bulls not impressed - Zee Business",
+      "summary": "Info Edge (Naukri) beats estimates with 7.7 times Q4 profit jump, announces 180% dividend; bulls not impressed Zee Business",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXFHd2daSXdoR2hVXzNYWkRITzhMZVUyQ2d5T1FUQ1pHXzlvLXhFNndvTVhfaGFZR0hCdnJMU0pkTTdIRl91b1VoUTBST21CbnNqbnM0Z2x2Tk5rSUZoRktPcU9OemVSVEhoOGFESHQ4NWEyaWg4X0RGNlNwcHZKU3daWV85dGFkVHU3QVRIQzBueFgyOVlFeGJPYjZWNVk0RlFOTS0td2ZXVWJuMFFqb1hlWTE?oc=5",
+      "source": "google_news",
+      "published": "Tue, 27 May 2025 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.860944+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "06155a1b47797a75",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": 9.0,
+      "company": "HDFC Bank",
+      "companies": [
+        "HDFC Bank"
+      ],
+      "headline": "HDFC Bank Q4 Result: Net Profit Increases 9% YoY, NII Up 3.2%; Dividend Declared - Goodreturns",
+      "summary": "HDFC Bank Q4 Result: Net Profit Increases 9% YoY, NII Up 3.2%; Dividend Declared Goodreturns",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGFkbl9neWo3QlBxLXVKTDF6SWpIZk02SnZKS3I5aVdtUHFHOThKME5oS19JczdIbGw1bEVmUi1wbzB0Z2kzLXAxN0h1b0pqc1dNVmdRSGFBN2lRYlVfR24tMGtJQWQ4TUtzbl9DbmdBbmxWR3lYX0UzYlpZUlVEUnlJZFpydEl4RUFRUWZfRmF0d3ptQU5QU3QzRjFDSUloeFhPT3F6SjgtUHR5MEFBenM5NlFEcE9MU2Y5RQ?oc=5",
+      "source": "google_news",
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.862387+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "1852e9d7b9dbc9fc",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": null,
+      "company": "HDFC Bank",
+      "companies": [
+        "HDFC Bank"
+      ],
+      "headline": "HDFC Bank Q1 Earnings Call Highlights - TradingView",
+      "summary": "HDFC Bank Q1 Earnings Call Highlights TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTN3VHRJSXJxNnB0V2oyRVdNdXhQOWVLaUoyRk5CVm5QTzlfR1JlMlNZTmRWdGdlSjV5ZlR4a2ZPMUZSTzZtcXEtVGQxQ0dObG9US0lLVXlPNy1OR2NNRUU4LUF2dWVCV1BoWENyT21wWWFUM3RsZHJCSEo4eFdkOUd2NkZVYTBMOElmdWM5d3pSeXRRUVFWOWp1dndjUQ?oc=5",
+      "source": "google_news",
+      "published": "Sat, 18 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.881851+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "d5ac506a85bb0fd6",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "results_only",
+      "match_score": 1,
+      "pct_in_text": 5.0,
+      "company": "HDFC Bank",
+      "companies": [
+        "HDFC Bank"
+      ],
+      "headline": "HDFC Bank Q1 FY27 Results: PAT Rises 5%, NII Up 7% - Sahi",
+      "summary": "HDFC Bank Q1 FY27 Results: PAT Rises 5%, NII Up 7% Sahi",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1maWhhTGh4SUE0SW9lb0RodFFhdzNLU2FZdnVMRjQwNmZ1ckVkZW5DdUp6NUZzcG5nSE5mNGpqUmhhTWJHa3IzbndLMjRMUG91akJ3SVpGSEltcGdudzRpbndR?oc=5",
+      "source": "google_news",
+      "published": "Sat, 18 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:40.883046+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "42339b2d8f5b073a",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "miss",
+      "match_score": 3,
+      "pct_in_text": 5.0,
+      "company": "HDFC Bank",
+      "companies": [
+        "HDFC Bank"
+      ],
+      "headline": "HDFC Bank Q1 net profit rises 5% to Rs 19,060 crore, misses estimates; NII grows 6.7% - Moneycontrol.com",
+      "summary": "HDFC Bank Q1 net profit rises 5% to Rs 19,060 crore, misses estimates; NII grows 6.7% Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc19DemVjVkVJRWFkV2VvQkRoVnVRdVNaOXRyYlEtUW1LVjhHSnlVdFF6ZlFWS3VYSHEtZ2JGNEFJZXQ4OHEzRC05WUhucDRmZndCdGFZZnV6SXFrWXpGWEwxZnBYOF8ycEVXdUJsRnN2RThfWHpYLWtwbWhvTzdhM3A0VHFFU01ESFcwYmJCeUo1TlowS19zc2xFdktGVUpQNVlob1JrVWgyMHRCT0gzaXNROWFPYTZ6azk0aWxTRWtqaTNnNVBMRzNibXZQbTNnRzR3RGs3ZTg0TEQ5Q2fSAeMBQVVfeXFMTWlSUTNyYlRpc0hKRTRiR2pibFhjbF85Y3VxYW5zNmROZ2p6eG9Gc1AzWjc4U2hRNVBPUm1mS2ZSMGpNeHRub19hUzkxVE5jeTRlOG9QM2lGQko2UHdoUlROa01PWElhaHJLeW96Q2RiTlphVFJ6LWdCVDlvUmlEcHdqaTNhdWJlUHNHbmFyRzBPaVNkSFF4bUsybjg2UGcxWVZMYVJfSjhOSVFQUkhjZEp6eC0yczNEQlFVRmNjU3hIZDhmcm5FZFhteU5BaEdjUHZYQXR3N3hkd3Q4SFZyTTZyVWM?oc=5",
+      "source": "google_news",
+      "published": "Sat, 18 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:41.016051+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "9f601af4749c9479",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "miss",
+      "match_score": 3,
+      "pct_in_text": 4.0,
+      "company": "HDFC Bank",
+      "companies": [
+        "HDFC Bank"
+      ],
+      "headline": "HDFC Bank shares crash over 4% after Q1 results miss estimates, despite brokerages maintaining bullish... - Moneycontrol.com",
+      "summary": "HDFC Bank shares crash over 4% after Q1 results miss estimates, despite brokerages maintaining bullish... Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbk1uSENCdjZQMVRmLVJfUzU5bHlKbDhVOFdCeExISDJrOU1IOFZXMDU1bXVZbWpwRUVlOEpSZ2g2WWRmY3FTdWlBbXFUNjdPYm1UdnRnUkxNNV9vcnNNMjc4bjd0cXE0MDJkeWdldjZoQ0dHbThZT25Bazkyb0hfMDN4Y0ducjlMRGtmT05nODRxZ2p3ZmUwemJXYUl3bWgycnJKRlJyY1ZoaDdHbkZFX0J2SHYwcEVIVWJyNnN2dTl6dmltZEg2T2JiVGpWckxLVnM0WElJdXAyMGliaEVKLXJueVhUYXBKck1nRHZIbkE1U0RHU0hWc2JNM211QzRz0gGGAkFVX3lxTFBUSjVPMUk3di1rZlozOWpFa2MyN19lTWVtNWFyYTFJRnBXMVpyV3FqMHRocG9yWVRKS3A0ZmFITzJSN3U1akh2TTY1MDlTYU9xZlJJZ1pzUEJHYmEzdGM4N2cxZGltcGlNQi1pamp5ZXFGY25XVWRrR056SFlfa2I2a3NFemlZVTFHUm1vZExjRld0Tndyb2ZzUmZfMFhnei1jLVlocTZRdUhDUGlYUy1yYkhGR21kWVlIYVJ0SmIwbjFlS1ZfTWdHaWlySTQxQ19zRm84Rk50ejExczhIMm5GcE1uRjhOaTZOY2VPak1JQlI4SktjaFZpd2xUU1Y0cWsxdnpLbWc?oc=5",
+      "source": "google_news",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:41.025466+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "5cbf0fa23550651a",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "beat",
+      "match_score": 3,
+      "pct_in_text": null,
+      "company": "HDFC Bank",
+      "companies": [
+        "HDFC Bank"
+      ],
+      "headline": "HDFC Bank stock call: Brokerages bullish after Q4 net profit beats Street despite soft core income; see... - Moneycontrol.com",
+      "summary": "HDFC Bank stock call: Brokerages bullish after Q4 net profit beats Street despite soft core income; see... Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORF8zeFdGZlNjUTBQNDZTN2EyUG1vZWJwWm1GdGNrbXEydVpIdWQ3WFhkNnAzUk5XMExNak04aWtEUWtPQVVIMUFxdld0emtXbkxkMW1SeFZZSEZnODQtSjdNNW9sMnBncHY4UkRCaUVZT09uVXhrWFd4blJnbmtzRG1hMGJQZnF5MFNaQWgwZlZDQTEybTBLaVZTXzRGSnVQWVQxMDZ3elBCU1pPNWFBRHBJc05veWFaV2g5ek5fNDJfWUI4UTJUeFI3bEU2LU52NE1qTVBRVEU3dnVtV1l0YWE2XzRMRVJIRDFCVEc3UGowTHhZM0Z5ZlNiWHlSZlVtVE5tY3NBUWlkQWd5cHfSAZMCQVVfeXFMTjYwTUQzVW1TY2RZTmg1czVnZU1OYVJJaXE3dHk0eFk2bnhGTkRJXzVmb2RqSXEyRE9xRUZZV1ozZEItX3YyVVRWNncyWVBCazYtTWJZRGVLbVMxUmc4WU5Uc0M3cjBOMFFycnpuMWVOcHFVWE5vSjNfT3B1NVhLNFFQNERiQXFDbjF1Rm5Qa05yTDlTNWRodFJtS1Z5cmZfS184QW81M1dQblZJbHRfX21KbXZpSjh0TGxuMWRQMXAwWWxLdEZSWXk1ZktPckdYYmtiTjlwNGRkcUlOSlF3QlFCbmJCRW1HUmoyUnlFdUZOZVpqdy1ocEdBRFJHV3dsWUhyU0xvQUR6U3hLa25pOHJZSlE?oc=5",
+      "source": "google_news",
+      "published": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:41.307404+00:00",
+      "status": "completed"
+    },
+    {
+      "id": "be3ae46d30e964ac",
+      "agent_name": "earnings_surprise_agent",
+      "sector": "banking",
+      "surprise": "miss",
+      "match_score": 3,
+      "pct_in_text": 4.0,
+      "company": "HDFC Bank",
+      "companies": [
+        "HDFC Bank"
+      ],
+      "headline": "HDFC Bank shares crash over 4% after Q1 results miss estimates, despite brokerages maintaining bullish calls - TradingView",
+      "summary": "HDFC Bank shares crash over 4% after Q1 results miss estimates, despite brokerages maintaining bullish calls TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb2E2dHRIWDdLVEZfemhKdzk3TDNRcmJZUEhuaVJNTzNWWFdCVDdyRWVVSFl5ZkZlZUdGSWRGUzlYdmVOcnlqMWlFNFpjbS1wQnRLU3JFODdXZU1SX25wVHFiZS1LOHpvbWtSUmh0RGMtREZGZlZ0YVFKNUk3VTM1dTlFZVRNYll0U0tFSkJCeEk0UjV1cGd2Y3RzTkRYdUR6c25SZG1Iam9xX2RxM1lvdWNnRDFNZmtUMy1IMVJiTWNGa0paaUlqSl9xcmktbGZ6V3E3VEsxTzViQnJmbXZPM1RkVE1zUHFRZmRlclFYSzVWYlNvTjJiQm1hS2JIZw?oc=5",
+      "source": "google_news",
+      "published": "Sun, 19 Jul 2026 07:00:00 GMT",
+      "timestamp": "2026-08-22T22:08:41.320826+00:00",
+      "status": "completed"
+    }
+  ]
+}
